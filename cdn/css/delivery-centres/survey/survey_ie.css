@@ -1,0 +1,14 @@
+#delivery-centres_survey .hero {
+  padding: 24px 0;
+  margin-bottom: 24px;
+}
+
+#delivery-centres_survey .hero .title span {
+  display: block;
+}
+
+#delivery-centres_survey .hero .icon {
+  display: block;
+  height: 60px;
+  float: right;
+}

@@ -1,0 +1,297 @@
+#fiat_tipo .hero {
+  background-image: url("/cdn/images/fiat/tipo/tipo-header-desktop.jpg");
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 450px;
+}
+
+#fiat_tipo .hero {
+  height: 485px;
+}
+
+#fiat_tipo .tipo_panel__content__buttons {
+  text-align: left;
+}
+
+#fiat_tipo .tipo_panel__content__buttons a {
+  width: auto;
+}
+
+#fiat_tipo .tipo_panel__content__buttons {
+  min-width: 385px;
+}
+
+#fiat_tipo .tipo_panel-mobile-img {
+  display: none;
+}
+
+#fiat_tipo .half-r0 {
+  min-height: 345px;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("/cdn/images/fiat/tipo/design-med.jpg");
+}
+
+#fiat_tipo .half-r0 {
+  min-height: 383px;
+  background-image: url("/cdn/images/fiat/tipo/design-large.jpg");
+}
+
+#fiat_tipo .half-r0__image__mobile {
+  margin-left: 0;
+}
+
+#fiat_tipo .half-r0__image__mobile {
+  display: none;
+}
+
+#fiat_tipo .half-r0__left {
+  width: 50%;
+  min-height: 200px;
+  display: block;
+  float: left;
+  margin-top: 75px;
+}
+
+#fiat_tipo .half-r0__right {
+  width: 50%;
+  min-height: 200px;
+  display: block;
+  float: left;
+  padding-left: 28px;
+  margin-top: 67px;
+}
+
+#fiat_tipo .half-r0__right {
+  margin-top: 90px;
+}
+
+#fiat_tipo .half-r0-text {
+  max-width: 400px;
+}
+
+#fiat_tipo .half-r0-text {
+  max-width: 525px;
+}
+
+#fiat_tipo .r0-image {
+  display: none;
+}
+
+#fiat_tipo .half-r1 {
+  min-height: 345px;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("/cdn/images/fiat/tipo/classic-med.jpg");
+}
+
+#fiat_tipo .half-r1 {
+  min-height: 383px;
+  background-image: url("/cdn/images/fiat/tipo/classic-large.jpg");
+}
+
+#fiat_tipo .half-r1__left {
+  width: 50%;
+  min-height: 200px;
+  display: block;
+  float: left;
+  margin-top: 50px;
+}
+
+#fiat_tipo .half-r1__left {
+  margin-top: 90px;
+}
+
+#fiat_tipo .half-r1__right {
+  width: 50%;
+  min-height: 200px;
+  display: block;
+  float: left;
+}
+
+#fiat_tipo .half-r1-text {
+  max-width: 400px;
+}
+
+#fiat_tipo .half-r1-text {
+  max-width: 525px;
+}
+
+#fiat_tipo .r1-image {
+  display: none;
+}
+
+#fiat_tipo .half-r2 {
+  min-height: 345px;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("/cdn/images/fiat/tipo/engine-med.jpg");
+}
+
+#fiat_tipo .half-r2 {
+  min-height: 383px;
+  background-image: url("/cdn/images/fiat/tipo/engine-large.jpg");
+}
+
+#fiat_tipo .half-r2__image__mobile {
+  margin-left: 0;
+}
+
+#fiat_tipo .half-r2__image__mobile {
+  display: none;
+}
+
+#fiat_tipo .half-r2__left {
+  width: 50%;
+  min-height: 200px;
+  display: block;
+  float: left;
+  margin-top: 75px;
+}
+
+#fiat_tipo .half-r2__right {
+  width: 50%;
+  min-height: 200px;
+  display: block;
+  float: left;
+  padding-left: 28px;
+  margin-top: 28px;
+}
+
+#fiat_tipo .half-r2__right {
+  margin-top: 65px;
+}
+
+#fiat_tipo .half-r2-text {
+  max-width: 400px;
+}
+
+#fiat_tipo .half-r2-text {
+  max-width: 525px;
+}
+
+#fiat_tipo .r2-image {
+  display: none;
+}
+
+#fiat_tipo .half-r3 {
+  min-height: 345px;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("/cdn/images/fiat/tipo/tech-med.jpg");
+}
+
+#fiat_tipo .half-r3 {
+  min-height: 383px;
+  background-image: url("/cdn/images/fiat/tipo/tech-large.jpg");
+}
+
+#fiat_tipo .half-r3__image__mobile {
+  margin-left: 0;
+}
+
+#fiat_tipo .half-r3__image__mobile {
+  display: none;
+}
+
+#fiat_tipo .half-r3__left {
+  width: 50%;
+  min-height: 200px;
+  display: block;
+  float: left;
+  margin-top: 50px;
+}
+
+#fiat_tipo .half-r3__left {
+  margin-top: 75px;
+}
+
+#fiat_tipo .half-r3__right {
+  width: 50%;
+  min-height: 200px;
+  display: block;
+  float: left;
+  padding-left: 28px;
+  margin-top: 75px;
+}
+
+#fiat_tipo .half-r3-text {
+  max-width: 400px;
+}
+
+#fiat_tipo .half-r3-text {
+  max-width: 525px;
+}
+
+#fiat_tipo .r3-image {
+  display: none;
+}
+
+#fiat_tipo .half-r4 {
+  min-height: 345px;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("/cdn/images/fiat/tipo/trim-med.jpg");
+}
+
+#fiat_tipo .half-r4 {
+  min-height: 383px;
+  background-image: url("/cdn/images/fiat/tipo/trim-large.jpg");
+}
+
+#fiat_tipo .half-r4__image__mobile {
+  margin-left: 0;
+}
+
+#fiat_tipo .half-r4__image__mobile {
+  display: none;
+}
+
+#fiat_tipo .half-r4__left {
+  width: 50%;
+  min-height: 200px;
+  display: block;
+  float: left;
+  margin-top: 75px;
+}
+
+#fiat_tipo .half-r4__right {
+  width: 50%;
+  min-height: 200px;
+  display: block;
+  float: left;
+  padding-left: 28px;
+  margin-top: 40px;
+}
+
+#fiat_tipo .half-r4__right {
+  margin-top: 75px;
+}
+
+#fiat_tipo .half-r4-text {
+  max-width: 400px;
+}
+
+#fiat_tipo .half-r4-text {
+  max-width: 525px;
+}
+
+#fiat_tipo .r4-image {
+  display: none;
+}

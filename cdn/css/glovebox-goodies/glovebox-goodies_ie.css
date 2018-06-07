@@ -1,0 +1,95 @@
+#glovebox-goodies p {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+#glovebox-goodies {
+  text-align: center;
+}
+
+#glovebox-goodies .section {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+#glovebox-goodies .section--hero h1 {
+  font-size: 90px;
+  line-height: 100px;
+}
+
+#glovebox-goodies .section--hero h1 {
+  font-size: 120px;
+  line-height: 130px;
+}
+
+#glovebox-goodies .section--hero h2 {
+  font-size: 30px;
+}
+
+#glovebox-goodies .section--hero p {
+  margin: 0 auto;
+}
+
+#glovebox-goodies .section--hero .ch-btn {
+  margin-top: 12px;
+}
+
+#glovebox-goodies .section--gifts {
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+
+#glovebox-goodies .section--gifts:before {
+  top: -150px;
+}
+
+#glovebox-goodies .section--gifts:after {
+  bottom: -140px;
+}
+
+#glovebox-goodies .section--gifts .gifts {
+  margin-top: 0;
+}
+
+#glovebox-goodies .section--gifts .gifts--item::before {
+  position: relative;
+  margin: 0 auto;
+  width: 90%;
+  padding-bottom: 100%;
+}
+
+#glovebox-goodies .section--gifts .gifts--item--text {
+  padding: 0;
+  padding-top: 0;
+}
+
+#glovebox-goodies .section--gifts .gifts--item--text h3 {
+  margin-bottom: 12px;
+}
+
+#glovebox-goodies .section--steps .steps li {
+  border-right: 2px solid #e5e5e5;
+}
+
+#glovebox-goodies .section--steps .steps li:last-child {
+  border-right: none;
+}
+
+#glovebox-goodies .section--steps .steps li:before {
+  margin: 0 auto;
+  margin-bottom: 12px;
+  float: none;
+}
+
+#glovebox-goodies .section--steps .steps--text {
+  width: 80%;
+}
+
+#glovebox-goodies .section--steps .steps--text {
+  width: auto;
+  float: none;
+}
+
+#glovebox-goodies .section--steps .steps--text h3 {
+  font-size: 20px;
+}

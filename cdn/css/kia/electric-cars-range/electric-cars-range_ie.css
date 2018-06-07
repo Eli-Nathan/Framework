@@ -1,0 +1,134 @@
+#mc-more-from .more-box:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#mc-more-from .more-box__content {
+  padding: 15px 17.5px;
+}
+
+#kia_hybrid-ev .ch-btn {
+  width: auto;
+  text-align: justify;
+}
+
+#kia_hybrid-ev .hero {
+  display: block;
+}
+
+#kia_hybrid-ev .hero__video {
+  display: block;
+  background-position: 50% 55%;
+  -webkit-background-size: auto 50%;
+  background-size: auto 50%;
+}
+
+#kia_hybrid-ev .hero__video video {
+  display: block;
+}
+
+#kia_hybrid-ev .hero__content__title {
+  font-size: 56px;
+}
+
+#kia_hybrid-ev .hero-mobile {
+  background-image: url("/cdn/images/kia/electric-cars-range/hero-tablet.jpg");
+}
+
+#kia_hybrid-ev .hero-mobile {
+  display: none;
+}
+
+#kia_hybrid-ev .hero-mobile h1 {
+  font-size: 44px;
+}
+
+#kia_hybrid-ev .hero-mobile h3 {
+  font-size: 28px;
+}
+
+#kia_hybrid-ev .find h2 {
+  padding: 21px;
+}
+
+#kia_hybrid-ev .find img {
+  max-width: none;
+}
+
+#kia_hybrid-ev .panel {
+  height: 300px;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#kia_hybrid-ev .panel-hybrid {
+  background-image: url("/cdn/images/kia/electric-cars-range/hybrid-panel.jpg");
+}
+
+#kia_hybrid-ev .panel-plugin {
+  background-image: url("/cdn/images/kia/electric-cars-range/plugin-panel.jpg");
+}
+
+#kia_hybrid-ev .panel-ev {
+  background-image: url("/cdn/images/kia/electric-cars-range/ev-panel.jpg");
+}
+
+#kia_hybrid-ev .panel {
+  height: 350px;
+  -webkit-background-size: auto auto;
+  background-size: auto;
+}
+
+#kia_hybrid-ev .panel img {
+  display: none;
+}
+
+#kia_hybrid-ev .info {
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+
+#kia_hybrid-ev .info h3 {
+  font-size: 26px;
+}
+
+#kia_hybrid-ev .info-hybrid-buttons .ch-btn--secondary {
+  margin-top: 0;
+  margin-left: 5px;
+}
+
+#kia_hybrid-ev .icons {
+  text-align: left;
+}
+
+#kia_hybrid-ev .icons {
+  text-align: center;
+}
+
+#kia_hybrid-ev .icons-box {
+  padding-bottom: 40px;
+}
+
+#kia_hybrid-ev .icons svg {
+  margin-top: 28px;
+  float: right;
+  margin: 0;
+}
+
+#kia_hybrid-ev .icons svg {
+  float: none;
+  margin-bottom: 3px;
+}
+
+#kia_hybrid-ev .icons p {
+  max-width: 500px;
+  margin-left: 0;
+}
+
+#kia_hybrid-ev .icons p {
+  margin: 0 auto;
+  max-width: 300px;
+}

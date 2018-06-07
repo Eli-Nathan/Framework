@@ -1,0 +1,146 @@
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+.ch-hero {
+  padding: 24px 0;
+}
+
+.careers-footer__dcc {
+  height: 50px;
+}
+
+.careers-footer__dcc {
+  height: 60px;
+}
+
+.careers-footer__sdc {
+  height: 50px;
+}
+
+.careers-footer__sdc {
+  height: 60px;
+}
+
+.careers-footer__httfw {
+  height: 50px;
+}
+
+.careers-footer__httfw {
+  height: 60px;
+}
+
+#service-advisor .section {
+  padding: 40px 0;
+}
+
+#service-advisor .advisor-hero {
+  padding: 42px 0;
+}
+
+#service-advisor .advisor-hero:before {
+  background: url("/cdn/images/careers/pages/service-advisor/sales-hero.png") no-repeat right bottom;
+  -webkit-background-size: 40% 40%;
+  background-size: 40%;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 100%;
+  margin-right: -385px;
+  position: absolute;
+  right: 50%;
+  width: 100%;
+}
+
+#service-advisor .advisor-hero:before {
+  -webkit-background-size: 50% 50%;
+  background-size: 50%;
+  margin-right: 0;
+  background-position: right bottom;
+}
+
+#service-advisor .advisor-hero:before {
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  background-position: right top;
+  margin-right: 0;
+}
+
+#service-advisor .advisor-hero .ch-hero__content__heading {
+  font-size: 44px;
+  line-height: 54px;
+  margin-bottom: 24px;
+}
+
+#service-advisor .advisor-duties {
+  padding: 36px 0;
+}
+
+#service-advisor .ch-card__content {
+  min-height: 150px;
+}
+
+#service-advisor .ch-card__content {
+  min-height: 170px;
+}
+
+#service-advisor .advisor-benefits {
+  padding: 42px 0;
+}
+
+#service-advisor .advisor-benefits--list-item {
+  border-bottom: 0 none transparent;
+  font-size: 16px;
+  min-height: 125px;
+  padding: 0;
+}
+
+#service-advisor .advisor-benefits--list-item:before {
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  height: 125px;
+  width: 125px;
+}

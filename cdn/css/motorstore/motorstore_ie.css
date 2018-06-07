@@ -1,0 +1,432 @@
+#mc-representative-example .rep-example__body td,
+#mc-representative-example .rep-example__body th,
+#mc-representative-example .rep-example__body tr {
+  text-align: center;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 33.333%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--interest {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 14.28%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 20%;
+}
+
+#blks {
+  max-width: 734px;
+}
+
+#blks {
+  overflow-x: auto;
+  max-width: 954px;
+}
+
+#blks {
+  max-width: 1154px;
+}
+
+#blks .blks__scrollable {
+  width: auto;
+  min-height: 442px;
+}
+
+#blks .blks__scrollable {
+  min-height: 342px;
+}
+
+#blks .blks__column {
+  width: 50%;
+}
+
+#blks .blks__column {
+  width: 25%;
+}
+
+#blks .blks--two {
+  width: 100%;
+}
+
+#blks .blks--two {
+  width: 954px;
+  min-height: 196px;
+}
+
+#blks .blks--two {
+  width: 1154px;
+}
+
+#blks .blks--two .blks__column {
+  width: 50%;
+}
+
+#blks .blks--two .blk__details {
+  float: left;
+  padding-left: 14px;
+  width: 69.5%;
+  text-align: left;
+}
+
+#blks .blks--two .blk__img {
+  float: left;
+  width: 30.5%;
+  height: auto;
+  margin: 0;
+}
+
+#blks .blks--two .blk__model,
+#blks .blks--two .blk__variant {
+  text-align: left;
+  min-height: auto;
+}
+
+#blks .blk {
+  text-align: left;
+  margin-bottom: 28px;
+}
+
+#blks .blk {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#blks .blk__details {
+  float: left;
+  width: 69.5%;
+  padding-left: 14px;
+}
+
+#blks .blk__details {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+
+#blks .blk__details__btn {
+  float: right;
+}
+
+#blks .blk__details__btn {
+  float: none;
+}
+
+#blks .blk__model {
+  min-height: auto;
+}
+
+#blks .blk__model {
+  min-height: 50px;
+}
+
+#blks .blk__img {
+  margin-bottom: 0;
+  height: auto;
+  float: left;
+  width: 30.5%;
+}
+
+#blks .blk__img {
+  margin-bottom: 6px;
+  height: 110px;
+  float: none;
+  width: auto;
+}
+
+#mc-more-from .more-box:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#mc-more-from .more-box__content {
+  padding: 15px 17.5px;
+}
+
+#motorstore .deals {
+  padding: 28px 0;
+}
+
+#motorstore .deals__title {
+  margin-bottom: 28px;
+}
+
+#motorstore .ch-btn {
+  width: auto;
+}
+
+#motorstore .motorstore-hero {
+  -webkit-background-size: auto auto !important;
+  background-size: auto !important;
+}
+
+#motorstore .motorstore-hero__wrapper {
+  background: transparent !important;
+}
+
+#motorstore .motorstore-hero__mobile-img {
+  display: none;
+}
+
+#motorstore .motorstore-hero__content {
+  padding: 24px 0;
+}
+
+#motorstore .motorstore-hero__content {
+  padding: 18px 0 0;
+  width: 50%;
+}
+
+#motorstore .motorstore-hero .motorstore-search {
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+
+#motorstore .motorstore-hero .motorstore-search {
+  margin-top: 50px;
+}
+
+#motorstore .motorstore-hero label {
+  font-size: 18px;
+}
+
+#motorstore .motorstore-hero input,
+#motorstore .motorstore-hero select {
+  margin-bottom: 0;
+}
+
+#motorstore .motorstore-hero .ch-list--tick li {
+  font-size: 14px;
+  width: 50%;
+  display: inline-block;
+  float: left;
+}
+
+#motorstore .motorstore-hero .vertical-rule {
+  position: absolute;
+  left: 50%;
+  top: 20px;
+  padding-bottom: 90px;
+  width: 1px;
+  display: inline-block;
+  background-color: #444444;
+}
+
+#motorstore .motorstore-promo {
+  height: 350px;
+}
+
+#motorstore .motorstore-promo__wrapper {
+  background: transparent !important;
+}
+
+#motorstore .motorstore-promo__mobile-img {
+  display: none;
+}
+
+#motorstore .motorstore-promo__content {
+  margin-top: 15%;
+}
+
+#motorstore .motorstore-promo__title {
+  font-size: 35px;
+}
+
+#motorstore .range-ctas .ch-btn {
+  margin: 0 2px 10px;
+  width: auto;
+}
+
+#motorstore .range-ctas .ch-btn {
+  margin: 0 5px 10px;
+}
+
+#motorstore .featured-deal {
+  height: 350px;
+}
+
+#motorstore .featured-deal__mobile-image {
+  display: none;
+}
+
+#motorstore .featured-deal__background {
+  background-color: transparent !important;
+}
+
+#motorstore .featured-deal__content {
+  padding: 30px;
+}
+
+#motorstore .featured-deal__finance {
+  max-width: 250px;
+}
+
+#motorstore .featured-deal__btn {
+  margin-top: 40px;
+}
+
+#motorstore .featured-deal__btn a {
+  width: auto;
+}
+
+#motorstore .standout-section__background {
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 470px;
+}
+
+#motorstore .standout-section__background {
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  height: 380px;
+}
+
+#motorstore .standout-section__background {
+  height: 340px;
+}
+
+#motorstore .standout-section__mobile-image {
+  display: none;
+}
+
+#motorstore .standout-section__content {
+  padding: 30px 0 30px 30px;
+}
+
+#motorstore .standout-section__content .ch-btn {
+  margin: 0 10px 20px 0;
+}
+
+#motorstore .standout-section__content .ch-btn {
+  width: auto;
+}
+
+#motorstore .standout-section__alt .standout-section__content {
+  padding: 30px 30px 30px 0;
+}
+
+#motorstore .list-branches {
+  margin-bottom: 0;
+}

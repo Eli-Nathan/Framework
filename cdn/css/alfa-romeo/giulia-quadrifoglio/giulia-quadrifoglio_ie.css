@@ -1,0 +1,182 @@
+.ch-btn {
+  width: auto;
+  text-align: justify;
+  margin-top: 0;
+}
+
+.video__button {
+  height: 40%;
+  top: 30%;
+}
+
+#quad .giulia-selectors-giulia span {
+  font-size: 34px;
+}
+
+#quad .giulia-selectors-quad span {
+  font-size: 34px;
+}
+
+#quad iframe {
+  height: 300px;
+}
+
+#quad iframe {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: 320px;
+}
+
+#quad iframe {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  height: 420px;
+}
+
+#quad iframe {
+  height: 500px;
+}
+
+#quad .quad-hero {
+  background-image: url("/cdn/images/alfa-romeo/giulia/quad-hero.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  height: 400px;
+}
+
+#quad .quad-hero img {
+  display: none;
+}
+
+#quad .quad-intro {
+  padding: 21px;
+}
+
+#quad .quad-intro {
+  padding: 28px;
+}
+
+#quad .quad-designed {
+  padding: 21px;
+}
+
+#quad .quad-designed {
+  padding: 28px;
+}
+
+#quad .quad-designed p {
+  padding-bottom: 0;
+}
+
+#quad .giulia-frame-cover {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#quad .giulia-frame-cover {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+#quad iframe {
+  height: 300px;
+}
+
+#quad iframe {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: 320px;
+}
+
+#quad iframe {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  height: 420px;
+}
+
+#quad iframe {
+  height: 500px;
+}
+
+#quad .quad-interior {
+  background-image: url("/cdn/images/alfa-romeo/giulia/quad-interior-panel.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 330px;
+}
+
+#quad .quad-interior img {
+  display: none;
+}
+
+#quad .quad-interior-text {
+  margin-top: 28px;
+}
+
+#quad .quad-interior-text {
+  margin-top: 40px;
+}
+
+#quad .quad-interior-text {
+  margin-top: 55px;
+}
+
+#quad .quad-images {
+  overflow: visible;
+  white-space: normal;
+}
+
+#quad .quad-images img {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#quad .quad-images img {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+#quad .quad-images-mobile {
+  display: none;
+}
+
+#quad .quad-images-desktop {
+  display: block;
+}
+
+#quad .quad-slide {
+  margin-top: 0;
+}
+
+#quad .quad-slide {
+  background-image: url("/cdn/images/alfa-romeo/giulia/quad-slide-panel.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 330px;
+}
+
+#quad .quad-slide img {
+  display: none;
+}
+
+#quad .quad-slide-text {
+  margin-top: 28px;
+}
+
+#quad .quad-slide-text {
+  margin-top: 40px;
+}
+
+#quad .quad-slide-text {
+  margin-top: 65px;
+}
+
+#quad .quad-iframe-cover {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#quad .quad-iframe-cover {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}

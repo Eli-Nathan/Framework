@@ -1,0 +1,176 @@
+#blks {
+  max-width: 734px;
+}
+
+#blks {
+  overflow-x: auto;
+  max-width: 954px;
+}
+
+#blks {
+  max-width: 1154px;
+}
+
+#blks .blks__scrollable {
+  width: auto;
+  min-height: 442px;
+}
+
+#blks .blks__scrollable {
+  min-height: 342px;
+}
+
+#blks .blks__column {
+  width: 50%;
+}
+
+#blks .blks__column {
+  width: 25%;
+}
+
+#blks .blks--two {
+  width: 100%;
+}
+
+#blks .blks--two {
+  width: 954px;
+  min-height: 196px;
+}
+
+#blks .blks--two {
+  width: 1154px;
+}
+
+#blks .blks--two .blks__column {
+  width: 50%;
+}
+
+#blks .blks--two .blk__details {
+  float: left;
+  padding-left: 14px;
+  width: 69.5%;
+  text-align: left;
+}
+
+#blks .blks--two .blk__img {
+  float: left;
+  width: 30.5%;
+  height: auto;
+  margin: 0;
+}
+
+#blks .blks--two .blk__model,
+#blks .blks--two .blk__variant {
+  text-align: left;
+  min-height: auto;
+}
+
+#blks .blk {
+  text-align: left;
+  margin-bottom: 28px;
+}
+
+#blks .blk {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#blks .blk__details {
+  float: left;
+  width: 69.5%;
+  padding-left: 14px;
+}
+
+#blks .blk__details {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+
+#blks .blk__details__btn {
+  float: right;
+}
+
+#blks .blk__details__btn {
+  float: none;
+}
+
+#blks .blk__model {
+  min-height: auto;
+}
+
+#blks .blk__model {
+  min-height: 50px;
+}
+
+#blks .blk__img {
+  margin-bottom: 0;
+  height: auto;
+  float: left;
+  width: 30.5%;
+}
+
+#blks .blk__img {
+  margin-bottom: 6px;
+  height: 110px;
+  float: none;
+  width: auto;
+}
+
+.rep__figure {
+  min-width: 25%;
+}
+
+.rep__figure {
+  min-width: 12.5%;
+}
+
+#bmw-approved-used-car-event .section {
+  padding: 24px 0;
+}
+
+#bmw-approved-used-car-event .section--img-mobile {
+  display: none;
+}
+
+#bmw-approved-used-car-event .section__hero {
+  background-image: url("/cdn/images/bmw/approved-used-car-event/hero--desktop.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#bmw-approved-used-car-event .section__hero__content {
+  background-color: rgba(0,0,0,0.7);
+  padding: 78px 28px 78px 1008px;
+  margin-left: -1000px;
+}
+
+#bmw-approved-used-car-event .section__hero__content--heading {
+  font-size: 36px;
+}
+
+#bmw-approved-used-car-event .section__hero__content--heading span {
+  display: block;
+}
+
+#bmw-approved-used-car-event .section__hero__content .ch-btn:first-of-type {
+  margin-bottom: 12px;
+}
+
+#bmw-approved-used-car-event .section__hero__content .ch-btn:first-of-type {
+  margin-bottom: 0;
+}
+
+#bmw-approved-used-car-event .section__deals__cta {
+  margin-top: 12px;
+}
+
+#bmw-approved-used-car-event .section__branches__title {
+  margin-bottom: 24px;
+}
+
+#bmw-approved-used-car-event .section__branches__link__img {
+  display: block;
+}

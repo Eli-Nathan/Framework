@@ -1,0 +1,187 @@
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#value-servicing .section {
+  padding: 30px 0;
+}
+
+#value-servicing .hero {
+  padding: 24px 0 30px;
+  -webkit-background-size: 60% 60%;
+  background-size: 60%;
+}
+
+#value-servicing .hero {
+  background-image: url("/cdn/images/servicing/value/value-hero-desktop.jpg");
+  background-position: center top;
+  -webkit-background-size: auto auto;
+  background-size: auto;
+}
+
+#value-servicing .hero {
+  padding: 36px 0 42px;
+  background-position: 80% top;
+}
+
+#value-servicing .hero__title {
+  font-size: 42px;
+  margin-top: 6px;
+}
+
+#value-servicing .hero__title {
+  margin-bottom: 24px;
+}
+
+#value-servicing .hero__title br {
+  display: none;
+}
+
+#value-servicing .hero__icon {
+  margin-top: 0;
+}
+
+#value-servicing .hero__icon {
+  width: 150px;
+}
+
+#value-servicing .hero__icon {
+  width: 120px;
+}
+
+#value-servicing .hero__body {
+  margin-bottom: 24px;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+#value-servicing .hero__body {
+  margin-bottom: 30px;
+}
+
+#value-servicing .hero__body br {
+  display: block;
+}
+
+#value-servicing .hero__pricing {
+  border-bottom: 1px solid #fff;
+}
+
+#value-servicing .hero__pricing__item {
+  display: inline-block;
+}
+
+#value-servicing .hero__pricing__item:first-of-type {
+  margin-right: 49px;
+}
+
+#value-servicing .hero__btn {
+  margin-top: 18px;
+  width: 200px;
+}
+
+#value-servicing .hero__btn {
+  margin-top: 30px;
+}
+
+#value-servicing .hero__btn {
+  margin-top: 36px;
+}
+
+#value-servicing .intro .ch-card {
+  margin-top: 24px;
+}
+
+#value-servicing .intro .ch-card__content {
+  padding: 30px 35px;
+}
+
+#value-servicing .intro__list {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+  -webkit-column-gap: 28px;
+  -moz-column-gap: 28px;
+  column-gap: 28px;
+}
+
+#value-servicing .cta__title {
+  display: inline-block;
+  margin-top: 12px;
+}
+
+#value-servicing .cta__btn {
+  float: right;
+}
+
+#value-servicing .standout__slab {
+  padding: 30px 35px;
+}
+
+#value-servicing .standout__slab__icon {
+  display: block;
+  width: 100%;
+}
+
+#value-servicing .standout__slab__icon {
+  width: 100px;
+}
+
+#value-servicing .standout__slab__body {
+  margin-bottom: 0;
+}
+
+#value-servicing .standout__slab__btn {
+  margin-top: 6px;
+}
+
+#value-servicing .standout__slab__btn {
+  margin-top: 36px;
+}
+
+#value-servicing .standout__slab__btn {
+  float: right;
+}

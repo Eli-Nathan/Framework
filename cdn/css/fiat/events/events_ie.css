@@ -1,0 +1,10 @@
+#event__on .hero {
+  background-image: url("/cdn/images/fiat/events/header.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 240px;
+}
+
+#event__on .hero__mobile-image {
+  display: none;
+}

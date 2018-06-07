@@ -1,0 +1,55 @@
+.lg-outer .lg-thumb-item {
+  -webkit-transition: border-color 0.25s ease;
+  -o-transition: border-color 0.25s ease;
+  transition: border-color 0.25s ease;
+}
+
+#toyota_ch-r .hero__video {
+  display: block;
+  background-position: 50% 55%;
+  -webkit-background-size: auto 50%;
+  background-size: auto 50%;
+}
+
+#toyota_ch-r .hero__content__title {
+  font-size: 56px;
+}
+
+#toyota_ch-r .section__mobile-img {
+  display: none;
+}
+
+#toyota_ch-r .section__content {
+  padding: 56px 0;
+}
+
+#toyota_ch-r .section--convention {
+  background-image: url("/cdn/images/toyota/c-hr/convention-desktop.jpg");
+}
+
+#toyota_ch-r .section--moving {
+  background-image: url("/cdn/images/toyota/c-hr/moving-desktop.jpg");
+}
+
+#toyota_ch-r .section--design {
+  background-image: url("/cdn/images/toyota/c-hr/design-desktop.jpg");
+}
+
+#toyota_ch-r .section--ending {
+  background: rgba(0,0,0,0.5);
+}
+
+#toyota_ch-r .section--interior {
+  background-position: top center;
+  min-height: 750px;
+  display: block;
+  background-image: url("/cdn/images/toyota/c-hr/interior-desktop.jpg");
+}
+
+#toyota_ch-r .gallery {
+  margin-top: 46px;
+}
+
+#toyota_ch-r .gallery__img {
+  margin: 14px 0;
+}

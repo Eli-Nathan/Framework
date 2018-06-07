@@ -1,0 +1,25 @@
+#real-sale-off .hero {
+  padding: 60px 0 0;
+  height: 80vh;
+  text-align: center;
+}
+
+#real-sale-off .hero {
+  padding: 78px 0 0;
+}
+
+#real-sale-off .hero img {
+  height: 180px;
+  margin: 0 auto;
+  right: auto;
+  position: relative;
+}
+
+#real-sale-off .hero__heading span {
+  display: inline;
+}
+
+#real-sale-off .hero__heading {
+  font-size: 42px;
+  line-height: 42px;
+}

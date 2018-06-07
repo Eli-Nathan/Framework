@@ -1,0 +1,42 @@
+#five-day-giveaway .five-day-giveaway-panel {
+  background-image: url("/cdn/images/shared/5-day-giveaway/5-day-panel-background.png");
+  background-position: -webkit-calc(50% - -190px) 50%;
+  background-position: calc(50% - -190px) 50%;
+  text-align: left;
+}
+
+#five-day-giveaway .five-day-giveaway-panel {
+  background-position: -webkit-calc(50% - -80px) 50%;
+  background-position: calc(50% - -80px) 50%;
+}
+
+#five-day-giveaway .five-day-giveaway-panel {
+  background-position: center;
+}
+
+#five-day-giveaway .five-day-giveaway-panel:hover {
+  background-image: url("/cdn/images/shared/5-day-giveaway/5-day-panel-background--light.png");
+}
+
+#five-day-giveaway .five-day-giveaway-panel span {
+  display: block;
+  font-size: 24px;
+  line-height: 29px;
+  margin-top: 10px;
+  font-weight: 500;
+  color: #fff;
+  text-align: right;
+  float: right;
+}
+
+#five-day-giveaway .five-day-giveaway-panel span {
+  margin-top: 24px;
+}
+
+#five-day-giveaway .five-day-giveaway-panel span {
+  font-size: 28px;
+}
+
+#five-day-giveaway .five-day-giveaway-panel br {
+  display: none;
+}

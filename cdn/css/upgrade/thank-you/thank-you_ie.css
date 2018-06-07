@@ -1,0 +1,18 @@
+#thank-you-upgrade p {
+  font-size: 16px;
+  line-height: 27px;
+}
+
+#thank-you-upgrade .ch-btn {
+  width: auto;
+  margin-right: 10px;
+  margin-top: 0;
+}
+
+#thank-you-upgrade .aside {
+  text-align: right;
+}
+
+#thank-you-upgrade .thank-you-content {
+  padding: 20px;
+}

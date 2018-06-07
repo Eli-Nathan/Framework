@@ -1,0 +1,212 @@
+#blks {
+  max-width: 734px;
+}
+
+#blks {
+  overflow-x: auto;
+  max-width: 954px;
+}
+
+#blks {
+  max-width: 1154px;
+}
+
+#blks .blks__scrollable {
+  width: auto;
+  min-height: 442px;
+}
+
+#blks .blks__scrollable {
+  min-height: 342px;
+}
+
+#blks .blks__column {
+  width: 50%;
+}
+
+#blks .blks__column {
+  width: 25%;
+}
+
+#blks .blks--two {
+  width: 100%;
+}
+
+#blks .blks--two {
+  width: 954px;
+  min-height: 196px;
+}
+
+#blks .blks--two {
+  width: 1154px;
+}
+
+#blks .blks--two .blks__column {
+  width: 50%;
+}
+
+#blks .blks--two .blk__details {
+  float: left;
+  padding-left: 14px;
+  width: 69.5%;
+  text-align: left;
+}
+
+#blks .blks--two .blk__img {
+  float: left;
+  width: 30.5%;
+  height: auto;
+  margin: 0;
+}
+
+#blks .blks--two .blk__model,
+#blks .blks--two .blk__variant {
+  text-align: left;
+  min-height: auto;
+}
+
+#blks .blk {
+  text-align: left;
+  margin-bottom: 28px;
+}
+
+#blks .blk {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#blks .blk__details {
+  float: left;
+  width: 69.5%;
+  padding-left: 14px;
+}
+
+#blks .blk__details {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+
+#blks .blk__details__btn {
+  float: right;
+}
+
+#blks .blk__details__btn {
+  float: none;
+}
+
+#blks .blk__model {
+  min-height: auto;
+}
+
+#blks .blk__model {
+  min-height: 50px;
+}
+
+#blks .blk__img {
+  margin-bottom: 0;
+  height: auto;
+  float: left;
+  width: 30.5%;
+}
+
+#blks .blk__img {
+  margin-bottom: 6px;
+  height: 110px;
+  float: none;
+  width: auto;
+}
+
+.rep__figure {
+  min-width: 25%;
+}
+
+.rep__figure {
+  min-width: 12.5%;
+}
+
+#ford-events .hero-top {
+  padding-top: 36px;
+  padding-bottom: 0;
+  background-image: url("/cdn/images/ford/events/stripe--desktop.png"),-webkit-gradient(linear, right top, left top, from(#022F83), color-stop(#01C6FB), to(#022F83));
+  background-image: url("/cdn/images/ford/events/stripe--desktop.png"),-webkit-linear-gradient(right, #022F83, #01C6FB, #022F83);
+  background-image: url("/cdn/images/ford/events/stripe--desktop.png"),-o-linear-gradient(right, #022F83, #01C6FB, #022F83);
+  background-image: url("/cdn/images/ford/events/stripe--desktop.png"),linear-gradient(to left, #022F83, #01C6FB, #022F83);
+}
+
+#ford-events .hero-top__content__heading {
+  font-size: 36px;
+}
+
+#ford-events .hero-top__content__subheading br {
+  display: none;
+}
+
+#ford-events .hero-top__content__subheading {
+  font-size: 24px;
+}
+
+#ford-events .hero-top__content__img--mobile {
+  display: none;
+}
+
+#ford-events .hero-top__content__img--desktop {
+  display: block;
+}
+
+#ford-events .hero-bottom {
+  padding-bottom: 12px;
+}
+
+#ford-events .hero-bottom {
+  padding: 24px 0;
+}
+
+#ford-events .hero-bottom {
+  padding-top: 12px;
+  padding-bottom: 36px;
+  background-color: #022F83;
+  background-image: -webkit-gradient(linear, right top, left top, from(#022F83), color-stop(#01C6FB), to(#022F83));
+  background-image: -webkit-linear-gradient(right, #022F83, #01C6FB, #022F83);
+  background-image: -o-linear-gradient(right, #022F83, #01C6FB, #022F83);
+  background-image: linear-gradient(to left, #022F83, #01C6FB, #022F83);
+}
+
+#ford-events .hero-bottom__content {
+  text-align: center;
+  color: #fff;
+}
+
+#ford-events .hero-bottom__content__body {
+  font-size: 16px;
+}
+
+#ford-events .hero-bottom__content__body {
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+#ford-events .hero-bottom__content__text-link {
+  color: #fff;
+}
+
+#ford-events .hero-bottom__content__btn--mobile {
+  display: none;
+}
+
+#ford-events .hero-bottom__content__btn--desktop {
+  display: inline-block;
+}
+
+#ford-events .deals {
+  padding-top: 36px;
+  padding-bottom: 36px;
+}
+
+#ford-events .deals {
+  padding-bottom: 0;
+}
+
+#ford-events .deals {
+  padding-bottom: 36px;
+}

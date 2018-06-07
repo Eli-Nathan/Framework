@@ -1,0 +1,248 @@
+#kiltwalk .hero-mobile-img {
+  display: none;
+}
+
+#kiltwalk .hero {
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  background-position: center top;
+  background-attachment: fixed;
+}
+
+#kiltwalk .hero--one {
+  background-image: url("/cdn/images/kiltwalk/hero-tartan-one--tablet.jpg");
+}
+
+#kiltwalk .hero--one {
+  background-image: url("/cdn/images/kiltwalk/hero-tartan-one.jpg");
+}
+
+#kiltwalk .hero--two {
+  background-image: url("/cdn/images/kiltwalk/hero-tartan-two--tablet.jpg");
+}
+
+#kiltwalk .hero--two {
+  background-image: url("/cdn/images/kiltwalk/hero-tartan-two.jpg");
+}
+
+#kiltwalk .hero--three {
+  background-image: url("/cdn/images/kiltwalk/hero-tartan-three--tablet.jpg");
+}
+
+#kiltwalk .hero--three {
+  background-image: url("/cdn/images/kiltwalk/hero-tartan-three.jpg");
+}
+
+#kiltwalk .hero--four {
+  background-image: url("/cdn/images/kiltwalk/hero-tartan-four--tablet.jpg");
+}
+
+#kiltwalk .hero--four {
+  background-image: url("/cdn/images/kiltwalk/hero-tartan-four.jpg");
+}
+
+#kiltwalk .hero__text {
+  padding: 78px 0;
+}
+
+#kiltwalk .hero__text {
+  padding: 51px 0;
+}
+
+#kiltwalk .hero__text {
+  padding: 92px 0;
+}
+
+#kiltwalk .hero__text--on h1 {
+  font-size: 60px;
+}
+
+#kiltwalk .hero__text--on p {
+  font-size: 24px;
+}
+
+#kiltwalk .hero__text--on__timer {
+  background-color: #158BC4;
+  padding: 21px 18px 14px 28px;
+  width: 392px;
+}
+
+#kiltwalk .hero__text--on__timer__display span {
+  font-size: 40px;
+}
+
+#kiltwalk .hero__text--on__timer__display p {
+  font-size: 20px;
+}
+
+#kiltwalk .hero__text--off-margins {
+  padding: 120px 0;
+}
+
+#kiltwalk .hero__text--off-margins {
+  padding: 149px 0;
+}
+
+#kiltwalk .hero__text--off-margins {
+  padding: 190px 0;
+}
+
+#kiltwalk .hero__text--off h1 {
+  font-size: 60px;
+}
+
+#kiltwalk .hero__text--off p span {
+  display: inline-block;
+}
+
+#kiltwalk .hero__text--js {
+  padding: 155px 0;
+}
+
+#kiltwalk .hero__text--js {
+  padding: 196px 0;
+}
+
+#kiltwalk .hero__text--js h1 {
+  font-size: 60px;
+  line-height: 72px;
+}
+
+#kiltwalk .hero__tartan {
+  position: absolute;
+  top: 0;
+  background-image: url("/cdn/images/kiltwalk/tartan.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 400px;
+  width: 100%;
+}
+
+#kiltwalk .hero__tartan {
+  height: 482px;
+}
+
+#kiltwalk .info {
+  padding: 48px 0;
+}
+
+#kiltwalk .info {
+  padding: 66px 0;
+}
+
+#kiltwalk .info {
+  padding: 102px 0;
+}
+
+#kiltwalk .info__text img {
+  display: inline-block;
+  margin-bottom: 12px;
+  width: 33px;
+}
+
+#kiltwalk .info__text h2 {
+  display: inline-block;
+  position: absolute;
+  font-size: 26px;
+  margin: 3px 0 0 14px;
+}
+
+#kiltwalk .info__text p {
+  font-size: 16px;
+}
+
+#kiltwalk .events {
+  padding: 24px 0 18px;
+}
+
+#kiltwalk .events {
+  padding: 36px 0 60px;
+}
+
+#kiltwalk .events__text h2 {
+  font-size: 26px;
+  margin-bottom: 12px;
+}
+
+#kiltwalk .events__text p {
+  font-size: 16px;
+}
+
+#kiltwalk .events__text p:last-of-type {
+  margin-bottom: 48px;
+}
+
+#kiltwalk .events__box {
+  padding: 18px 21px;
+  margin-bottom: 24px;
+}
+
+#kiltwalk .events__box {
+  padding: 30px 28px;
+  margin-bottom: 30px;
+}
+
+#kiltwalk .events__box h3 {
+  font-size: 24px;
+  line-height: 29px;
+}
+
+#kiltwalk .events__box p {
+  font-size: 16px;
+}
+
+#kiltwalk .events__box p {
+  height: 72px;
+}
+
+#kiltwalk .news {
+  padding: 48px 0;
+}
+
+#kiltwalk .news {
+  padding: 72px 0;
+}
+
+#kiltwalk .news__text {
+  margin-bottom: 0;
+}
+
+#kiltwalk .news__text p {
+  margin-bottom: 12px;
+}
+
+#kiltwalk .news__text__img {
+  height: 200px;
+}
+
+#kiltwalk .news__text__img {
+  height: 270px;
+}
+
+#kiltwalk .news__text__img {
+  height: 310px;
+}
+
+#kiltwalk .message h3 {
+  font-size: 40px;
+  padding-bottom: 54px;
+}
+
+#kiltwalk .message h3 {
+  padding-bottom: 72px;
+}
+
+#kiltwalk .social {
+  display: block;
+}
+
+#kiltwalk .social h3 {
+  font-size: 35px;
+  margin: 30px 0 0 54px;
+}
+
+#kiltwalk .social img {
+  height: 100px;
+}

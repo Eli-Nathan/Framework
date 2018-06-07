@@ -1,0 +1,17 @@
+.ch-table td,
+.ch-table th {
+  padding: 9px 10.5px;
+}
+
+.ch-table td,
+.ch-table th {
+  padding: 12px 14px;
+}
+
+#servicing_skoda .section {
+  padding: 24px 0;
+}
+
+#servicing_skoda .pricing__second-table {
+  margin-top: 0;
+}

@@ -1,0 +1,36 @@
+#volvo_s90 .hero {
+  height: 480px;
+}
+
+#volvo_s90 .hero__wrapper {
+  background: -webkit-gradient(linear, left top, right top, from(#000), color-stop(40%, rgba(0,0,0,0.8)), color-stop(60%, transparent), to(transparent));
+  background: -webkit-linear-gradient(left, #000 0%, rgba(0,0,0,0.8) 40%, transparent 60%, transparent 100%);
+  background: -o-linear-gradient(left, #000 0%, rgba(0,0,0,0.8) 40%, transparent 60%, transparent 100%);
+  background: linear-gradient(to right, #000 0%, rgba(0,0,0,0.8) 40%, transparent 60%, transparent 100%);
+}
+
+#volvo_s90 .hero__content {
+  margin-top: 100px;
+}
+
+#volvo_s90 .section__text__content {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+}
+
+#volvo_s90 .section__flash {
+  height: 480px;
+}
+
+#volvo_s90 .section__heading__title {
+  font-size: 34px;
+}
+
+#volvo_s90 .features__card {
+  margin-bottom: 28px;
+}
+
+#volvo_s90 .customiser__main-image {
+  margin: 56px auto;
+}

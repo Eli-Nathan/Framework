@@ -1,0 +1,61 @@
+#real-sale-extra .real-sale-panel {
+  padding: 18px 0;
+}
+
+#real-sale-extra .real-sale-panel {
+  padding: 18px 0 12px;
+}
+
+#real-sale-extra .real-sale-panel__content--title--mobile {
+  padding-left: 14px;
+  font-size: 20px;
+  width: 60%;
+}
+
+#real-sale-extra .real-sale-panel__content--title--mobile {
+  display: none;
+}
+
+#real-sale-extra .real-sale-panel__content--title {
+  display: inline-block;
+  padding-left: 14px;
+  font-size: 22px;
+  width: 80%;
+}
+
+#real-sale-extra .real-sale-panel__content--title {
+  margin-top: 6px;
+}
+
+#real-sale-extra .real-sale-panel__content--title {
+  margin-top: 6px;
+  font-size: 26px;
+}
+
+#real-sale-extra .real-sale-panel__content--extra {
+  width: 16%;
+}
+
+#real-sale-extra .real-sale-panel__content--extra {
+  width: 12%;
+}
+
+#real-sale-extra .real-sale-panel__content--logo {
+  height: 60px;
+  right: 14px;
+}
+
+#real-sale-extra .real-sale-panel__content--logo {
+  top: -6px;
+  height: 70px;
+}
+
+#real-sale-extra .real-sale-panel__content--logo {
+  top: -8px;
+  height: 60px;
+}
+
+#real-sale-extra .real-sale-panel__content--logo {
+  top: -6px;
+  height: 62px;
+}

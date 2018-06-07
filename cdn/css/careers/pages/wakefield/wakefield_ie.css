@@ -1,0 +1,243 @@
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+.careers-footer__dcc {
+  height: 50px;
+}
+
+.careers-footer__dcc {
+  height: 60px;
+}
+
+.careers-footer__sdc {
+  height: 50px;
+}
+
+.careers-footer__sdc {
+  height: 60px;
+}
+
+.careers-footer__httfw {
+  height: 50px;
+}
+
+.careers-footer__httfw {
+  height: 60px;
+}
+
+#wakefield_careers .img--mobile {
+  display: none;
+}
+
+#wakefield_careers .img--desktop {
+  display: block;
+}
+
+#wakefield_careers .section {
+  padding: 24px 0;
+}
+
+#wakefield_careers .section {
+  padding: 30px 0;
+}
+
+#wakefield_careers .section {
+  padding: 36px 0;
+}
+
+#wakefield_careers .section {
+  padding: 42px 0;
+}
+
+#wakefield_careers .section__hero {
+  background: url("/cdn/images/careers/pages/wakefield/hero-medium.jpg") center center no-repeat #D41568;
+  padding: 60px 0;
+}
+
+#wakefield_careers .section__hero .ch-btn {
+  margin-top: 0;
+  margin-bottom: 198px;
+}
+
+#wakefield_careers .section__hero .ch-btn {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#wakefield_careers .section__usp {
+  text-align: center;
+}
+
+#wakefield_careers .section__usp--icon {
+  float: none;
+  margin-bottom: 0;
+}
+
+#wakefield_careers .section__usp--icon {
+  height: 72px;
+  width: 72px;
+}
+
+#wakefield_careers .section__usp h3 {
+  padding-top: 0;
+  float: none;
+  display: block;
+}
+
+#wakefield_careers .section__usp h3 {
+  font-size: 20px;
+}
+
+#wakefield_careers .section__findingjob {
+  padding: 24px 0;
+}
+
+#wakefield_careers .section__findingjob {
+  padding: 30px 0;
+}
+
+#wakefield_careers .section__findingjob {
+  padding: 36px 0;
+}
+
+#wakefield_careers .section__findingjob {
+  padding: 42px 0;
+}
+
+#wakefield_careers .section__findingjob__content {
+  padding: 6px 7px;
+}
+
+#wakefield_careers .section__findingjob__content {
+  padding: 12px 14px;
+}
+
+#wakefield_careers .section__findingjob__content--btn {
+  margin-top: 120px;
+}
+
+#wakefield_careers .section__findingjob__content--btn .ch-btn {
+  float: right;
+}
+
+#wakefield_careers .section__findingjob__jobs {
+  padding: 6px 7px;
+}
+
+#wakefield_careers .section__findingjob__jobs {
+  padding: 6px 14px;
+}
+
+#wakefield_careers .section__findingjob__jobs .ch-card--link:hover {
+  border-bottom-color: #e5e5e5;
+  color: #2D3737;
+}
+
+#wakefield_careers .section__findingjob__jobs .ch-card--link:hover h1:first-of-type,
+#wakefield_careers .section__findingjob__jobs .ch-card--link:hover h2:first-of-type,
+#wakefield_careers .section__findingjob__jobs .ch-card--link:hover h3:first-of-type,
+#wakefield_careers .section__findingjob__jobs .ch-card--link:hover h4:first-of-type,
+#wakefield_careers .section__findingjob__jobs .ch-card--link:hover h5:first-of-type,
+#wakefield_careers .section__findingjob__jobs .ch-card--link:hover h6:first-of-type {
+  color: #00A3E0;
+}
+
+#wakefield_careers .section__findingjob__jobs .ch-card__content {
+  padding-bottom: 0;
+}
+
+#wakefield_careers .section__findingjob__jobs .ch-card__content__heading {
+  padding-bottom: 6px;
+}
+
+#wakefield_careers .section__findingjob__jobs .ch-card__content__job-desc span {
+  display: none;
+}
+
+#wakefield_careers .section__findingjob__jobs .ch-card__icons {
+  padding: 0 21px 18px;
+}
+
+#wakefield_careers .section__findingjob__jobs .ch-card__icons .padding-top {
+  padding-top: 16.1px;
+}
+
+#wakefield_careers .section__findingjob__jobs .ch-card__icons--cta {
+  display: block;
+}
+
+#wakefield_careers .section__consultant img {
+  position: absolute;
+  top: 0;
+  right: 10%;
+  margin: -49.8px 0 0;
+  height: 349.8px;
+  display: block;
+}
+
+#wakefield_careers .section__consultant img {
+  right: 15%;
+  margin-top: -67.8px;
+}
+
+#wakefield_careers .section__benefits--list-item {
+  border-bottom: 0 none transparent;
+  font-size: 16px;
+  min-height: 125px;
+  padding: 0;
+}
+
+#wakefield_careers .section__benefits--list-item:before {
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  height: 125px;
+  width: 125px;
+}
+
+#wakefield_careers .section__arnold {
+  background: url("/cdn/images/careers/pages/wakefield/about-arnold.jpg") center center no-repeat;
+}

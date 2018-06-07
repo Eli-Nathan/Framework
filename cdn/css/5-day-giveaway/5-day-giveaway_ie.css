@@ -1,0 +1,75 @@
+#five-day-giveaway .hero {
+  background-image: url("/cdn/images/5-day-giveaway/5-day-giveaway-hero.png");
+  background-repeat: no-repeat;
+  background-position: -webkit-calc(50% - -105px) 50%;
+  background-position: calc(50% - -105px) 50%;
+}
+
+#five-day-giveaway .hero {
+  background-position: -webkit-calc(50% - -6px) 50%;
+  background-position: calc(50% - -6px) 50%;
+}
+
+#five-day-giveaway .hero__logo {
+  display: block;
+  padding: 60px 0;
+  width: auto;
+}
+
+#five-day-giveaway .hero__mobile-logo {
+  display: none;
+}
+
+#five-day-giveaway .hero__text {
+  padding: 18px 0;
+  text-align: center;
+}
+
+#five-day-giveaway .hero__text {
+  text-align: left;
+  float: right;
+  padding: 90px 0;
+}
+
+#five-day-giveaway .hero__text {
+  padding: 78px 0;
+}
+
+#five-day-giveaway .hero__text h2 {
+  font-size: 32px;
+  line-height: 38px;
+}
+
+#five-day-giveaway .hero__text h2 {
+  font-size: 45px;
+  line-height: 54px;
+  margin-bottom: 12px;
+}
+
+#five-day-giveaway .hero__text p {
+  margin-bottom: 12px;
+}
+
+#five-day-giveaway .hero__text p {
+  font-size: 32px;
+}
+
+#five-day-giveaway .categories {
+  padding: 24px 0 54px;
+}
+
+#five-day-giveaway .categories {
+  padding: 30px 0 60px;
+}
+
+#five-day-giveaway .categories-mobile {
+  display: none;
+}
+
+#five-day-giveaway .categories-selector {
+  margin-top: 24px;
+}
+
+#five-day-giveaway .categories-selector {
+  margin-top: 30px;
+}

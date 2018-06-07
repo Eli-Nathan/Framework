@@ -1,0 +1,88 @@
+#mc-more-from .more-box:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#mc-more-from .more-box__content {
+  padding: 15px 17.5px;
+}
+
+#car-finance .ac-car-finance__hero {
+  padding: 36px 0;
+}
+
+#car-finance .ac-car-finance__hero {
+  background: url("/cdn/images/car-finance/car-finance-hero.jpg") center no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  padding: 72px 0;
+}
+
+#car-finance .ac-car-finance__why-ac {
+  padding: 48px 0;
+}
+
+#car-finance .ac-car-finance__calculator .ch-form__group {
+  margin-bottom: 0;
+}
+
+#car-finance .ac-car-finance__calculator-submit small {
+  margin-top: 0;
+}
+
+#car-finance .ac-car-finance__term {
+  line-height: 48px;
+}
+
+#car-finance .ac-car-finance__news {
+  padding: 36px;
+}
+
+#car-finance .ac-car-finance__pch,
+#car-finance .ac-car-finance__pcp {
+  margin-bottom: 0;
+}
+
+#car-finance .ac-car-finance__customise {
+  padding: 60px 0 48px;
+}
+
+#car-finance .ac-car-finance__customise-description {
+  margin-top: 48px;
+}
+
+#car-finance .ac-car-finance__customise-description p {
+  margin-bottom: 24px;
+}
+
+#car-finance .ac-car-finance__faqs .ac-car-finance__cta p {
+  display: inline-block;
+  margin: 0 36px 0 0;
+}
+
+#car-finance .ac-car-finance__faqs .ac-car-finance__cta {
+  margin-top: 48px;
+  padding-top: 48px;
+}
+
+#car-finance .ac-car-finance__faqs-icon {
+  display: block;
+}
+
+#car-finance #mc-more-from .more-box {
+  min-height: 370px;
+  max-height: 370px;
+}
+
+#car-finance #mc-more-from .more-slab__scroll {
+  width: 960px;
+}
+
+#car-finance #mc-more-from .more-slab__scroll {
+  width: 1154px;
+}
+
+#car-finance #mc-more-from .more-slab__scroll {
+  width: 1154px;
+}

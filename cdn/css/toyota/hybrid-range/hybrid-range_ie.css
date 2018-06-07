@@ -1,0 +1,1067 @@
+#mc-model-selector .mobile-overlay {
+  display: none;
+}
+
+#mc-model-selector .slab--models {
+  padding: 7px 0;
+  min-height: 0;
+}
+
+#mc-model-selector .model-nav {
+  padding: 0;
+  display: block;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+}
+
+#mc-model-selector .model-nav li {
+  width: 30%;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+}
+
+#mc-model-selector .model-nav li a,
+#mc-model-selector .model-nav li a:visited {
+  font-size: 16px;
+  font-weight: 500;
+  display: block;
+  padding: 14px 7px;
+  text-decoration: none;
+  color: #2D3737;
+}
+
+#mc-model-selector .model-nav li a .model-nav__title,
+#mc-model-selector .model-nav li a:visited .model-nav__title {
+  font-size: 16px;
+  font-weight: 500;
+  display: block;
+  text-decoration: none;
+  color: #2D3737;
+}
+
+#mc-model-selector .model-nav li a span,
+#mc-model-selector .model-nav li a:visited span {
+  font-size: 13px;
+  color: #979797;
+  font-weight: 400;
+  text-decoration: none;
+  display: block;
+  max-width: 100%;
+}
+
+#mc-model-selector .model-nav li a:hover,
+#mc-model-selector .model-nav li a:visited:hover {
+  border-bottom: solid 3px #607882;
+}
+
+#mc-model-selector .model-nav li a:hover .model-nav__title,
+#mc-model-selector .model-nav li a:visited:hover .model-nav__title {
+  color: #607882;
+}
+
+#mc-model-selector .model-nav li.model-nav--selected a,
+#mc-model-selector .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #607882;
+}
+
+#mc-model-selector .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #607882;
+}
+
+#mc-model-selector .model-nav--four li {
+  width: 24%;
+}
+
+#mc-model-selector .model-select {
+  display: none;
+}
+
+#mc-model-selector .model {
+  text-align: center;
+  background: #fff;
+  position: relative;
+  bottom: 0;
+  margin: 7px 0;
+  display: block;
+  border: solid 1px #e5e5e5;
+  border-bottom-width: 3px;
+  overflow: hidden;
+}
+
+#mc-model-selector .model:hover {
+  border-bottom-color: #607882;
+}
+
+#mc-model-selector .model:hover .model__links {
+  display: block;
+}
+
+#mc-model-selector .model:active {
+  -webkit-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+
+#mc-model-selector .model__image {
+  max-width: 100%;
+  width: 100px;
+  height: auto;
+  float: none;
+  display: block;
+  margin: 14px auto;
+}
+
+#mc-model-selector .model__title {
+  color: #2D3737;
+  display: block;
+  font-size: 14px;
+}
+
+#mc-model-selector .model-nav li {
+  padding: 0 36px;
+}
+
+#mc-model-selector .models--abarth .model-nav li a:hover,
+#mc-model-selector .models--abarth .model-nav li a:visited:hover {
+  border-bottom: solid 3px #A9122D;
+}
+
+#mc-model-selector .models--abarth .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--abarth .model-nav li a:visited:hover .model-nav__title {
+  color: #A9122D;
+}
+
+#mc-model-selector .models--abarth .model-nav li.model-nav--selected a,
+#mc-model-selector .models--abarth .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #A9122D;
+}
+
+#mc-model-selector .models--abarth .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--abarth .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #A9122D;
+}
+
+#mc-model-selector .models--abarth .model:hover {
+  border-bottom-color: #A9122D;
+}
+
+#mc-model-selector .models--abarth .model:active {
+  border-color: #A9122D;
+}
+
+#mc-model-selector .models--alfa .model-nav li a:hover,
+#mc-model-selector .models--alfa .model-nav li a:visited:hover {
+  border-bottom: solid 3px #8F0C25;
+}
+
+#mc-model-selector .models--alfa .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--alfa .model-nav li a:visited:hover .model-nav__title {
+  color: #8F0C25;
+}
+
+#mc-model-selector .models--alfa .model-nav li.model-nav--selected a,
+#mc-model-selector .models--alfa .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #8F0C25;
+}
+
+#mc-model-selector .models--alfa .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--alfa .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #8F0C25;
+}
+
+#mc-model-selector .models--alfa .model:hover {
+  border-bottom-color: #8F0C25;
+}
+
+#mc-model-selector .models--alfa .model:active {
+  border-color: #8F0C25;
+}
+
+#mc-model-selector .models--bmw .model-nav li a:hover,
+#mc-model-selector .models--bmw .model-nav li a:visited:hover {
+  border-bottom: solid 3px #1c69d4;
+}
+
+#mc-model-selector .models--bmw .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--bmw .model-nav li a:visited:hover .model-nav__title {
+  color: #1c69d4;
+}
+
+#mc-model-selector .models--bmw .model-nav li.model-nav--selected a,
+#mc-model-selector .models--bmw .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #1c69d4;
+}
+
+#mc-model-selector .models--bmw .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--bmw .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #1c69d4;
+}
+
+#mc-model-selector .models--bmw .model:hover {
+  border-bottom-color: #1c69d4;
+}
+
+#mc-model-selector .models--bmw .model:active {
+  border-color: #1c69d4;
+}
+
+#mc-model-selector .models--citroen .model-nav li a:hover,
+#mc-model-selector .models--citroen .model-nav li a:visited:hover {
+  border-bottom: solid 3px #DC002E;
+}
+
+#mc-model-selector .models--citroen .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--citroen .model-nav li a:visited:hover .model-nav__title {
+  color: #DC002E;
+}
+
+#mc-model-selector .models--citroen .model-nav li.model-nav--selected a,
+#mc-model-selector .models--citroen .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #DC002E;
+}
+
+#mc-model-selector .models--citroen .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--citroen .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #DC002E;
+}
+
+#mc-model-selector .models--citroen .model:hover {
+  border-bottom-color: #DC002E;
+}
+
+#mc-model-selector .models--citroen .model:active {
+  border-color: #DC002E;
+}
+
+#mc-model-selector .models--dacia .model-nav li a:hover,
+#mc-model-selector .models--dacia .model-nav li a:visited:hover {
+  border-bottom: solid 3px #003292;
+}
+
+#mc-model-selector .models--dacia .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--dacia .model-nav li a:visited:hover .model-nav__title {
+  color: #003292;
+}
+
+#mc-model-selector .models--dacia .model-nav li.model-nav--selected a,
+#mc-model-selector .models--dacia .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #003292;
+}
+
+#mc-model-selector .models--dacia .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--dacia .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #003292;
+}
+
+#mc-model-selector .models--dacia .model:hover {
+  border-bottom-color: #003292;
+}
+
+#mc-model-selector .models--dacia .model:active {
+  border-color: #003292;
+}
+
+#mc-model-selector .models--ds .model-nav li a:hover,
+#mc-model-selector .models--ds .model-nav li a:visited:hover {
+  border-bottom: solid 3px #a70142;
+}
+
+#mc-model-selector .models--ds .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--ds .model-nav li a:visited:hover .model-nav__title {
+  color: #a70142;
+}
+
+#mc-model-selector .models--ds .model-nav li.model-nav--selected a,
+#mc-model-selector .models--ds .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #a70142;
+}
+
+#mc-model-selector .models--ds .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--ds .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #a70142;
+}
+
+#mc-model-selector .models--ds .model:hover {
+  border-bottom-color: #a70142;
+}
+
+#mc-model-selector .models--ds .model:active {
+  border-color: #a70142;
+}
+
+#mc-model-selector .models--fiat .model-nav li a:hover,
+#mc-model-selector .models--fiat .model-nav li a:visited:hover {
+  border-bottom: solid 3px #96172e;
+}
+
+#mc-model-selector .models--fiat .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--fiat .model-nav li a:visited:hover .model-nav__title {
+  color: #96172e;
+}
+
+#mc-model-selector .models--fiat .model-nav li.model-nav--selected a,
+#mc-model-selector .models--fiat .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #96172e;
+}
+
+#mc-model-selector .models--fiat .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--fiat .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #96172e;
+}
+
+#mc-model-selector .models--fiat .model:hover {
+  border-bottom-color: #96172e;
+}
+
+#mc-model-selector .models--fiat .model:active {
+  border-color: #96172e;
+}
+
+#mc-model-selector .models--ford .model-nav li a:hover,
+#mc-model-selector .models--ford .model-nav li a:visited:hover {
+  border-bottom: solid 3px #43596a;
+}
+
+#mc-model-selector .models--ford .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--ford .model-nav li a:visited:hover .model-nav__title {
+  color: #43596a;
+}
+
+#mc-model-selector .models--ford .model-nav li.model-nav--selected a,
+#mc-model-selector .models--ford .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #43596a;
+}
+
+#mc-model-selector .models--ford .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--ford .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #43596a;
+}
+
+#mc-model-selector .models--ford .model:hover {
+  border-bottom-color: #43596a;
+}
+
+#mc-model-selector .models--ford .model:active {
+  border-color: #43596a;
+}
+
+#mc-model-selector .models--hyundai .model-nav li a:hover,
+#mc-model-selector .models--hyundai .model-nav li a:visited:hover {
+  border-bottom: solid 3px #3176BA;
+}
+
+#mc-model-selector .models--hyundai .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--hyundai .model-nav li a:visited:hover .model-nav__title {
+  color: #3176BA;
+}
+
+#mc-model-selector .models--hyundai .model-nav li.model-nav--selected a,
+#mc-model-selector .models--hyundai .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #3176BA;
+}
+
+#mc-model-selector .models--hyundai .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--hyundai .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #3176BA;
+}
+
+#mc-model-selector .models--hyundai .model:hover {
+  border-bottom-color: #3176BA;
+}
+
+#mc-model-selector .models--hyundai .model:active {
+  border-color: #3176BA;
+}
+
+#mc-model-selector .models--jeep .model-nav li a:hover,
+#mc-model-selector .models--jeep .model-nav li a:visited:hover {
+  border-bottom: solid 3px #FFBA00;
+}
+
+#mc-model-selector .models--jeep .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--jeep .model-nav li a:visited:hover .model-nav__title {
+  color: #FFBA00;
+}
+
+#mc-model-selector .models--jeep .model-nav li.model-nav--selected a,
+#mc-model-selector .models--jeep .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #FFBA00;
+}
+
+#mc-model-selector .models--jeep .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--jeep .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #FFBA00;
+}
+
+#mc-model-selector .models--jeep .model:hover {
+  border-bottom-color: #FFBA00;
+}
+
+#mc-model-selector .models--jeep .model:active {
+  border-color: #FFBA00;
+}
+
+#mc-model-selector .models--kia .model-nav li a:hover,
+#mc-model-selector .models--kia .model-nav li a:visited:hover {
+  border-bottom: solid 3px #bb162b;
+}
+
+#mc-model-selector .models--kia .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--kia .model-nav li a:visited:hover .model-nav__title {
+  color: #bb162b;
+}
+
+#mc-model-selector .models--kia .model-nav li.model-nav--selected a,
+#mc-model-selector .models--kia .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #bb162b;
+}
+
+#mc-model-selector .models--kia .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--kia .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #bb162b;
+}
+
+#mc-model-selector .models--kia .model:hover {
+  border-bottom-color: #bb162b;
+}
+
+#mc-model-selector .models--kia .model:active {
+  border-color: #bb162b;
+}
+
+#mc-model-selector .models--mazda .model-nav li a:hover,
+#mc-model-selector .models--mazda .model-nav li a:visited:hover {
+  border-bottom: solid 3px #457b9b;
+}
+
+#mc-model-selector .models--mazda .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--mazda .model-nav li a:visited:hover .model-nav__title {
+  color: #457b9b;
+}
+
+#mc-model-selector .models--mazda .model-nav li.model-nav--selected a,
+#mc-model-selector .models--mazda .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #457b9b;
+}
+
+#mc-model-selector .models--mazda .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--mazda .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #457b9b;
+}
+
+#mc-model-selector .models--mazda .model:hover {
+  border-bottom-color: #457b9b;
+}
+
+#mc-model-selector .models--mazda .model:active {
+  border-color: #457b9b;
+}
+
+#mc-model-selector .models--merc .model-nav li a:hover,
+#mc-model-selector .models--merc .model-nav li a:visited:hover {
+  border-bottom: solid 3px #89959d;
+}
+
+#mc-model-selector .models--merc .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--merc .model-nav li a:visited:hover .model-nav__title {
+  color: #89959d;
+}
+
+#mc-model-selector .models--merc .model-nav li.model-nav--selected a,
+#mc-model-selector .models--merc .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #89959d;
+}
+
+#mc-model-selector .models--merc .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--merc .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #89959d;
+}
+
+#mc-model-selector .models--merc .model:hover {
+  border-bottom-color: #89959d;
+}
+
+#mc-model-selector .models--merc .model:active {
+  border-color: #89959d;
+}
+
+#mc-model-selector .models--mg .model-nav li a:hover,
+#mc-model-selector .models--mg .model-nav li a:visited:hover {
+  border-bottom: solid 3px #880005;
+}
+
+#mc-model-selector .models--mg .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--mg .model-nav li a:visited:hover .model-nav__title {
+  color: #880005;
+}
+
+#mc-model-selector .models--mg .model-nav li.model-nav--selected a,
+#mc-model-selector .models--mg .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #880005;
+}
+
+#mc-model-selector .models--mg .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--mg .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #880005;
+}
+
+#mc-model-selector .models--mg .model:hover {
+  border-bottom-color: #880005;
+}
+
+#mc-model-selector .models--mg .model:active {
+  border-color: #880005;
+}
+
+#mc-model-selector .models--mitsubishi .model-nav li a:hover,
+#mc-model-selector .models--mitsubishi .model-nav li a:visited:hover {
+  border-bottom: solid 3px #E30613;
+}
+
+#mc-model-selector .models--mitsubishi .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--mitsubishi .model-nav li a:visited:hover .model-nav__title {
+  color: #E30613;
+}
+
+#mc-model-selector .models--mitsubishi .model-nav li.model-nav--selected a,
+#mc-model-selector .models--mitsubishi .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #E30613;
+}
+
+#mc-model-selector .models--mitsubishi .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--mitsubishi .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #E30613;
+}
+
+#mc-model-selector .models--mitsubishi .model:hover {
+  border-bottom-color: #E30613;
+}
+
+#mc-model-selector .models--mitsubishi .model:active {
+  border-color: #E30613;
+}
+
+#mc-model-selector .models--peugeot .model-nav li a:hover,
+#mc-model-selector .models--peugeot .model-nav li a:visited:hover {
+  border-bottom: solid 3px #2497c3;
+}
+
+#mc-model-selector .models--peugeot .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--peugeot .model-nav li a:visited:hover .model-nav__title {
+  color: #2497c3;
+}
+
+#mc-model-selector .models--peugeot .model-nav li.model-nav--selected a,
+#mc-model-selector .models--peugeot .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #2497c3;
+}
+
+#mc-model-selector .models--peugeot .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--peugeot .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #2497c3;
+}
+
+#mc-model-selector .models--peugeot .model:hover {
+  border-bottom-color: #2497c3;
+}
+
+#mc-model-selector .models--peugeot .model:active {
+  border-color: #2497c3;
+}
+
+#mc-model-selector .models--renault .model-nav li a:hover,
+#mc-model-selector .models--renault .model-nav li a:visited:hover {
+  border-bottom: solid 3px #fc3;
+}
+
+#mc-model-selector .models--renault .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--renault .model-nav li a:visited:hover .model-nav__title {
+  color: #fc3;
+}
+
+#mc-model-selector .models--renault .model-nav li.model-nav--selected a,
+#mc-model-selector .models--renault .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #fc3;
+}
+
+#mc-model-selector .models--renault .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--renault .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #fc3;
+}
+
+#mc-model-selector .models--renault .model:hover {
+  border-bottom-color: #fc3;
+}
+
+#mc-model-selector .models--renault .model:active {
+  border-color: #fc3;
+}
+
+#mc-model-selector .models--seat .model-nav li a:hover,
+#mc-model-selector .models--seat .model-nav li a:visited:hover {
+  border-bottom: solid 3px #da0000;
+}
+
+#mc-model-selector .models--seat .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--seat .model-nav li a:visited:hover .model-nav__title {
+  color: #da0000;
+}
+
+#mc-model-selector .models--seat .model-nav li.model-nav--selected a,
+#mc-model-selector .models--seat .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #da0000;
+}
+
+#mc-model-selector .models--seat .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--seat .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #da0000;
+}
+
+#mc-model-selector .models--seat .model:hover {
+  border-bottom-color: #da0000;
+}
+
+#mc-model-selector .models--seat .model:active {
+  border-color: #da0000;
+}
+
+#mc-model-selector .models--skoda .model-nav li a:hover,
+#mc-model-selector .models--skoda .model-nav li a:visited:hover {
+  border-bottom: solid 3px #4BA82E;
+}
+
+#mc-model-selector .models--skoda .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--skoda .model-nav li a:visited:hover .model-nav__title {
+  color: #4BA82E;
+}
+
+#mc-model-selector .models--skoda .model-nav li.model-nav--selected a,
+#mc-model-selector .models--skoda .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #4BA82E;
+}
+
+#mc-model-selector .models--skoda .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--skoda .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #4BA82E;
+}
+
+#mc-model-selector .models--skoda .model:hover {
+  border-bottom-color: #4BA82E;
+}
+
+#mc-model-selector .models--skoda .model:active {
+  border-color: #4BA82E;
+}
+
+#mc-model-selector .models--toyota .model-nav li a:hover,
+#mc-model-selector .models--toyota .model-nav li a:visited:hover {
+  border-bottom: solid 3px #c03;
+}
+
+#mc-model-selector .models--toyota .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--toyota .model-nav li a:visited:hover .model-nav__title {
+  color: #c03;
+}
+
+#mc-model-selector .models--toyota .model-nav li.model-nav--selected a,
+#mc-model-selector .models--toyota .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #c03;
+}
+
+#mc-model-selector .models--toyota .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--toyota .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #c03;
+}
+
+#mc-model-selector .models--toyota .model:hover {
+  border-bottom-color: #c03;
+}
+
+#mc-model-selector .models--toyota .model:active {
+  border-color: #c03;
+}
+
+#mc-model-selector .models--vauxhall .model-nav li a:hover,
+#mc-model-selector .models--vauxhall .model-nav li a:visited:hover {
+  border-bottom: solid 3px #CB1920;
+}
+
+#mc-model-selector .models--vauxhall .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--vauxhall .model-nav li a:visited:hover .model-nav__title {
+  color: #CB1920;
+}
+
+#mc-model-selector .models--vauxhall .model-nav li.model-nav--selected a,
+#mc-model-selector .models--vauxhall .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #CB1920;
+}
+
+#mc-model-selector .models--vauxhall .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--vauxhall .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #CB1920;
+}
+
+#mc-model-selector .models--vauxhall .model:hover {
+  border-bottom-color: #CB1920;
+}
+
+#mc-model-selector .models--vauxhall .model:active {
+  border-color: #CB1920;
+}
+
+#mc-model-selector .models--volkswagen .model-nav li a:hover,
+#mc-model-selector .models--volkswagen .model-nav li a:visited:hover {
+  border-bottom: solid 3px #00B1E5;
+}
+
+#mc-model-selector .models--volkswagen .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--volkswagen .model-nav li a:visited:hover .model-nav__title {
+  color: #00B1E5;
+}
+
+#mc-model-selector .models--volkswagen .model-nav li.model-nav--selected a,
+#mc-model-selector .models--volkswagen .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #00B1E5;
+}
+
+#mc-model-selector .models--volkswagen .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--volkswagen .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #00B1E5;
+}
+
+#mc-model-selector .models--volkswagen .model:hover {
+  border-bottom-color: #00B1E5;
+}
+
+#mc-model-selector .models--volkswagen .model:active {
+  border-color: #00B1E5;
+}
+
+#mc-model-selector .models--volvo .model-nav li a:hover,
+#mc-model-selector .models--volvo .model-nav li a:visited:hover {
+  border-bottom: solid 3px #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--volvo .model-nav li a:visited:hover .model-nav__title {
+  color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a,
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model:hover {
+  border-bottom-color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model:active {
+  border-color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li a:hover,
+#mc-model-selector .models--volvo .model-nav li a:visited:hover {
+  border-bottom: solid 3px #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--volvo .model-nav li a:visited:hover .model-nav__title {
+  color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a,
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model:hover {
+  border-bottom-color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model:active {
+  border-color: #0053a1;
+}
+
+#mc-model-selector .model {
+  text-align: center;
+  background: #fff;
+  position: relative;
+  bottom: 0;
+  margin: 18px 0;
+  display: block;
+  border: solid 1px #e5e5e5;
+  border-bottom-width: 3px;
+  overflow: hidden;
+}
+
+#mc-model-selector .model:hover {
+  border-bottom-color: #607882;
+}
+
+#mc-model-selector .model:hover .model__links {
+  display: block;
+}
+
+#mc-model-selector .model:active {
+  -webkit-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+
+#mc-model-selector .model__image {
+  max-width: 100%;
+  width: 100px;
+  height: auto;
+  float: none;
+  display: block;
+  margin: 14px auto;
+}
+
+#mc-model-selector .slab--models {
+  min-height: 0;
+}
+
+#toyota_hybrid-range .custom-container {
+  padding-right: 14px;
+  width: 734px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: visible;
+  white-space: normal;
+}
+
+#toyota_hybrid-range .custom-container {
+  width: 954px;
+}
+
+#toyota_hybrid-range .custom-container {
+  width: 1154px;
+}
+
+#toyota_hybrid-range .hero {
+  background-image: url("/cdn/images/toyota/hybrid-range/hero.jpg");
+}
+
+#toyota_hybrid-range .hero__text {
+  padding: 42px 0;
+}
+
+#toyota_hybrid-range .hero__text {
+  padding: 72px 0;
+}
+
+#toyota_hybrid-range .hero__text {
+  padding: 90px 0;
+}
+
+#toyota_hybrid-range .hero__text h1 {
+  font-size: 42px;
+  line-height: 50px;
+}
+
+#toyota_hybrid-range .hero__text h1 {
+  font-size: 60px;
+  line-height: 72px;
+}
+
+#toyota_hybrid-range .hero__text h3 {
+  font-size: 24px;
+  line-height: 29px;
+}
+
+#toyota_hybrid-range .hero__text h3 {
+  font-size: 30px;
+  line-height: 36px;
+}
+
+#toyota_hybrid-range .hero__text h3 span {
+  display: block;
+}
+
+#toyota_hybrid-range .hero svg {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin-top: 36px;
+  margin-right: 21px;
+  fill: #fff;
+  float: right;
+}
+
+#toyota_hybrid-range .hero svg {
+  width: 150px;
+  height: 150px;
+  margin-top: 72px;
+  margin-right: 0;
+}
+
+#toyota_hybrid-range .hero svg {
+  margin-top: 90px;
+}
+
+#toyota_hybrid-range .info {
+  padding: 30px 0;
+}
+
+#toyota_hybrid-range .info {
+  padding: 60px 0;
+}
+
+#toyota_hybrid-range .info__text h4 {
+  font-size: 26px;
+  line-height: 31px;
+}
+
+#toyota_hybrid-range .info__text p {
+  font-size: 16px;
+}
+
+#toyota_hybrid-range .info__card {
+  margin-top: 18px;
+  margin-right: 28px;
+  width: 47.72%;
+  height: 348px;
+}
+
+#toyota_hybrid-range .info__card {
+  width: 22.39%;
+  height: 330px;
+}
+
+#toyota_hybrid-range .info__card {
+  width: 22.85%;
+  height: 318px;
+}
+
+#toyota_hybrid-range .info__card--last {
+  margin-right: 0;
+}
+
+#toyota_hybrid-range .info__card--last-tablet {
+  margin-right: 0;
+}
+
+#toyota_hybrid-range .info__card--last-tablet {
+  margin-right: 28px;
+}
+
+#toyota_hybrid-range .how {
+  padding: 30px 0;
+}
+
+#toyota_hybrid-range .how {
+  padding: 60px 0;
+}
+
+#toyota_hybrid-range .how__text {
+  padding-bottom: 18px;
+}
+
+#toyota_hybrid-range .how__text {
+  padding-bottom: 24px;
+}
+
+#toyota_hybrid-range .how__text h4 {
+  font-size: 26px;
+  line-height: 31px;
+}
+
+#toyota_hybrid-range .how__text p {
+  font-size: 16px;
+}
+
+#toyota_hybrid-range .how__btn-desktop {
+  display: inline-block;
+  float: right;
+}
+
+#toyota_hybrid-range .faq {
+  padding: 30px 0;
+}
+
+#toyota_hybrid-range .faq {
+  padding: 60px 0;
+}
+
+#toyota_hybrid-range .faq h4 {
+  font-size: 26px;
+  line-height: 31px;
+  margin-bottom: 18px;
+}
+
+#toyota_hybrid-range .faq h4 {
+  margin-bottom: 24px;
+}
+
+#toyota_hybrid-range .hybrid-challenge {
+  padding: 30px 0;
+  background-image: url(/cdn/images/toyota/hybrid-range/challenge-desktop.jpg);
+  background-position: center top;
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+#toyota_hybrid-range .hybrid-challenge {
+  padding: 24px 0;
+}
+
+#toyota_hybrid-range .hybrid-challenge__logo {
+  width: 280px;
+}
+
+#toyota_hybrid-range .hybrid-challenge__logo {
+  margin-bottom: 228px;
+}
+
+#toyota_hybrid-range .hybrid-challenge__logo {
+  margin-bottom: 258px;
+}
+
+#toyota_hybrid-range .hybrid-challenge__logo h3 {
+  font-size: 70px;
+}
+
+#toyota_hybrid-range .hybrid-challenge__logo h3 span.top {
+  margin-bottom: 12px;
+}
+
+#toyota_hybrid-range .hybrid-challenge__logo h3 span.bottom {
+  margin-top: 12px;
+}
+
+#toyota_hybrid-range .hybrid-challenge__img--mobile {
+  display: none;
+}
+
+#toyota_hybrid-range .hybrid-challenge h4 {
+  font-size: 26px;
+  line-height: 31px;
+}
+
+#toyota_hybrid-range .hybrid-challenge h5 {
+  font-size: 22px;
+  line-height: 26px;
+}
+
+#toyota_hybrid-range .hybrid-challenge p {
+  font-size: 16px;
+}
+
+#toyota_hybrid-range .hybrid-challenge p:last-of-type {
+  margin-bottom: 24px;
+}

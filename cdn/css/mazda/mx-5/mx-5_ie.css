@@ -1,0 +1,271 @@
+#mc-more-from .more-box:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#mc-more-from .more-box__content {
+  padding: 15px 17.5px;
+}
+
+.lg-outer .lg-thumb-item {
+  -webkit-transition: border-color 0.25s ease;
+  -o-transition: border-color 0.25s ease;
+  transition: border-color 0.25s ease;
+}
+
+#mazda_mx-5 .img--desktop {
+  display: block;
+}
+
+#mazda_mx-5 .hero {
+  background-image: url("/cdn/images/mazda/mx-5/mx-5-hero.jpg");
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center top;
+}
+
+#mazda_mx-5 .hero {
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  background-position: center -20px;
+}
+
+#mazda_mx-5 .hero-text {
+  text-align: center;
+  margin: 300px 0 36px;
+}
+
+#mazda_mx-5 .hero-text-title span {
+  display: inline-block;
+}
+
+#mazda_mx-5 .hero-text-subtitle {
+  font-size: 22px;
+}
+
+#mazda_mx-5 .hero-text p {
+  margin: 0;
+  margin-bottom: 12px;
+}
+
+#mazda_mx-5 .nav__list__item__link {
+  padding: 24px 0;
+}
+
+#mazda_mx-5 .nav__list__item__link:hover {
+  color: #fff;
+  background: rgba(155,155,155,0.7);
+}
+
+#mazda_mx-5 .z-sport--intro {
+  padding-top: 24px;
+}
+
+#mazda_mx-5 .z-sport h2 {
+  text-align: center;
+}
+
+#mazda_mx-5 .z-sport p {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+#mazda_mx-5 .z-sport--features {
+  background-image: url("/cdn/images/mazda/mx-5/mx-5-z-sport--hero.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: 260% 260%;
+  background-size: 260%;
+  background-position: center 0;
+  text-align: center;
+  padding: 26% 0 18px;
+}
+
+#mazda_mx-5 .z-sport--features {
+  padding: 280px 0 24px;
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  background-position: center 0px;
+}
+
+#mazda_mx-5 .z-sport--features--container {
+  overflow: hidden;
+}
+
+#mazda_mx-5 .z-sport--features--cta {
+  padding: 12px 14px;
+}
+
+#mazda_mx-5 .z-sport--features--cta {
+  padding: 24px 14px 6px;
+}
+
+#mazda_mx-5 .z-sport--features .feature {
+  max-width: 260px;
+}
+
+#mazda_mx-5 .z-sport--features .feature {
+  max-width: 352px;
+}
+
+#mazda_mx-5 .z-sport--features .feature--caption h3 {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+#mazda_mx-5 .z-sport--features .feature--caption h3 {
+  bottom: -1px;
+}
+
+#mazda_mx-5 .intro {
+  text-align: center;
+  padding: 18px 0;
+}
+
+#mazda_mx-5 .intro {
+  padding: 24px 0;
+}
+
+#mazda_mx-5 .intro-body {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+#mazda_mx-5 .info-1-text {
+  padding: 12px 12px 0 0;
+}
+
+#mazda_mx-5 .info-1-text {
+  padding: 18px 12px 0 0;
+}
+
+#mazda_mx-5 .info-2 {
+  padding: 18px 0;
+}
+
+#mazda_mx-5 .info-2 {
+  padding: 24px 0;
+}
+
+#mazda_mx-5 .info-2-cta a {
+  width: auto;
+  text-align: left;
+}
+
+#mazda_mx-5 .engines {
+  padding: 18px 0;
+}
+
+#mazda_mx-5 .engines {
+  padding: 24px 0;
+}
+
+#mazda_mx-5 .engines-img {
+  margin-top: 35px;
+}
+
+#mazda_mx-5 .engines-img {
+  margin-top: 0;
+}
+
+#mazda_mx-5 .rf-hero {
+  text-align: left;
+  padding-top: 0;
+  height: 315px;
+  background-image: url("/cdn/images/mazda/mx-5/mx-5-rf-hero.jpg");
+  -webkit-background-size: cover;
+  background-size: cover;
+  margin-bottom: 18px;
+}
+
+#mazda_mx-5 .rf-hero {
+  margin-bottom: 18px;
+  height: 415px;
+  background-position: center bottom;
+}
+
+#mazda_mx-5 .rf-hero img {
+  display: none;
+}
+
+#mazda_mx-5 .rf-hero-text {
+  margin-top: 24px;
+  margin-bottom: 0;
+}
+
+#mazda_mx-5 .rf-hero-text {
+  margin-top: 62px;
+}
+
+#mazda_mx-5 .rf-hero-text {
+  margin-top: 36px;
+}
+
+#mazda_mx-5 .rf-hero-text-title {
+  font-size: 30px;
+}
+
+#mazda_mx-5 .rf-hero-text-subtitle {
+  font-size: 22px;
+}
+
+#mazda_mx-5 .rf-hero-text-body {
+  margin: 0;
+  margin-bottom: 12px;
+}
+
+#mazda_mx-5 .rf-info-text {
+  padding: 24px 18px;
+  margin-top: 18px;
+}
+
+#mazda_mx-5 .rf-info-text {
+  padding: 24px 24px;
+  margin-top: 0;
+}
+
+#mazda_mx-5 .rf-design {
+  padding: 18px 0;
+  text-align: center;
+}
+
+#mazda_mx-5 .rf-design {
+  padding: 24px 0;
+}
+
+#mazda_mx-5 .rf-design h2 {
+  max-width: 550px;
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+
+#mazda_mx-5 .rf-design p {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+#mazda_mx-5 .car-spinner #car-spinner-xs {
+  display: none;
+}
+
+#mazda_mx-5 .car-spinner #car-spinner-sm {
+  display: block;
+  margin: -24px auto 0;
+}
+
+#mazda_mx-5 .car-spinner #car-spinner-sm:hover {
+  cursor: pointer;
+}
+
+#mazda_mx-5 .gallery .magnify-image {
+  margin-bottom: 24px;
+  height: 120px;
+}
+
+#mazda_mx-5 .gallery .magnify-image {
+  height: 220px;
+}
+
+#mazda_mx-5 .gallery .magnify-image {
+  height: 240px;
+}

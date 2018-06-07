@@ -1,0 +1,18 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>
+    {% if page.title %}{{page.title | escape}}
+    {% else %}Framework{% endif %}
+  </title>
+  <meta name="description" content="{% if page.description %}{{page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{site.description}}{% endif %}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="shortcut icon" href="favicon.png">
+  <link rel="stylesheet" type="text/css" href="/cdn/css/static/framework/1.0.0/framework.css"/>
+  {% if page.stylesheet %}<link rel="stylesheet" type="text/css" href="{{page.stylesheet}}"/>{% endif %}
+  <!--[if lt IE 9]>
+    {% if page.ie_stylesheet %}<link rel="stylesheet" type="text/css" href="{{page.ie_stylesheet}}"/>{% endif %}
+  <![endif]-->
+  <!--[if IE]><script src="/cdn/assets/js/gearbox/html5shiv.min.js"></script><![endif]-->
+</head>

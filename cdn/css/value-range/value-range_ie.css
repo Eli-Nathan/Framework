@@ -1,0 +1,182 @@
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#value-range .value-range__hero {
+  padding: 24px 0;
+}
+
+#value-range .value-range__hero {
+  padding: 36px 0;
+}
+
+#value-range .value-range__hero .mobile {
+  display: none;
+}
+
+#value-range .value-range__hero .desktop {
+  display: block;
+  margin-top: 24px;
+}
+
+#value-range .value-range__hero .desktop {
+  margin-top: 36px;
+}
+
+#value-range .value-range__content {
+  margin-top: 30px;
+}
+
+#value-range .value-range--ctas,
+#value-range .value-range__benefits,
+#value-range .value-range__categories,
+#value-range .value-range__intro,
+#value-range .value-range__top-picks {
+  padding: 36px 35px;
+}
+
+#value-range .value-range__intro h1 {
+  margin-bottom: 18px;
+  font-size: 28px;
+  line-height: 36px;
+}
+
+#value-range .value-range__intro h1 {
+  margin-bottom: 24px;
+  font-size: 36px;
+  line-height: 36px;
+}
+
+#value-range .value-range__intro p {
+  line-height: 30px;
+  font-size: 18px;
+}
+
+#value-range .value-range__intro .value-range__intro-text {
+  font-size: 18px;
+  line-height: 27px;
+}
+
+#value-range .value-range__intro .value-range__intro-text {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+#value-range .value-range__criteria {
+  margin: 24px 0;
+}
+
+#value-range .value-range__criteria {
+  margin: 36px 0;
+}
+
+#value-range .value-range__criteria-item {
+  text-align: center;
+}
+
+#value-range .value-range__criteria-item:before {
+  margin: 0 auto;
+  width: 88px;
+  height: 40px;
+  float: none;
+}
+
+#value-range .value-range__criteria-item span {
+  margin: 9px 28px 0;
+  font-size: 18px;
+  text-align: center;
+}
+
+#value-range .value-range__criteria-item span {
+  font-size: 22px;
+  line-height: 27px;
+}
+
+#value-range .value-range__criteria-item span {
+  margin: 12px 56px 0;
+}
+
+#value-range .value-range__categories .ch-card {
+  margin-bottom: 12px;
+}
+
+#value-range .value-range__categories .ch-card__img {
+  display: block;
+}
+
+#value-range .value-range__benefits ul {
+  margin-bottom: 24px;
+}
+
+#value-range .value-range__benefits ul {
+  margin-bottom: 0;
+}
+
+#value-range .value-range__benefits li {
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 6px;
+}
+
+#value-range .value-range__benefits li:last-of-type {
+  margin-bottom: 0;
+}
+
+#value-range .value-range__top-picks .ch-card .ch-card__content {
+  min-height: 234px;
+}
+
+#value-range .value-range__top-picks .ch-card .ch-card__content {
+  min-height: 192px;
+}
+
+#value-range .value-range__top-picks .ch-card .ch-card__content {
+  min-height: 168px;
+}
+
+#value-range .value-range__top-picks .ch-card .ch-card__content__text {
+  display: block;
+}

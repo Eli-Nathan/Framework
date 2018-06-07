@@ -1,0 +1,324 @@
+#blks {
+  max-width: 734px;
+}
+
+#blks {
+  overflow-x: auto;
+  max-width: 954px;
+}
+
+#blks {
+  max-width: 1154px;
+}
+
+#blks .blks__scrollable {
+  width: auto;
+  min-height: 442px;
+}
+
+#blks .blks__scrollable {
+  min-height: 342px;
+}
+
+#blks .blks__column {
+  width: 50%;
+}
+
+#blks .blks__column {
+  width: 25%;
+}
+
+#blks .blks--two {
+  width: 100%;
+}
+
+#blks .blks--two {
+  width: 954px;
+  min-height: 196px;
+}
+
+#blks .blks--two {
+  width: 1154px;
+}
+
+#blks .blks--two .blks__column {
+  width: 50%;
+}
+
+#blks .blks--two .blk__details {
+  float: left;
+  padding-left: 14px;
+  width: 69.5%;
+  text-align: left;
+}
+
+#blks .blks--two .blk__img {
+  float: left;
+  width: 30.5%;
+  height: auto;
+  margin: 0;
+}
+
+#blks .blks--two .blk__model,
+#blks .blks--two .blk__variant {
+  text-align: left;
+  min-height: auto;
+}
+
+#blks .blk {
+  text-align: left;
+  margin-bottom: 28px;
+}
+
+#blks .blk {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#blks .blk__details {
+  float: left;
+  width: 69.5%;
+  padding-left: 14px;
+}
+
+#blks .blk__details {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+
+#blks .blk__details__btn {
+  float: right;
+}
+
+#blks .blk__details__btn {
+  float: none;
+}
+
+#blks .blk__model {
+  min-height: auto;
+}
+
+#blks .blk__model {
+  min-height: 50px;
+}
+
+#blks .blk__img {
+  margin-bottom: 0;
+  height: auto;
+  float: left;
+  width: 30.5%;
+}
+
+#blks .blk__img {
+  margin-bottom: 6px;
+  height: 110px;
+  float: none;
+  width: auto;
+}
+
+#mc-representative-example .rep-example__body td,
+#mc-representative-example .rep-example__body th,
+#mc-representative-example .rep-example__body tr {
+  text-align: center;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 33.333%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--interest {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 14.28%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 20%;
+}
+
+.ch-table td,
+.ch-table th {
+  padding: 9px 10.5px;
+}
+
+.ch-table td,
+.ch-table th {
+  padding: 12px 14px;
+}
+
+#scrappage-manufacturer .section {
+  padding: 24px 0;
+}
+
+#scrappage-manufacturer .content .ch-list--tick {
+  margin-bottom: 24px;
+}
+
+#scrappage-manufacturer .deals .text-link {
+  margin-bottom: 0;
+}
+
+#scrappage-manufacturer .deals .text-link {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+#scrappage-manufacturer .deals .text-link {
+  margin-top: 24px;
+}
+
+#scrappage-manufacturer .hero {
+  background: url("/cdn/images/scrappage/citroen/hero--desktop.jpg") center center no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#scrappage-manufacturer .hero .img--mobile {
+  display: none;
+}
+
+#scrappage-manufacturer .hero .img--scrappage {
+  margin-bottom: 24px;
+}
+
+#scrappage-manufacturer .hero__content {
+  padding: 54px 0;
+}
+
+#scrappage-manufacturer .hero__content {
+  padding: 66px 0;
+}
+
+#scrappage-manufacturer .hero__content--box {
+  background: rgba(255,255,255,0.88);
+  width: 100%;
+  height: auto;
+  padding: 36px 42px;
+}
+
+#scrappage-manufacturer .hero__content--box .h1--mobile {
+  display: none;
+}
+
+#scrappage-manufacturer .hero__content--box .h1--desktop {
+  display: block;
+}

@@ -1,0 +1,28 @@
+#real-sale .real-sale-panel {
+  padding: 24px 0;
+}
+
+#real-sale .real-sale-panel__content--title {
+  font-size: 24px;
+}
+
+#real-sale .real-sale-panel__content--title {
+  font-size: 30px;
+}
+
+#real-sale .real-sale-panel__content--title br {
+  display: none;
+}
+
+#real-sale .real-sale-panel__content--logo {
+  top: -12px;
+  height: 52px;
+}
+
+#real-sale .real-sale-panel__content--logo {
+  right: 14px;
+}
+
+#real-sale .real-sale-panel__content--logo {
+  height: 60px;
+}

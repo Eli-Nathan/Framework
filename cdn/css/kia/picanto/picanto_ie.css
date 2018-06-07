@@ -1,0 +1,169 @@
+.lg-outer .lg-thumb-item {
+  -webkit-transition: border-color 0.25s ease;
+  -o-transition: border-color 0.25s ease;
+  transition: border-color 0.25s ease;
+}
+
+#kia-picanto .header {
+  background-image: url("/cdn/images/kia/picanto/picanto-header.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#kia-picanto .header__text {
+  margin: 24px 0;
+}
+
+#kia-picanto .header__text {
+  text-align: left;
+  margin: 96px 0 96px 42px;
+}
+
+#kia-picanto .header__text {
+  margin: 96px 0 146px 96px;
+}
+
+#kia-picanto .header__text p {
+  font-size: 32px;
+}
+
+#kia-picanto .header__text p {
+  font-size: 28px;
+  margin-bottom: 18px;
+}
+
+#kia-picanto .header__text h1 {
+  font-size: 84px;
+  margin-bottom: 36px;
+}
+
+#kia-picanto .header img {
+  display: none;
+}
+
+#kia-picanto .interior {
+  padding: 18px 0;
+}
+
+#kia-picanto .interior {
+  padding: 48px 0;
+}
+
+#kia-picanto .interior--mobile {
+  display: none;
+}
+
+#kia-picanto .interior--desktop {
+  display: block;
+}
+
+#kia-picanto .interior__inner {
+  padding: 0;
+  margin-bottom: 48px;
+}
+
+#kia-picanto .interior__inner h3 {
+  font-size: 24px;
+}
+
+#kia-picanto .interior__inner p {
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 18px;
+}
+
+#kia-picanto .exterior {
+  background-image: url("/cdn/images/kia/picanto/picanto-exterior.jpg");
+  background-position: -webkit-calc(50% - -40px) 50%;
+  background-position: calc(50% - -40px) 50%;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 324px;
+  margin-top: 0;
+}
+
+#kia-picanto .exterior {
+  height: 402px;
+}
+
+#kia-picanto .exterior {
+  height: 450px;
+}
+
+#kia-picanto .exterior__text {
+  margin-top: 36px;
+}
+
+#kia-picanto .exterior__text {
+  margin-top: 126px;
+  margin-left: 28px;
+}
+
+#kia-picanto .exterior__text {
+  margin-top: 150px;
+}
+
+#kia-picanto .exterior__text h3 {
+  font-size: 30px;
+  line-height: 36px;
+}
+
+#kia-picanto .exterior__text p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+#kia-picanto .exterior img {
+  display: none;
+}
+
+#kia-picanto .features {
+  padding: 48px 0 0;
+}
+
+#kia-picanto .features {
+  padding: 48px 0;
+}
+
+#kia-picanto .features__content h3 {
+  margin-bottom: 12px;
+  font-size: 24px;
+}
+
+#kia-picanto .features__content p {
+  margin-bottom: 42px;
+}
+
+#kia-picanto .features__content p {
+  margin-bottom: 0;
+}
+
+#kia-picanto .colours {
+  padding: 36px 0;
+}
+
+#kia-picanto .colours__list {
+  margin: 30px 0;
+  display: block;
+  border: none;
+}
+
+#kia-picanto .colours__list__item {
+  width: 50%;
+}
+
+#kia-picanto .colours__image {
+  margin: 0 auto;
+}
+
+#kia-picanto .colours__image {
+  margin-top: 90px;
+}
+
+#kia-picanto .colours__image {
+  margin-top: 66px;
+}
+
+#kia-picanto .gallery {
+  padding-top: 30px;
+}

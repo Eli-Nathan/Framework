@@ -1,0 +1,102 @@
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+.ch-hero {
+  padding: 24px 0;
+}
+
+#van-store_sizes .ch-hero p {
+  font-size: 16px;
+}
+
+#van-store_sizes .ch-card {
+  min-height: 580px;
+}
+
+#van-store_sizes .ch-card {
+  min-height: 580px;
+}
+
+#van-store_sizes .ch-card:last-child {
+  margin-bottom: 18px;
+}
+
+#van-store_sizes .ch-card {
+  min-height: 510px;
+}
+
+#van-store_sizes .ch-card {
+  min-height: 480px;
+}
+
+#van-store_sizes .ch-card__content {
+  margin-top: 40px;
+}
+
+#van-store_sizes .ch-card__content {
+  margin-top: 60px;
+}
+
+#van-store_sizes .ch-card__content {
+  margin-top: 80px;
+}
+
+#van-store_sizes img {
+  left: 28px;
+  width: 120px;
+  top: -6px;
+}
+
+#van-store_sizes img {
+  left: 35px;
+  width: 160px;
+  top: -18px;
+}
+
+#van-store_sizes img {
+  width: 200px;
+}

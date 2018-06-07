@@ -1,0 +1,25 @@
+#homepage .ch-header {
+  min-height: auto;
+  border-bottom-width: 4px;
+}
+
+#homepage .ch-header .ac-nav__list-item {
+  padding: 28px 0;
+}
+
+#homepage .ch-header .ch-brand {
+  padding-top: 26px;
+  line-height: 1;
+}
+
+#homepage .ch-header .ac-subnav {
+  top: 80px;
+}
+
+#homepage .main {
+  margin-top: 24px;
+}
+
+#homepage a.goTo {
+  margin-bottom: 24px;
+}

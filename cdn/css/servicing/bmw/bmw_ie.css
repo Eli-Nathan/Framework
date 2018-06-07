@@ -1,0 +1,38 @@
+#servicing_bmw .pricing {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+#servicing_bmw .pricing {
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+#servicing_bmw th:first-child {
+  width: auto;
+}
+
+#servicing_bmw td,
+#servicing_bmw th {
+  font-size: 16px;
+  padding: 10px 20px;
+}
+
+#servicing_bmw .bodyshop {
+  background: url("/cdn/images/servicing/bmw/bodyshop.jpg") center center no-repeat;
+}
+
+#servicing_bmw .bodyshop__mobile-image {
+  display: none;
+}
+
+#servicing_bmw .cta {
+  margin-top: 40px;
+  padding: 20px;
+  border: 1px solid #e5e5e5;
+  background-color: #fff;
+}
+
+#servicing_bmw .cta__btns {
+  float: right;
+}

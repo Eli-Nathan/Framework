@@ -1,0 +1,242 @@
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+.ch-hero {
+  padding: 24px 0;
+}
+
+#van-store .margin-y,
+#van-store .usp__content,
+#van-store .more-for-your-van {
+  margin: 48px auto;
+}
+
+#van-store .ch-hero {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.3)), to(rgba(0,0,0,0.5))),url("/cdn/images/van-store/hero.jpg");
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.5)),url("/cdn/images/van-store/hero.jpg");
+  background: -o-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.5)),url("/cdn/images/van-store/hero.jpg");
+  background: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.5)),url("/cdn/images/van-store/hero.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#van-store .ch-hero {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), to(rgba(0,0,0,0.3))),url("/cdn/images/van-store/hero.jpg");
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0.1), rgba(0,0,0,0.3)),url("/cdn/images/van-store/hero.jpg");
+  background: -o-linear-gradient(top, rgba(0,0,0,0.1), rgba(0,0,0,0.3)),url("/cdn/images/van-store/hero.jpg");
+  background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.3)),url("/cdn/images/van-store/hero.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  padding: 48px 0;
+}
+
+#van-store .ch-hero {
+  padding: 72px 0;
+}
+
+#van-store .ch-hero .ch-col--md-4 {
+  padding: 7px;
+  padding-bottom: 0;
+}
+
+#van-store select {
+  margin-bottom: 0;
+}
+
+#van-store .ch-form__group {
+  background: rgba(0,0,0,0.6);
+  padding: 18px 0;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
+
+#van-store .ch-form__group {
+  padding: 6px 7px 0 7px;
+  margin-bottom: 48px;
+}
+
+#van-store .usp {
+  background: url("/cdn/images/van-store/usp-desktop.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 380px;
+}
+
+#van-store .usp {
+  height: 480px;
+}
+
+#van-store .usp__mobile {
+  display: none;
+}
+
+#van-store .usp__header {
+  padding-top: 66px;
+}
+
+#van-store .usp__header {
+  padding-top: 90px;
+}
+
+#van-store .usp__header {
+  padding-top: 60px;
+}
+
+#van-store .usp .ch-list--tick {
+  font-size: 18px;
+}
+
+#van-store .usp .ch-list--tick li {
+  padding-bottom: 12px;
+}
+
+#van-store .sell {
+  padding: 60px 0;
+}
+
+#van-store .more-from-van-store {
+  margin-top: 24px;
+}
+
+#van-store .more-from-van-store {
+  margin-top: 6px;
+  margin-bottom: 36px;
+}
+
+#van-store .more-from-van-store {
+  margin-bottom: 42px;
+}
+
+#van-store .more-from-van-store .ch-card {
+  height: 66px;
+}
+
+#van-store .more-from-van-store .ch-card {
+  height: 90px;
+}
+
+#van-store .more-from-van-store .ch-card {
+  height: 150px;
+}
+
+#van-store .more-from-van-store .ch-card {
+  height: auto;
+}
+
+#van-store .more-from-van-store .ch-card__content {
+  text-align: center;
+  margin-top: 18px;
+  margin-left: -14px;
+}
+
+#van-store .more-from-van-store .ch-card__content {
+  margin-top: 30px;
+  margin-left: -14px;
+}
+
+#van-store .more-from-van-store .ch-card__content {
+  margin-top: 60px;
+  margin-left: -28px;
+}
+
+#van-store .more-from-van-store .ch-card__content {
+  margin: 12px 14px;
+  text-align: center;
+}
+
+#van-store .more-from-van-store .ch-card__content {
+  text-align: left;
+}
+
+#van-store .more-for-your-van__icon {
+  width: 20%;
+}
+
+#van-store .more-for-your-van__icon {
+  width: 25%;
+}
+
+#van-store .more-for-your-van__icon--large {
+  width: 40%;
+}
+
+#van-store .more-for-your-van__icon--large {
+  width: 50%;
+}
+
+#van-store .more-for-your-van .ch-card {
+  min-height: auto;
+}
+
+#van-store .manufacturers .card {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+#van-store .manufacturers .card:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#van-store .manufacturers .card__content {
+  margin-bottom: 18px;
+}
+
+#van-store .manufacturers .card__content__img {
+  width: 100px;
+}

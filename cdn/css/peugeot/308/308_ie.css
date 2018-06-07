@@ -1,0 +1,208 @@
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#peugeot__308 .mobile--img {
+  display: none;
+}
+
+#peugeot__308 .hero {
+  color: #f2f2f2;
+  background-image: url("/cdn/images/peugeot/308/hero--desktop.jpg");
+  background-position: top center;
+}
+
+#peugeot__308 .hero {
+  background-position: center;
+}
+
+#peugeot__308 .hero img {
+  display: none;
+}
+
+#peugeot__308 .hero--content {
+  padding: 36px 0;
+}
+
+#peugeot__308 .hero--content {
+  padding: 60px 0;
+}
+
+#peugeot__308 .hero--content {
+  padding: 30px 0 150px;
+}
+
+#peugeot__308 .mini-nav {
+  background-color: #162133;
+  color: #ffffff;
+  display: block;
+}
+
+#peugeot__308 .mini-nav .mini-nav__desktop ul {
+  display: block;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+#peugeot__308 .mini-nav .mini-nav__desktop li {
+  width: 130px;
+  font-size: 18px;
+  padding-top: 18px;
+}
+
+#peugeot__308 .mini-nav .mini-nav__desktop li {
+  width: 166px;
+}
+
+#peugeot__308 .mini-nav .mini-nav__desktop li .text-link {
+  display: block;
+  width: 120px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 4px;
+  color: #f2f2f2;
+  text-decoration: none;
+  border: 2px solid #162133;
+}
+
+#peugeot__308 .mini-nav .mini-nav__mobile {
+  display: none;
+}
+
+#peugeot__308 .section__variants {
+  padding: 36px 0;
+}
+
+#peugeot__308 .section__variants .ch-card {
+  margin-bottom: 0;
+}
+
+#peugeot__308 .section__variants .ch-card__content {
+  min-height: 206px;
+}
+
+#peugeot__308 .section__variants .ch-card__content {
+  min-height: 180px;
+}
+
+#peugeot__308 .section__variants .ch-card__content {
+  min-height: 266px;
+}
+
+#peugeot__308 .section__variants .ch-card__content {
+  min-height: 218px;
+}
+
+#peugeot__308 .section__features {
+  color: #2D3737;
+  background-image: url("/cdn/images/peugeot/308/features--desktop.jpg");
+  background-position: center;
+}
+
+#peugeot__308 .section__features--content {
+  padding: 450px 0 30px;
+}
+
+#peugeot__308 .section__features--content .ch-list li {
+  width: 50%;
+  float: left;
+}
+
+#peugeot__308 .section__safety--content {
+  padding: 36px 0;
+}
+
+#peugeot__308 .section__safety--content-ncap {
+  display: block;
+}
+
+#peugeot__308 .section__safety--content .ch-card {
+  min-height: 397px;
+}
+
+#peugeot__308 .section__safety--content .ch-card {
+  min-height: 451px;
+}
+
+#peugeot__308 .section__safety--content .ch-card {
+  min-height: 424px;
+}
+
+#peugeot__308 .section__colours {
+  padding: 36px 0;
+}
+
+#peugeot__308 .section__colours .colours__list {
+  display: block;
+  border: none;
+}
+
+#peugeot__308 .section__colours .colours__list__item {
+  width: 50%;
+}
+
+#peugeot__308 .section__colours .colours__image {
+  margin-top: 0;
+}
+
+#peugeot__308 .section__cta {
+  padding: 24px 0;
+}
+
+#peugeot__308 .section__cta {
+  padding: 36px 0;
+}

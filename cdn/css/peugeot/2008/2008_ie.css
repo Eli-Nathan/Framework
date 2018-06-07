@@ -1,0 +1,77 @@
+#peugeot-2008 .ctas {
+  text-align: left;
+}
+
+#peugeot-2008 .ctas {
+  text-align: right;
+}
+
+#peugeot-2008 .ch-btn {
+  width: auto;
+  margin: 5px;
+}
+
+#peugeot-2008 h2,
+#peugeot-2008 p {
+  max-width: 450px;
+}
+
+#peugeot-2008 .hero {
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center -50px;
+}
+
+#peugeot-2008 .hero .hero--wrapper {
+  padding-top: 300px;
+}
+
+#peugeot-2008 .hero .hero--wrapper .hero--content {
+  margin-bottom: 0;
+}
+
+#peugeot-2008 .hero .hero--wrapper .ch-container .ch-row {
+  width: 1154px;
+}
+
+#peugeot-2008 section.section--standout {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #fff;
+}
+
+#peugeot-2008 section.section--standout {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#peugeot-2008 section.section--standout img {
+  display: none;
+}
+
+#peugeot-2008 section.section--standout.looks {
+  background: url("/cdn/images/peugeot/2008/peugeot-2008-looks-bg.jpg") no-repeat #50000A;
+  background-position: center 10%;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#peugeot-2008 section.section--standout.intuition {
+  background: url("/cdn/images/peugeot/2008/peugeot-2008-intuition-bg.jpg") no-repeat #50000A;
+  background-position: -750px center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#peugeot-2008 section.section--standout.intuition {
+  background-position: center center;
+}
+
+#peugeot-2008 .outro .outro--wrapper h2 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+#peugeot-2008 .outro .outro--wrapper .ch-container .ch-row {
+  width: 1154px;
+}

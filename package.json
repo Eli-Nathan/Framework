@@ -1,0 +1,68 @@
+{
+  "name": "ignition",
+  "version": "3.0.0",
+  "description": "Node, Gulp & Liquid templates project to maintain all the landing pages and assets for arnoldclark.com.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "setup": "rm -rf _site && rm -rf node_modules && yarn install && gulp javascripts --force && gulp stylesheets --force && gulp templates --force && && gulp static --force",
+    "dev": "gulp static --silent && gulp",
+    "force": "gulp javascripts --force && gulp stylesheets --force && gulp templates --force && gulp static --force",
+    "upgrade": "rm -rf _site && rm -rf node_modules && yarn install && gulp javascripts --force && gulp stylesheets --force && gulp templates --force && gulp static --force",
+    "ie": "gulp ie",
+    "crunch": "gulp optimize_images"
+  },
+  "author": "Chrissy Collins",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.17.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browser-sync": "2.18.12",
+    "browserify": "14.4.0",
+    "es6-promise": "^4.1.1",
+    "event-stream": "^3.3.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "4.0.0",
+    "gulp-buffer": "0.0.2",
+    "gulp-changed": "3.1.0",
+    "gulp-debug": "3.1.0",
+    "gulp-front-matter": "^1.2.2",
+    "gulp-if": "2.0.2",
+    "gulp-imagemin": "3.2.0",
+    "gulp-newer": "1.3.0",
+    "gulp-no-media-queries": "0.0.5",
+    "gulp-rename": "1.2.2",
+    "gulp-sass": "3.1.0",
+    "gulp-tap": "1.0.1",
+    "gulp-uglify": "3.0.0",
+    "liquid-node": "^3.0.0",
+    "standard": "10.0.2",
+    "whatwg-fetch": "^2.0.3",
+    "yargs": "8.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arnoldclark/ignition"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "browsersync"
+  ],
+  "bugs": {
+    "url": "https://github.com/arnoldclark/ignition/issues"
+  },
+  "standard": {
+    "ignore": [
+      "/_site",
+      "/cdn",
+      "/_scripts/_libs",
+      "gulpfile.js"
+    ],
+    "globals": [
+      "$",
+      "jQuery"
+    ]
+  },
+  "homepage": "https://github.com/arnoldclark/ignition"
+}

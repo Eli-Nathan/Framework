@@ -1,0 +1,181 @@
+.ac-subheader {
+  z-index: 3;
+}
+
+body,
+html {
+  overflow-x: hidden;
+}
+
+#abarth_124-spider .ch-btn {
+  width: auto;
+  text-align: justify;
+  margin-top: 0;
+}
+
+#abarth_124-spider .header {
+  background-color: #000000;
+  background-image: url("/cdn/images/abarth/124-spider/124-spider-header.jpg");
+  background-position: -330px 0;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+
+#abarth_124-spider .header {
+  background-position: -200px 0;
+}
+
+#abarth_124-spider .header-scorpion {
+  display: block;
+  position: absolute;
+  top: -260px;
+  left: -100px;
+  height: 720px;
+  width: auto;
+  z-index: 3;
+}
+
+#abarth_124-spider .header-text {
+  padding-top: 21px;
+  padding-bottom: 21px;
+}
+
+#abarth_124-spider .header-text {
+  float: right;
+  padding-left: 0;
+}
+
+#abarth_124-spider .header-text {
+  position: absolute;
+  top: 130px;
+}
+
+#abarth_124-spider .header-mobile-img {
+  display: none;
+}
+
+#abarth_124-spider .flag-container {
+  min-height: auto;
+}
+
+#abarth_124-spider .roadster img {
+  right: -11px;
+}
+
+#abarth_124-spider .roadster img {
+  right: auto;
+}
+
+#abarth_124-spider .roadster-flag-red {
+  margin-left: 110px;
+}
+
+#abarth_124-spider .roadster-text {
+  margin-top: 28px;
+  margin-bottom: 60px;
+}
+
+#abarth_124-spider .roadster-text {
+  margin-left: 40px;
+  max-width: 500px;
+}
+
+#abarth_124-spider .attitude-inner {
+  background-image: url("/cdn/images/abarth/124-spider/124-spider-front.jpg");
+  background-position: -230% 0;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+
+#abarth_124-spider .attitude-inner {
+  background-position: 180% 0;
+}
+
+#abarth_124-spider .attitude-text {
+  padding-top: 21px;
+  padding-bottom: 21px;
+}
+
+#abarth_124-spider .attitude-text {
+  float: right;
+  padding-left: 0;
+  max-width: 27%;
+  position: absolute;
+  top: 80px;
+}
+
+#abarth_124-spider .attitude-text {
+  max-width: 350px;
+  top: 100px;
+}
+
+#abarth_124-spider .attitude img {
+  display: none;
+}
+
+#abarth_124-spider .gallery-image {
+  margin-top: 21px;
+}
+
+#abarth_124-spider .gallery-image {
+  margin-top: 28px;
+}
+
+#abarth_124-spider .roof {
+  margin-top: 18px;
+}
+
+#abarth_124-spider .roof {
+  height: 350px;
+  margin-top: 28px;
+}
+
+#abarth_124-spider .roof img {
+  position: absolute;
+  max-height: 350px;
+  -webkit-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+}
+
+#abarth_124-spider .roof-up {
+  display: block;
+}
+
+#abarth_124-spider .power {
+  margin-top: 28px;
+  margin-bottom: 28px;
+}
+
+#abarth_124-spider .power-text {
+  max-width: 700px;
+}
+
+#abarth_124-spider .limited {
+  background-image: url("/cdn/images/abarth/124-spider/limited-edition.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+
+#abarth_124-spider .limited img {
+  display: none;
+}
+
+#abarth_124-spider .limited-text {
+  margin-top: 100px;
+  max-width: 330px;
+  margin-bottom: 0;
+}
+
+#abarth_124-spider .limited-text {
+  max-width: 375px;
+}
+
+#abarth_124-spider .bottom-buttons a {
+  margin-top: 0;
+}

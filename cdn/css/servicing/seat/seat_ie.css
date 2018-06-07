@@ -1,0 +1,68 @@
+.ch-table td,
+.ch-table th {
+  padding: 9px 10.5px;
+}
+
+.ch-table td,
+.ch-table th {
+  padding: 12px 14px;
+}
+
+#servicing_seat .mobile-image {
+  display: none;
+}
+
+#servicing_seat .section {
+  padding: 24px 0;
+}
+
+#servicing_seat .pricing__second-table {
+  margin-top: 0;
+}
+
+#servicing_seat .tyres {
+  background-image: url("/cdn/images/servicing/seat/tyres-tablet.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#servicing_seat .tyres {
+  background-image: url("/cdn/images/servicing/seat/tyres.jpg");
+}
+
+#servicing_seat .tyres__content {
+  padding: 24px 0;
+}
+
+#servicing_seat .bodywork {
+  border: none;
+}
+
+#servicing_seat .bodywork {
+  background-image: url("/cdn/images/servicing/seat/bodywork.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#servicing_seat .bodywork__content {
+  background-color: rgba(255,255,255,0.8);
+  padding: 24px;
+}
+
+#servicing_seat .roadside-assistance {
+  background-image: url("/cdn/images/servicing/seat/roadside-assistance-tablet.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#servicing_seat .roadside-assistance {
+  background-image: url("/cdn/images/servicing/seat/roadside-assistance.jpg");
+}
+
+#servicing_seat .roadside-assistance__box {
+  background-color: rgba(48,48,51,0.8);
+  padding: 24px;
+}

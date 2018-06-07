@@ -1,0 +1,61 @@
+#parts p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+#parts .hero {
+  background-image: url("/cdn/images/parts/hero-desktop.jpg");
+}
+
+#parts .hero {
+  padding: 60px 0;
+}
+
+#parts .hero__header {
+  font-size: 48px;
+}
+
+#parts .hero__sub {
+  width: 70%;
+}
+
+#parts .hero__sub {
+  width: 100%;
+  font-size: 18px;
+}
+
+#parts .hero__sub {
+  font-size: 21px;
+}
+
+#parts .sub-header {
+  padding-bottom: 40px;
+}
+
+#parts .sub-header__block {
+  margin-top: 20px;
+}
+
+#parts .sub-header__block {
+  margin-top: 10px;
+  padding: 30px;
+}
+
+#parts .main {
+  padding: 40px 0;
+}
+
+#parts .manufacturer__content {
+  margin-bottom: 28px;
+}
+
+#parts .manufacturer__content:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#parts .usp__list li {
+  font-size: 18px;
+  padding-bottom: 10px;
+}

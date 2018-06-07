@@ -1,0 +1,1310 @@
+#mc-representative-example .rep-example__body td,
+#mc-representative-example .rep-example__body th,
+#mc-representative-example .rep-example__body tr {
+  text-align: center;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 33.333%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--interest {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 14.28%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 20%;
+}
+
+#blks {
+  max-width: 734px;
+}
+
+#blks {
+  overflow-x: auto;
+  max-width: 954px;
+}
+
+#blks {
+  max-width: 1154px;
+}
+
+#blks .blks__scrollable {
+  width: auto;
+  min-height: 442px;
+}
+
+#blks .blks__scrollable {
+  min-height: 342px;
+}
+
+#blks .blks__column {
+  width: 50%;
+}
+
+#blks .blks__column {
+  width: 25%;
+}
+
+#blks .blks--two {
+  width: 100%;
+}
+
+#blks .blks--two {
+  width: 954px;
+  min-height: 196px;
+}
+
+#blks .blks--two {
+  width: 1154px;
+}
+
+#blks .blks--two .blks__column {
+  width: 50%;
+}
+
+#blks .blks--two .blk__details {
+  float: left;
+  padding-left: 14px;
+  width: 69.5%;
+  text-align: left;
+}
+
+#blks .blks--two .blk__img {
+  float: left;
+  width: 30.5%;
+  height: auto;
+  margin: 0;
+}
+
+#blks .blks--two .blk__model,
+#blks .blks--two .blk__variant {
+  text-align: left;
+  min-height: auto;
+}
+
+#blks .blk {
+  text-align: left;
+  margin-bottom: 28px;
+}
+
+#blks .blk {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#blks .blk__details {
+  float: left;
+  width: 69.5%;
+  padding-left: 14px;
+}
+
+#blks .blk__details {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+
+#blks .blk__details__btn {
+  float: right;
+}
+
+#blks .blk__details__btn {
+  float: none;
+}
+
+#blks .blk__model {
+  min-height: auto;
+}
+
+#blks .blk__model {
+  min-height: 50px;
+}
+
+#blks .blk__img {
+  margin-bottom: 0;
+  height: auto;
+  float: left;
+  width: 30.5%;
+}
+
+#blks .blk__img {
+  margin-bottom: 6px;
+  height: 110px;
+  float: none;
+  width: auto;
+}
+
+#mc-model-selector .mobile-overlay {
+  display: none;
+}
+
+#mc-model-selector .slab--models {
+  padding: 7px 0;
+  min-height: 0;
+}
+
+#mc-model-selector .model-nav {
+  padding: 0;
+  display: block;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+}
+
+#mc-model-selector .model-nav li {
+  width: 30%;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+}
+
+#mc-model-selector .model-nav li a,
+#mc-model-selector .model-nav li a:visited {
+  font-size: 16px;
+  font-weight: 500;
+  display: block;
+  padding: 14px 7px;
+  text-decoration: none;
+  color: #2D3737;
+}
+
+#mc-model-selector .model-nav li a .model-nav__title,
+#mc-model-selector .model-nav li a:visited .model-nav__title {
+  font-size: 16px;
+  font-weight: 500;
+  display: block;
+  text-decoration: none;
+  color: #2D3737;
+}
+
+#mc-model-selector .model-nav li a span,
+#mc-model-selector .model-nav li a:visited span {
+  font-size: 13px;
+  color: #979797;
+  font-weight: 400;
+  text-decoration: none;
+  display: block;
+  max-width: 100%;
+}
+
+#mc-model-selector .model-nav li a:hover,
+#mc-model-selector .model-nav li a:visited:hover {
+  border-bottom: solid 3px #607882;
+}
+
+#mc-model-selector .model-nav li a:hover .model-nav__title,
+#mc-model-selector .model-nav li a:visited:hover .model-nav__title {
+  color: #607882;
+}
+
+#mc-model-selector .model-nav li.model-nav--selected a,
+#mc-model-selector .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #607882;
+}
+
+#mc-model-selector .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #607882;
+}
+
+#mc-model-selector .model-nav--four li {
+  width: 24%;
+}
+
+#mc-model-selector .model-select {
+  display: none;
+}
+
+#mc-model-selector .model {
+  text-align: center;
+  background: #fff;
+  position: relative;
+  bottom: 0;
+  margin: 7px 0;
+  display: block;
+  border: solid 1px #e5e5e5;
+  border-bottom-width: 3px;
+  overflow: hidden;
+}
+
+#mc-model-selector .model:hover {
+  border-bottom-color: #607882;
+}
+
+#mc-model-selector .model:hover .model__links {
+  display: block;
+}
+
+#mc-model-selector .model:active {
+  -webkit-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+
+#mc-model-selector .model__image {
+  max-width: 100%;
+  width: 100px;
+  height: auto;
+  float: none;
+  display: block;
+  margin: 14px auto;
+}
+
+#mc-model-selector .model__title {
+  color: #2D3737;
+  display: block;
+  font-size: 14px;
+}
+
+#mc-model-selector .model-nav li {
+  padding: 0 36px;
+}
+
+#mc-model-selector .models--abarth .model-nav li a:hover,
+#mc-model-selector .models--abarth .model-nav li a:visited:hover {
+  border-bottom: solid 3px #A9122D;
+}
+
+#mc-model-selector .models--abarth .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--abarth .model-nav li a:visited:hover .model-nav__title {
+  color: #A9122D;
+}
+
+#mc-model-selector .models--abarth .model-nav li.model-nav--selected a,
+#mc-model-selector .models--abarth .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #A9122D;
+}
+
+#mc-model-selector .models--abarth .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--abarth .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #A9122D;
+}
+
+#mc-model-selector .models--abarth .model:hover {
+  border-bottom-color: #A9122D;
+}
+
+#mc-model-selector .models--abarth .model:active {
+  border-color: #A9122D;
+}
+
+#mc-model-selector .models--alfa .model-nav li a:hover,
+#mc-model-selector .models--alfa .model-nav li a:visited:hover {
+  border-bottom: solid 3px #8F0C25;
+}
+
+#mc-model-selector .models--alfa .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--alfa .model-nav li a:visited:hover .model-nav__title {
+  color: #8F0C25;
+}
+
+#mc-model-selector .models--alfa .model-nav li.model-nav--selected a,
+#mc-model-selector .models--alfa .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #8F0C25;
+}
+
+#mc-model-selector .models--alfa .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--alfa .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #8F0C25;
+}
+
+#mc-model-selector .models--alfa .model:hover {
+  border-bottom-color: #8F0C25;
+}
+
+#mc-model-selector .models--alfa .model:active {
+  border-color: #8F0C25;
+}
+
+#mc-model-selector .models--bmw .model-nav li a:hover,
+#mc-model-selector .models--bmw .model-nav li a:visited:hover {
+  border-bottom: solid 3px #1c69d4;
+}
+
+#mc-model-selector .models--bmw .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--bmw .model-nav li a:visited:hover .model-nav__title {
+  color: #1c69d4;
+}
+
+#mc-model-selector .models--bmw .model-nav li.model-nav--selected a,
+#mc-model-selector .models--bmw .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #1c69d4;
+}
+
+#mc-model-selector .models--bmw .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--bmw .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #1c69d4;
+}
+
+#mc-model-selector .models--bmw .model:hover {
+  border-bottom-color: #1c69d4;
+}
+
+#mc-model-selector .models--bmw .model:active {
+  border-color: #1c69d4;
+}
+
+#mc-model-selector .models--citroen .model-nav li a:hover,
+#mc-model-selector .models--citroen .model-nav li a:visited:hover {
+  border-bottom: solid 3px #DC002E;
+}
+
+#mc-model-selector .models--citroen .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--citroen .model-nav li a:visited:hover .model-nav__title {
+  color: #DC002E;
+}
+
+#mc-model-selector .models--citroen .model-nav li.model-nav--selected a,
+#mc-model-selector .models--citroen .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #DC002E;
+}
+
+#mc-model-selector .models--citroen .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--citroen .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #DC002E;
+}
+
+#mc-model-selector .models--citroen .model:hover {
+  border-bottom-color: #DC002E;
+}
+
+#mc-model-selector .models--citroen .model:active {
+  border-color: #DC002E;
+}
+
+#mc-model-selector .models--dacia .model-nav li a:hover,
+#mc-model-selector .models--dacia .model-nav li a:visited:hover {
+  border-bottom: solid 3px #003292;
+}
+
+#mc-model-selector .models--dacia .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--dacia .model-nav li a:visited:hover .model-nav__title {
+  color: #003292;
+}
+
+#mc-model-selector .models--dacia .model-nav li.model-nav--selected a,
+#mc-model-selector .models--dacia .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #003292;
+}
+
+#mc-model-selector .models--dacia .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--dacia .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #003292;
+}
+
+#mc-model-selector .models--dacia .model:hover {
+  border-bottom-color: #003292;
+}
+
+#mc-model-selector .models--dacia .model:active {
+  border-color: #003292;
+}
+
+#mc-model-selector .models--ds .model-nav li a:hover,
+#mc-model-selector .models--ds .model-nav li a:visited:hover {
+  border-bottom: solid 3px #a70142;
+}
+
+#mc-model-selector .models--ds .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--ds .model-nav li a:visited:hover .model-nav__title {
+  color: #a70142;
+}
+
+#mc-model-selector .models--ds .model-nav li.model-nav--selected a,
+#mc-model-selector .models--ds .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #a70142;
+}
+
+#mc-model-selector .models--ds .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--ds .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #a70142;
+}
+
+#mc-model-selector .models--ds .model:hover {
+  border-bottom-color: #a70142;
+}
+
+#mc-model-selector .models--ds .model:active {
+  border-color: #a70142;
+}
+
+#mc-model-selector .models--fiat .model-nav li a:hover,
+#mc-model-selector .models--fiat .model-nav li a:visited:hover {
+  border-bottom: solid 3px #96172e;
+}
+
+#mc-model-selector .models--fiat .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--fiat .model-nav li a:visited:hover .model-nav__title {
+  color: #96172e;
+}
+
+#mc-model-selector .models--fiat .model-nav li.model-nav--selected a,
+#mc-model-selector .models--fiat .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #96172e;
+}
+
+#mc-model-selector .models--fiat .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--fiat .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #96172e;
+}
+
+#mc-model-selector .models--fiat .model:hover {
+  border-bottom-color: #96172e;
+}
+
+#mc-model-selector .models--fiat .model:active {
+  border-color: #96172e;
+}
+
+#mc-model-selector .models--ford .model-nav li a:hover,
+#mc-model-selector .models--ford .model-nav li a:visited:hover {
+  border-bottom: solid 3px #43596a;
+}
+
+#mc-model-selector .models--ford .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--ford .model-nav li a:visited:hover .model-nav__title {
+  color: #43596a;
+}
+
+#mc-model-selector .models--ford .model-nav li.model-nav--selected a,
+#mc-model-selector .models--ford .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #43596a;
+}
+
+#mc-model-selector .models--ford .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--ford .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #43596a;
+}
+
+#mc-model-selector .models--ford .model:hover {
+  border-bottom-color: #43596a;
+}
+
+#mc-model-selector .models--ford .model:active {
+  border-color: #43596a;
+}
+
+#mc-model-selector .models--hyundai .model-nav li a:hover,
+#mc-model-selector .models--hyundai .model-nav li a:visited:hover {
+  border-bottom: solid 3px #3176BA;
+}
+
+#mc-model-selector .models--hyundai .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--hyundai .model-nav li a:visited:hover .model-nav__title {
+  color: #3176BA;
+}
+
+#mc-model-selector .models--hyundai .model-nav li.model-nav--selected a,
+#mc-model-selector .models--hyundai .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #3176BA;
+}
+
+#mc-model-selector .models--hyundai .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--hyundai .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #3176BA;
+}
+
+#mc-model-selector .models--hyundai .model:hover {
+  border-bottom-color: #3176BA;
+}
+
+#mc-model-selector .models--hyundai .model:active {
+  border-color: #3176BA;
+}
+
+#mc-model-selector .models--jeep .model-nav li a:hover,
+#mc-model-selector .models--jeep .model-nav li a:visited:hover {
+  border-bottom: solid 3px #FFBA00;
+}
+
+#mc-model-selector .models--jeep .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--jeep .model-nav li a:visited:hover .model-nav__title {
+  color: #FFBA00;
+}
+
+#mc-model-selector .models--jeep .model-nav li.model-nav--selected a,
+#mc-model-selector .models--jeep .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #FFBA00;
+}
+
+#mc-model-selector .models--jeep .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--jeep .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #FFBA00;
+}
+
+#mc-model-selector .models--jeep .model:hover {
+  border-bottom-color: #FFBA00;
+}
+
+#mc-model-selector .models--jeep .model:active {
+  border-color: #FFBA00;
+}
+
+#mc-model-selector .models--kia .model-nav li a:hover,
+#mc-model-selector .models--kia .model-nav li a:visited:hover {
+  border-bottom: solid 3px #bb162b;
+}
+
+#mc-model-selector .models--kia .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--kia .model-nav li a:visited:hover .model-nav__title {
+  color: #bb162b;
+}
+
+#mc-model-selector .models--kia .model-nav li.model-nav--selected a,
+#mc-model-selector .models--kia .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #bb162b;
+}
+
+#mc-model-selector .models--kia .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--kia .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #bb162b;
+}
+
+#mc-model-selector .models--kia .model:hover {
+  border-bottom-color: #bb162b;
+}
+
+#mc-model-selector .models--kia .model:active {
+  border-color: #bb162b;
+}
+
+#mc-model-selector .models--mazda .model-nav li a:hover,
+#mc-model-selector .models--mazda .model-nav li a:visited:hover {
+  border-bottom: solid 3px #457b9b;
+}
+
+#mc-model-selector .models--mazda .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--mazda .model-nav li a:visited:hover .model-nav__title {
+  color: #457b9b;
+}
+
+#mc-model-selector .models--mazda .model-nav li.model-nav--selected a,
+#mc-model-selector .models--mazda .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #457b9b;
+}
+
+#mc-model-selector .models--mazda .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--mazda .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #457b9b;
+}
+
+#mc-model-selector .models--mazda .model:hover {
+  border-bottom-color: #457b9b;
+}
+
+#mc-model-selector .models--mazda .model:active {
+  border-color: #457b9b;
+}
+
+#mc-model-selector .models--merc .model-nav li a:hover,
+#mc-model-selector .models--merc .model-nav li a:visited:hover {
+  border-bottom: solid 3px #89959d;
+}
+
+#mc-model-selector .models--merc .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--merc .model-nav li a:visited:hover .model-nav__title {
+  color: #89959d;
+}
+
+#mc-model-selector .models--merc .model-nav li.model-nav--selected a,
+#mc-model-selector .models--merc .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #89959d;
+}
+
+#mc-model-selector .models--merc .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--merc .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #89959d;
+}
+
+#mc-model-selector .models--merc .model:hover {
+  border-bottom-color: #89959d;
+}
+
+#mc-model-selector .models--merc .model:active {
+  border-color: #89959d;
+}
+
+#mc-model-selector .models--mg .model-nav li a:hover,
+#mc-model-selector .models--mg .model-nav li a:visited:hover {
+  border-bottom: solid 3px #880005;
+}
+
+#mc-model-selector .models--mg .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--mg .model-nav li a:visited:hover .model-nav__title {
+  color: #880005;
+}
+
+#mc-model-selector .models--mg .model-nav li.model-nav--selected a,
+#mc-model-selector .models--mg .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #880005;
+}
+
+#mc-model-selector .models--mg .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--mg .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #880005;
+}
+
+#mc-model-selector .models--mg .model:hover {
+  border-bottom-color: #880005;
+}
+
+#mc-model-selector .models--mg .model:active {
+  border-color: #880005;
+}
+
+#mc-model-selector .models--mitsubishi .model-nav li a:hover,
+#mc-model-selector .models--mitsubishi .model-nav li a:visited:hover {
+  border-bottom: solid 3px #E30613;
+}
+
+#mc-model-selector .models--mitsubishi .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--mitsubishi .model-nav li a:visited:hover .model-nav__title {
+  color: #E30613;
+}
+
+#mc-model-selector .models--mitsubishi .model-nav li.model-nav--selected a,
+#mc-model-selector .models--mitsubishi .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #E30613;
+}
+
+#mc-model-selector .models--mitsubishi .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--mitsubishi .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #E30613;
+}
+
+#mc-model-selector .models--mitsubishi .model:hover {
+  border-bottom-color: #E30613;
+}
+
+#mc-model-selector .models--mitsubishi .model:active {
+  border-color: #E30613;
+}
+
+#mc-model-selector .models--peugeot .model-nav li a:hover,
+#mc-model-selector .models--peugeot .model-nav li a:visited:hover {
+  border-bottom: solid 3px #2497c3;
+}
+
+#mc-model-selector .models--peugeot .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--peugeot .model-nav li a:visited:hover .model-nav__title {
+  color: #2497c3;
+}
+
+#mc-model-selector .models--peugeot .model-nav li.model-nav--selected a,
+#mc-model-selector .models--peugeot .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #2497c3;
+}
+
+#mc-model-selector .models--peugeot .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--peugeot .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #2497c3;
+}
+
+#mc-model-selector .models--peugeot .model:hover {
+  border-bottom-color: #2497c3;
+}
+
+#mc-model-selector .models--peugeot .model:active {
+  border-color: #2497c3;
+}
+
+#mc-model-selector .models--renault .model-nav li a:hover,
+#mc-model-selector .models--renault .model-nav li a:visited:hover {
+  border-bottom: solid 3px #fc3;
+}
+
+#mc-model-selector .models--renault .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--renault .model-nav li a:visited:hover .model-nav__title {
+  color: #fc3;
+}
+
+#mc-model-selector .models--renault .model-nav li.model-nav--selected a,
+#mc-model-selector .models--renault .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #fc3;
+}
+
+#mc-model-selector .models--renault .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--renault .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #fc3;
+}
+
+#mc-model-selector .models--renault .model:hover {
+  border-bottom-color: #fc3;
+}
+
+#mc-model-selector .models--renault .model:active {
+  border-color: #fc3;
+}
+
+#mc-model-selector .models--seat .model-nav li a:hover,
+#mc-model-selector .models--seat .model-nav li a:visited:hover {
+  border-bottom: solid 3px #da0000;
+}
+
+#mc-model-selector .models--seat .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--seat .model-nav li a:visited:hover .model-nav__title {
+  color: #da0000;
+}
+
+#mc-model-selector .models--seat .model-nav li.model-nav--selected a,
+#mc-model-selector .models--seat .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #da0000;
+}
+
+#mc-model-selector .models--seat .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--seat .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #da0000;
+}
+
+#mc-model-selector .models--seat .model:hover {
+  border-bottom-color: #da0000;
+}
+
+#mc-model-selector .models--seat .model:active {
+  border-color: #da0000;
+}
+
+#mc-model-selector .models--skoda .model-nav li a:hover,
+#mc-model-selector .models--skoda .model-nav li a:visited:hover {
+  border-bottom: solid 3px #4BA82E;
+}
+
+#mc-model-selector .models--skoda .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--skoda .model-nav li a:visited:hover .model-nav__title {
+  color: #4BA82E;
+}
+
+#mc-model-selector .models--skoda .model-nav li.model-nav--selected a,
+#mc-model-selector .models--skoda .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #4BA82E;
+}
+
+#mc-model-selector .models--skoda .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--skoda .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #4BA82E;
+}
+
+#mc-model-selector .models--skoda .model:hover {
+  border-bottom-color: #4BA82E;
+}
+
+#mc-model-selector .models--skoda .model:active {
+  border-color: #4BA82E;
+}
+
+#mc-model-selector .models--toyota .model-nav li a:hover,
+#mc-model-selector .models--toyota .model-nav li a:visited:hover {
+  border-bottom: solid 3px #c03;
+}
+
+#mc-model-selector .models--toyota .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--toyota .model-nav li a:visited:hover .model-nav__title {
+  color: #c03;
+}
+
+#mc-model-selector .models--toyota .model-nav li.model-nav--selected a,
+#mc-model-selector .models--toyota .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #c03;
+}
+
+#mc-model-selector .models--toyota .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--toyota .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #c03;
+}
+
+#mc-model-selector .models--toyota .model:hover {
+  border-bottom-color: #c03;
+}
+
+#mc-model-selector .models--toyota .model:active {
+  border-color: #c03;
+}
+
+#mc-model-selector .models--vauxhall .model-nav li a:hover,
+#mc-model-selector .models--vauxhall .model-nav li a:visited:hover {
+  border-bottom: solid 3px #CB1920;
+}
+
+#mc-model-selector .models--vauxhall .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--vauxhall .model-nav li a:visited:hover .model-nav__title {
+  color: #CB1920;
+}
+
+#mc-model-selector .models--vauxhall .model-nav li.model-nav--selected a,
+#mc-model-selector .models--vauxhall .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #CB1920;
+}
+
+#mc-model-selector .models--vauxhall .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--vauxhall .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #CB1920;
+}
+
+#mc-model-selector .models--vauxhall .model:hover {
+  border-bottom-color: #CB1920;
+}
+
+#mc-model-selector .models--vauxhall .model:active {
+  border-color: #CB1920;
+}
+
+#mc-model-selector .models--volkswagen .model-nav li a:hover,
+#mc-model-selector .models--volkswagen .model-nav li a:visited:hover {
+  border-bottom: solid 3px #00B1E5;
+}
+
+#mc-model-selector .models--volkswagen .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--volkswagen .model-nav li a:visited:hover .model-nav__title {
+  color: #00B1E5;
+}
+
+#mc-model-selector .models--volkswagen .model-nav li.model-nav--selected a,
+#mc-model-selector .models--volkswagen .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #00B1E5;
+}
+
+#mc-model-selector .models--volkswagen .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--volkswagen .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #00B1E5;
+}
+
+#mc-model-selector .models--volkswagen .model:hover {
+  border-bottom-color: #00B1E5;
+}
+
+#mc-model-selector .models--volkswagen .model:active {
+  border-color: #00B1E5;
+}
+
+#mc-model-selector .models--volvo .model-nav li a:hover,
+#mc-model-selector .models--volvo .model-nav li a:visited:hover {
+  border-bottom: solid 3px #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--volvo .model-nav li a:visited:hover .model-nav__title {
+  color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a,
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model:hover {
+  border-bottom-color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model:active {
+  border-color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li a:hover,
+#mc-model-selector .models--volvo .model-nav li a:visited:hover {
+  border-bottom: solid 3px #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li a:hover .model-nav__title,
+#mc-model-selector .models--volvo .model-nav li a:visited:hover .model-nav__title {
+  color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a,
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a:visited {
+  border-bottom: solid 3px #0053a1;
+}
+
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a .model-nav__title,
+#mc-model-selector .models--volvo .model-nav li.model-nav--selected a:visited .model-nav__title {
+  color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model:hover {
+  border-bottom-color: #0053a1;
+}
+
+#mc-model-selector .models--volvo .model:active {
+  border-color: #0053a1;
+}
+
+.lg-outer .lg-thumb-item {
+  -webkit-transition: border-color 0.25s ease;
+  -o-transition: border-color 0.25s ease;
+  transition: border-color 0.25s ease;
+}
+
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#mg_zs .custom-container {
+  width: 734px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mg_zs .custom-container {
+  width: 954px;
+  overflow: visible;
+  padding-right: 14px;
+  white-space: normal;
+}
+
+#mg_zs .custom-container {
+  width: 1154px;
+}
+
+#mg_zs .section {
+  padding: 24px 0;
+}
+
+#mg_zs .section {
+  padding: 36px 0;
+}
+
+#mg_zs .section--deep {
+  padding: 30px 0;
+}
+
+#mg_zs .section--deep {
+  padding: 60px 0;
+}
+
+#mg_zs .section--deep {
+  padding: 138px 0;
+}
+
+#mg_zs .section--dark {
+  background-color: transparent;
+}
+
+#mg_zs .section .body {
+  font-size: 16px;
+}
+
+#mg_zs .section .list-item {
+  margin-bottom: 12px;
+}
+
+#mg_zs .hero {
+  background-image: url("/cdn/images/mg/zs/hero--desktop.jpg");
+  background-position: -webkit-calc(50% - 30px);
+  background-position: calc(50% - 30px);
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#mg_zs .hero {
+  background-position: -webkit-calc(50% - 50px);
+  background-position: calc(50% - 50px);
+}
+
+#mg_zs .hero {
+  background-position: center;
+}
+
+#mg_zs .hero__content {
+  margin-top: 0;
+}
+
+#mg_zs .hero__content__heading {
+  font-size: 42px;
+  line-height: 48px;
+}
+
+#mg_zs .design__image {
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+}
+
+#mg_zs .design__magnify-right {
+  display: block;
+}
+
+#mg_zs .interior {
+  background-image: url("/cdn/images/mg/zs/interior.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#mg_zs .interior__img {
+  display: none;
+}
+
+#mg_zs .interior__content {
+  margin-top: 0;
+}
+
+#mg_zs .features .ch-card {
+  margin-right: 21px;
+  width: 310px;
+}
+
+#mg_zs .features .ch-card {
+  margin-right: 28px;
+  width: 31.01%;
+}
+
+#mg_zs .features .ch-card {
+  width: 31.42%;
+}
+
+#mg_zs .features .ch-card:last-of-type {
+  margin-right: 0;
+}
+
+#mg_zs .colours__list {
+  margin-bottom: 18px;
+}
+
+#mg_zs .colours__list {
+  margin: 30px 0;
+  display: block;
+  border: none;
+}
+
+#mg_zs .colours__list__item {
+  width: 50%;
+}
+
+#mg_zs .colours__image {
+  margin-top: 48px;
+}
+
+#mg_zs .colours__image {
+  margin-top: 24px;
+}
+
+#mg_zs .branch__img__mobile {
+  display: none;
+}
+
+#mg_zs .branch__content {
+  padding-bottom: 12px;
+}
+
+#mg_zs .branch__content {
+  padding: 18px 21px 24px;
+}
+
+#mg_zs .branch__content__heading {
+  font-size: 30px;
+  line-height: 36px;
+}
+
+#mg_zs .branch__content__subheading {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+#mg_zs .branch__content__phone {
+  padding: 12px 0;
+}
+
+#mg_zs .branch__content__phone__heading {
+  font-weight: 18px;
+}
+
+#mg_zs .branch__content__hours {
+  margin-bottom: 30px;
+}
+
+#mg_zs .branch__content__hours {
+  margin-bottom: 18px;
+}
+
+#mg_zs .branch__content__hours {
+  padding: 0 28px 12px 0;
+}
+
+#mg_zs .branch__content__hours__day {
+  font-size: 16px;
+}
+
+#mg_zs .branch__content__hours__time {
+  font-size: 16px;
+}
+
+#mg_zs .branch__img {
+  background-image: url("/cdn/images/mg/zs/branch.jpg");
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 204px 0;
+}
+
+#mg_zs .branch__img {
+  padding: 210px 0;
+}

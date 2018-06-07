@@ -1,0 +1,19 @@
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+#voucher-thank-you .ch-card {
+  margin-top: 24px;
+}
+
+#voucher-thank-you .ch-btn span {
+  display: none;
+}
+
+#voucher-thank-you .ch-btn span {
+  display: inline-block;
+}

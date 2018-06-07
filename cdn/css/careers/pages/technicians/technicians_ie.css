@@ -1,0 +1,233 @@
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+.careers-footer__dcc {
+  height: 50px;
+}
+
+.careers-footer__dcc {
+  height: 60px;
+}
+
+.careers-footer__sdc {
+  height: 50px;
+}
+
+.careers-footer__sdc {
+  height: 60px;
+}
+
+.careers-footer__httfw {
+  height: 50px;
+}
+
+.careers-footer__httfw {
+  height: 60px;
+}
+
+#careers_technicians .hero {
+  background: url("/cdn/images/careers/pages/technicians/hero-desktop.jpg") 50% 50%/cover no-repeat;
+}
+
+#careers_technicians .hero__image {
+  height: 200px;
+}
+
+#careers_technicians .hero__image {
+  height: 300px;
+}
+
+#careers_technicians .hero__image {
+  background: none;
+  height: auto;
+}
+
+#careers_technicians .hero__content {
+  padding-top: 24px;
+  padding-bottom: 30px;
+}
+
+#careers_technicians .hero {
+  padding: 72px 0;
+}
+
+#careers_technicians .hero p {
+  font-size: 18px;
+}
+
+#careers_technicians .sub__header {
+  padding-top: 78px;
+}
+
+#careers_technicians .sub h4 {
+  max-width: 340px;
+}
+
+#careers_technicians .sub h4 {
+  max-width: 380px;
+  line-height: 1.4;
+}
+
+#careers_technicians .sub .ch-card {
+  padding: 6px 7px;
+}
+
+#careers_technicians .sub {
+  padding: 36px 0;
+}
+
+#careers_technicians .sub p {
+  font-size: 18px;
+  line-height: 1.5;
+  max-width: 480px;
+}
+
+#careers_technicians .benefits {
+  border-top: 1px solid #e5e5e5;
+}
+
+#careers_technicians .benefits p {
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 48px;
+}
+
+#careers_technicians .benefits__list .icon {
+  float: none;
+  text-align: center;
+  width: 100%;
+  display: block;
+  margin: 0;
+  width: 100%;
+  height: 60px;
+}
+
+#careers_technicians .benefits__list .icon {
+  height: 72px;
+}
+
+#careers_technicians .benefits__list p {
+  padding-left: 0;
+  max-width: 160px;
+  margin: 24px auto;
+}
+
+#careers_technicians .benefits {
+  text-align: center;
+  padding: 72px 0;
+  background: #fff;
+}
+
+#careers_technicians .benefits ul {
+  display: inline-block;
+}
+
+#careers_technicians .benefits ul li {
+  display: inline;
+}
+
+#careers_technicians .video {
+  margin: 36px 0 48px 0;
+}
+
+#careers_technicians .video-container {
+  margin-top: 6px;
+  margin-bottom: 0;
+}
+
+#careers_technicians .testimonial {
+  background: #f6f6f6;
+  text-align: center;
+  padding: 48px 0 48px 0;
+}
+
+#careers_technicians .job-cards .ch-card {
+  height: 460px;
+}
+
+#careers_technicians .job-cards .ch-card {
+  height: 410px;
+}
+
+#careers_technicians .job-cards .ch-card__footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+#careers_technicians .job-cards .ch-card br {
+  display: none;
+}
+
+#careers_technicians .job-cards .ch-card--margin {
+  margin-bottom: 0;
+}
+
+#careers_technicians .job-cards {
+  padding: 72px 0;
+}
+
+#careers_technicians .footer {
+  padding: 48px 0;
+}
+
+#careers_technicians .footer h3 {
+  padding-top: 36px;
+}
+
+#careers_technicians .footer .map {
+  display: block;
+  width: 170px;
+  float: right;
+  fill: #fff;
+  opacity: 0.4;
+}
+
+#careers_technicians .footer .map {
+  width: 200px;
+}

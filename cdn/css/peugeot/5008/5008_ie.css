@@ -1,0 +1,245 @@
+#mc-more-from .more-box:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#mc-more-from .more-box__content {
+  padding: 15px 17.5px;
+}
+
+.lg-outer .lg-thumb-item {
+  -webkit-transition: border-color 0.25s ease;
+  -o-transition: border-color 0.25s ease;
+  transition: border-color 0.25s ease;
+}
+
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#peugeot__5008 .section {
+  padding: 18px 0;
+}
+
+#peugeot__5008 .section {
+  padding: 36px 0;
+}
+
+#peugeot__5008 .img-mobile {
+  display: none;
+}
+
+#peugeot__5008 .img-mobile--xs {
+  display: none;
+}
+
+#peugeot__5008 .img-mobile--sl {
+  display: block;
+}
+
+#peugeot__5008 .img-mobile--sl {
+  display: none;
+}
+
+#peugeot__5008 .hero {
+  background-image: url("/cdn/images/peugeot/5008/hero-tablet.jpg");
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 36px 0;
+}
+
+#peugeot__5008 .hero {
+  background-image: url("/cdn/images/peugeot/5008/hero-desktop.jpg");
+  padding: 60px 0 168px;
+}
+
+#peugeot__5008 .hero {
+  background-image: url("/cdn/images/peugeot/5008/hero-lg.jpg");
+}
+
+#peugeot__5008 .hero .img-mobile {
+  margin-top: -108px;
+}
+
+#peugeot__5008 .hero__heading .block {
+  font-size: 32px;
+}
+
+#peugeot__5008 .hero__heading .block {
+  font-size: 40px;
+}
+
+#peugeot__5008 .hero .cta-wrapper {
+  margin-top: 0;
+}
+
+#peugeot__5008 .hero .ch-btn {
+  margin-right: 12px;
+  margin-bottom: 0;
+}
+
+#peugeot__5008 .hero .display-desktop {
+  display: inline-block;
+}
+
+#peugeot__5008 .hero .display-mobile {
+  display: none;
+}
+
+#peugeot__5008 .model__container {
+  width: 954px;
+}
+
+#peugeot__5008 .model__container {
+  width: 1154px;
+}
+
+#peugeot__5008 .model__row {
+  padding-left: 31px;
+  padding-right: 31px;
+}
+
+#peugeot__5008 .model__row {
+  display: block;
+  padding-left: 14px;
+  padding-right: 14px;
+  margin-left: -28px;
+  margin-right: -28px;
+}
+
+#peugeot__5008 .model__column {
+  float: left;
+  width: 25%;
+  padding-left: 14px;
+  padding-right: 14px;
+}
+
+#peugeot__5008 .model__img {
+  width: 250px;
+}
+
+#peugeot__5008 .model__img {
+  width: 170px;
+  max-width: 100%;
+}
+
+#peugeot__5008 .cockpit-system {
+  background-image: url("/cdn/images/peugeot/5008/icockpit.jpg");
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 18px 0;
+}
+
+#peugeot__5008 .cockpit-system {
+  padding: 36px 0 108px;
+}
+
+#peugeot__5008 .cockpit-system__wrapper {
+  margin-top: 0;
+}
+
+#peugeot__5008 .motab {
+  padding-top: 36px;
+  background-image: url("/cdn/images/peugeot/5008/motab.jpg");
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#peugeot__5008 .motab__heading {
+  margin-top: 18px;
+}
+
+#peugeot__5008 .motab__heading {
+  margin-top: 0;
+}
+
+#peugeot__5008 .motab .block {
+  display: block;
+}
+
+#peugeot__5008 .adventure {
+  padding-bottom: 18px 0;
+}
+
+#peugeot__5008 .adventure {
+  padding: 60px 0 168px;
+  background-image: url("/cdn/images/peugeot/5008/adventure.jpg");
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#peugeot__5008 .adventure__heading .block {
+  font-size: 32px;
+}
+
+#peugeot__5008 .adventure__heading .block {
+  font-size: 40px;
+}
+
+#peugeot__5008 .adventure__wrapper {
+  margin-top: -96px;
+}
+
+#peugeot__5008 .adventure__wrapper {
+  margin-top: -144px;
+}
+
+#peugeot__5008 .adventure__wrapper {
+  margin-top: 0;
+}
+
+#peugeot__5008 .adventure .ch-btn {
+  margin-bottom: 18px;
+}

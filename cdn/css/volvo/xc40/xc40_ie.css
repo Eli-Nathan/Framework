@@ -1,0 +1,660 @@
+.lg-outer .lg-thumb-item {
+  -webkit-transition: border-color 0.25s ease;
+  -o-transition: border-color 0.25s ease;
+  transition: border-color 0.25s ease;
+}
+
+#mc-more-from .more-box:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#mc-more-from .more-box__content {
+  padding: 15px 17.5px;
+}
+
+#blks {
+  max-width: 734px;
+}
+
+#blks {
+  overflow-x: auto;
+  max-width: 954px;
+}
+
+#blks {
+  max-width: 1154px;
+}
+
+#blks .blks__scrollable {
+  width: auto;
+  min-height: 442px;
+}
+
+#blks .blks__scrollable {
+  min-height: 342px;
+}
+
+#blks .blks__column {
+  width: 50%;
+}
+
+#blks .blks__column {
+  width: 25%;
+}
+
+#blks .blks--two {
+  width: 100%;
+}
+
+#blks .blks--two {
+  width: 954px;
+  min-height: 196px;
+}
+
+#blks .blks--two {
+  width: 1154px;
+}
+
+#blks .blks--two .blks__column {
+  width: 50%;
+}
+
+#blks .blks--two .blk__details {
+  float: left;
+  padding-left: 14px;
+  width: 69.5%;
+  text-align: left;
+}
+
+#blks .blks--two .blk__img {
+  float: left;
+  width: 30.5%;
+  height: auto;
+  margin: 0;
+}
+
+#blks .blks--two .blk__model,
+#blks .blks--two .blk__variant {
+  text-align: left;
+  min-height: auto;
+}
+
+#blks .blk {
+  text-align: left;
+  margin-bottom: 28px;
+}
+
+#blks .blk {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#blks .blk__details {
+  float: left;
+  width: 69.5%;
+  padding-left: 14px;
+}
+
+#blks .blk__details {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+
+#blks .blk__details__btn {
+  float: right;
+}
+
+#blks .blk__details__btn {
+  float: none;
+}
+
+#blks .blk__model {
+  min-height: auto;
+}
+
+#blks .blk__model {
+  min-height: 50px;
+}
+
+#blks .blk__img {
+  margin-bottom: 0;
+  height: auto;
+  float: left;
+  width: 30.5%;
+}
+
+#blks .blk__img {
+  margin-bottom: 6px;
+  height: 110px;
+  float: none;
+  width: auto;
+}
+
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+.ch-hero {
+  padding: 24px 0;
+}
+
+#event__off .section,
+#event__on .section {
+  padding: 24px 0;
+}
+
+#event__on .details {
+  margin-bottom: 0;
+}
+
+#event__on .ctas {
+  text-align: right;
+}
+
+#event__on .ctas .ch-btn {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+#event__on .gallery .magnify {
+  top: -10px;
+}
+
+#event__off .hero {
+  height: 350px;
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  padding: 0;
+}
+
+#event__off .content {
+  text-align: center;
+}
+
+#event__off .content__title {
+  font-size: 26px;
+  line-height: 36px;
+}
+
+#event__off .content__body {
+  font-size: 16px;
+}
+
+#event__off .content__body:last-of-type {
+  margin-bottom: 24px;
+}
+
+#event__off #mc-more-from .mc-more-from__title {
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.lg-outer .lg-thumb-item {
+  -webkit-transition: border-color 0.25s ease;
+  -o-transition: border-color 0.25s ease;
+  transition: border-color 0.25s ease;
+}
+
+#xc40 .copy {
+  font-size: 16px;
+}
+
+#xc40 .section {
+  padding: 30px 0;
+}
+
+#xc40 .section {
+  padding: 54px 0;
+}
+
+#xc40 .section {
+  padding: 60px 0;
+}
+
+#xc40 .section--safety {
+  padding: 24px 0 360px;
+}
+
+#xc40 .section--safety {
+  padding: 30px 0 390px;
+}
+
+#xc40 .section--safety {
+  padding: 30px 0 360px;
+}
+
+#xc40 .section--engines {
+  padding-bottom: 42px;
+}
+
+#xc40 .section--engines {
+  padding-bottom: 66px;
+}
+
+#xc40 .section--engines {
+  padding-bottom: 72px;
+}
+
+#xc40 .section--coming-soon {
+  padding: 60px 0;
+}
+
+#xc40 .section--coming-soon {
+  padding: 120px 0;
+}
+
+#xc40 .section--coming-soon {
+  padding: 180px 0;
+}
+
+#xc40 .section__heading {
+  margin-bottom: 12px;
+}
+
+#xc40 .custom-container {
+  padding-right: 14px;
+  width: 734px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: visible;
+  white-space: normal;
+}
+
+#xc40 .custom-container {
+  width: 954px;
+}
+
+#xc40 .custom-container {
+  width: 1154px;
+}
+
+#xc40 .hero {
+  background-image: url("/cdn/images/volvo/xc40/hero--desktop.jpg");
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: -webkit-calc(50% + 130px);
+  background-position: calc(50% + 130px);
+  padding: 24px 0 200px;
+}
+
+#xc40 .hero {
+  -webkit-background-size: 200% 200%;
+  background-size: 200%;
+  background-position: -webkit-calc(50% + 180px);
+  background-position: calc(50% + 180px);
+  padding: 36px 0 250px;
+}
+
+#xc40 .hero {
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  background-position: center;
+  padding: 54px 0 290px;
+}
+
+#xc40 .hero__text__heading {
+  font-size: 26px;
+  line-height: 36px;
+}
+
+#xc40 .hero__text__heading {
+  font-size: 30px;
+  line-height: 42px;
+  margin-bottom: 6px;
+}
+
+#xc40 .hero__text__heading {
+  font-size: 38px;
+  line-height: 46px;
+}
+
+#xc40 .hero__text__heading span {
+  display: inline;
+  font-size: 26px;
+  line-height: 36px;
+}
+
+#xc40 .hero__text__heading span {
+  font-size: 30px;
+  line-height: 42px;
+}
+
+#xc40 .hero__text__heading span {
+  font-size: 38px;
+  line-height: 46px;
+}
+
+#xc40 .hero__text__subheading span {
+  display: block;
+}
+
+#xc40 .features__img {
+  margin-bottom: 18px;
+}
+
+#xc40 .features__img--alt {
+  display: none;
+}
+
+#xc40 .features .copy {
+  margin-bottom: 12px;
+}
+
+#xc40 .features__list li {
+  font-size: 16px;
+  margin-bottom: 6px;
+}
+
+#xc40 .features__full-width-img {
+  background-image: url("/cdn/images/volvo/xc40/features-3--desktop.jpg");
+  background-repeat: no-repeat;
+  background-position: -webkit-calc(50% + 120px);
+  background-position: calc(50% + 120px);
+  -webkit-background-size: 150% 150%;
+  background-size: 150%;
+  color: #fff;
+  padding: 60px 21px;
+  margin-top: 18px;
+}
+
+#xc40 .features__full-width-img {
+  padding: 84px 56px;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  margin-top: 36px;
+}
+
+#xc40 .features__full-width-img {
+  padding: 120px 56px;
+  margin-top: 54px;
+}
+
+#xc40 .safety {
+  background-position: center top;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: -webkit-calc(50% - -160px);
+  background-position: calc(50% - -160px);
+}
+
+#xc40 .safety {
+  background-position: -webkit-calc(50% - -50px);
+  background-position: calc(50% - -50px);
+}
+
+#xc40 .safety {
+  background-position: -webkit-calc(50% - 71px);
+  background-position: calc(50% - 71px);
+}
+
+#xc40 .safety__box {
+  margin-right: 0;
+  max-width: none;
+  width: 48.71%;
+  height: auto;
+}
+
+#xc40 .safety__box {
+  padding: 18px 14px;
+  width: 48.26%;
+  margin-bottom: 30px;
+}
+
+#xc40 .safety__box {
+  padding: 24px 28px;
+  width: 48.57%;
+}
+
+#xc40 .safety__box:nth-child(odd) {
+  margin-right: 14px;
+}
+
+#xc40 .safety__box:nth-child(odd) {
+  margin-right: 28px;
+}
+
+#xc40 .engines .copy {
+  margin-bottom: 12px;
+}
+
+#xc40 .engines__model {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+#xc40 .engines__model {
+  padding-right: 21px;
+}
+
+#xc40 .engines__model {
+  padding-right: 49px;
+}
+
+#xc40 .interior {
+  background-image: url("/cdn/images/volvo/xc40/interior--desktop.jpg");
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: -webkit-calc(50% - 20px);
+  background-position: calc(50% - 20px);
+}
+
+#xc40 .interior {
+  background-position: center;
+}
+
+#xc40 .interior__img {
+  display: none;
+}
+
+#xc40 .interior__text {
+  margin-top: 0;
+  max-width: 450px;
+  float: right;
+  padding: 100px 0;
+  max-width: 380px;
+}
+
+#xc40 .interior__text {
+  padding: 120px 0;
+  max-width: 450px;
+}
+
+#xc40 .interior__text {
+  padding: 170px 0;
+}
+
+#xc40 .interior__text ul li {
+  font-size: 16px;
+  margin-bottom: 6px;
+}
+
+#xc40 .gallery .magnify-image {
+  margin-bottom: 24px;
+  height: 120px;
+}
+
+#xc40 .gallery .magnify-image {
+  height: 220px;
+}
+
+#xc40 .gallery .magnify-image {
+  height: 280px;
+}
+
+#xc40 .colours {
+  padding: 0;
+  background-image: url("/cdn/images/volvo/xc40/colours-bg--desktop.jpg");
+  background-position: -webkit-calc(50% - 34px);
+  background-position: calc(50% - 34px);
+  -webkit-background-size: 1824px 1824px;
+  background-size: 1824px;
+  background-repeat: no-repeat;
+  display: block;
+}
+
+#xc40 .colours {
+  background-position: -webkit-calc(50% - -20px);
+  background-position: calc(50% - -20px);
+  -webkit-background-size: 2048px 2048px;
+  background-size: 2048px;
+}
+
+#xc40 .colours {
+  background-position: center;
+  -webkit-background-size: auto auto;
+  background-size: auto;
+}
+
+#xc40 .colours--mobile {
+  display: none;
+}
+
+#xc40 .colours__list {
+  display: block;
+  border: none;
+}
+
+#xc40 .colours__list__item {
+  width: 50%;
+}
+
+#xc40 .colours__image {
+  margin: 0 auto;
+}
+
+#xc40 .colours__image {
+  float: right;
+  height: 400px;
+}
+
+#xc40 .colours__image {
+  height: 500px;
+}
+
+#xc40 .colours__inner {
+  margin-top: 80px;
+}
+
+#xc40 .colours__inner {
+  margin-top: 90px;
+}
+
+#xc40 .colours__inner {
+  margin-top: 130px;
+}
+
+#xc40 .list-branches {
+  margin-bottom: 0;
+}
+
+#xc40 .rep-example {
+  margin-top: 30px;
+}
+
+#xc40 .product__volvo-image--mobile {
+  display: none;
+}
+
+#xc40 .product__offer {
+  background-image: url("/cdn/images/volvo/xc40/coming-soon--desktop.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: 850px 850px;
+  background-size: 850px;
+  background-position: -webkit-calc(50% - 30px);
+  background-position: calc(50% - 30px);
+  padding: 30px 0;
+}
+
+#xc40 .product__offer {
+  padding: 42px 0;
+  -webkit-background-size: 1200px 1200px;
+  background-size: 1200px;
+  background-position: -webkit-calc(50% + 20px);
+  background-position: calc(50% + 20px);
+}
+
+#xc40 .product__offer {
+  padding: 102px 0;
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  background-position: -webkit-calc(50% + 80px);
+  background-position: calc(50% + 80px);
+}
+
+#xc40 .product__offer h2 {
+  font-size: 26px;
+  line-height: 31px;
+  margin-bottom: 6px;
+}
+
+#xc40 .product__offer h3 {
+  margin-bottom: 18px;
+}
+
+#xc40 .product__offer__cash {
+  font-size: 14px;
+}
+
+#xc40 .product__offer__cash__figure {
+  font-size: 22px;
+}
+
+#xc40 .product__offer__saving {
+  font-size: 14px;
+}
+
+#xc40 .product__offer .ch-btn {
+  margin-top: 18px;
+  padding: 11px 13px;
+  font-size: 16px;
+  line-height: 24px;
+  display: inline-block;
+}

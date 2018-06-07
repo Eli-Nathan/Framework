@@ -1,0 +1,212 @@
+#deal-builder .section {
+  padding: 30px 0;
+}
+
+#deal-builder .section {
+  padding: 42px 0;
+}
+
+#deal-builder .section {
+  padding: 72px 0;
+}
+
+#deal-builder .hero {
+  background-image: url("/cdn/images/deal-builder/hero-img--desktop.jpg");
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: -webkit-calc(50% + 65px);
+  background-position: calc(50% + 65px);
+  background-repeat: no-repeat;
+}
+
+#deal-builder .hero {
+  background-position: -webkit-calc(50% + 110px);
+  background-position: calc(50% + 110px);
+}
+
+#deal-builder .hero {
+  background-position: center;
+}
+
+#deal-builder .hero__top--mobile {
+  display: none;
+}
+
+#deal-builder .hero__top--desktop {
+  display: block;
+}
+
+#deal-builder .hero__top__img {
+  width: auto;
+  right: auto;
+  bottom: auto;
+  margin-left: -30px;
+}
+
+#deal-builder .hero__text {
+  margin: 0;
+  padding: 42px 0 96px;
+}
+
+#deal-builder .hero__text {
+  padding: 96px 0 114px;
+}
+
+#deal-builder .hero__text {
+  padding: 108px 0 144px;
+}
+
+#deal-builder .hero__text br {
+  display: block;
+}
+
+#deal-builder .hero__text__heading {
+  font-size: 36px;
+  line-height: 42px;
+}
+
+#deal-builder .hero__text__heading {
+  font-size: 42px;
+  line-height: 50px;
+}
+
+#deal-builder .hero__text__cta {
+  margin-bottom: 0;
+}
+
+#deal-builder .benefits {
+  text-align: center;
+}
+
+#deal-builder .benefits__intro {
+  font-size: 26px;
+  line-height: 32px;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #D41568;
+}
+
+#deal-builder .benefits__intro span {
+  display: block;
+}
+
+#deal-builder .benefits__list {
+  display: none;
+}
+
+#deal-builder .benefits__icons {
+  display: block;
+}
+
+#deal-builder .benefits__icons__box {
+  margin: 0 auto;
+}
+
+#deal-builder .benefits__icons__box {
+  max-width: 250px;
+}
+
+#deal-builder .benefits__icons__box {
+  max-width: 300px;
+}
+
+#deal-builder .benefits__icons__box:last-of-type {
+  margin: 0 auto;
+}
+
+#deal-builder .requirements .heading {
+  text-align: center;
+}
+
+#deal-builder .requirements .copy {
+  text-align: center;
+  font-weight: 500;
+}
+
+#deal-builder .requirements .copy {
+  font-size: 18px;
+}
+
+#deal-builder .requirements__list {
+  max-width: 325px;
+  margin: 0 auto;
+}
+
+#deal-builder .requirements__list {
+  max-width: 370px;
+}
+
+#deal-builder .requirements__list__number {
+  margin-top: 18px;
+}
+
+#deal-builder .requirements__list__number {
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 30px;
+  padding-left: 49px;
+}
+
+#deal-builder .requirements__list__number:before {
+  width: 28px;
+  height: 28px;
+  font-size: 16px;
+  line-height: 24px;
+  padding-top: 2px;
+  padding-left: 1px;
+  margin-right: 28px;
+  margin-top: -6px;
+}
+
+#deal-builder .look-out {
+  background-image: url("/cdn/images/deal-builder/device-1--desktop.jpg");
+  background-position: -webkit-calc(50% + 30px);
+  background-position: calc(50% + 30px);
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  padding-top: 30px;
+}
+
+#deal-builder .look-out {
+  background-position: center;
+  padding-top: 42px;
+}
+
+#deal-builder .look-out {
+  padding-top: 72px;
+}
+
+#deal-builder .look-out img {
+  display: none;
+}
+
+#deal-builder .look-out__text {
+  margin-top: 0;
+}
+
+#deal-builder .look-out__text .heading {
+  margin-bottom: 0;
+}
+
+#deal-builder .look-out__example {
+  padding: 18px 28px 18px 21px;
+  background-position: right 14px top 12px;
+  margin-top: 24px;
+  margin-bottom: 0;
+  max-width: 320px;
+}
+
+#deal-builder .look-out__example__body {
+  margin-bottom: 12px;
+}
+
+#deal-builder .flash .heading {
+  display: inline-block;
+  margin-top: 6px;
+}
+
+#deal-builder .flash .ch-btn {
+  float: right;
+  display: inline-block;
+}

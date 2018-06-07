@@ -1,0 +1,268 @@
+.lg-outer .lg-thumb-item {
+  -webkit-transition: border-color 0.25s ease;
+  -o-transition: border-color 0.25s ease;
+  transition: border-color 0.25s ease;
+}
+
+#mc-more-from .more-box:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#mc-more-from .more-box__content {
+  padding: 15px 17.5px;
+}
+
+#blks {
+  max-width: 734px;
+}
+
+#blks {
+  overflow-x: auto;
+  max-width: 954px;
+}
+
+#blks {
+  max-width: 1154px;
+}
+
+#blks .blks__scrollable {
+  width: auto;
+  min-height: 442px;
+}
+
+#blks .blks__scrollable {
+  min-height: 342px;
+}
+
+#blks .blks__column {
+  width: 50%;
+}
+
+#blks .blks__column {
+  width: 25%;
+}
+
+#blks .blks--two {
+  width: 100%;
+}
+
+#blks .blks--two {
+  width: 954px;
+  min-height: 196px;
+}
+
+#blks .blks--two {
+  width: 1154px;
+}
+
+#blks .blks--two .blks__column {
+  width: 50%;
+}
+
+#blks .blks--two .blk__details {
+  float: left;
+  padding-left: 14px;
+  width: 69.5%;
+  text-align: left;
+}
+
+#blks .blks--two .blk__img {
+  float: left;
+  width: 30.5%;
+  height: auto;
+  margin: 0;
+}
+
+#blks .blks--two .blk__model,
+#blks .blks--two .blk__variant {
+  text-align: left;
+  min-height: auto;
+}
+
+#blks .blk {
+  text-align: left;
+  margin-bottom: 28px;
+}
+
+#blks .blk {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#blks .blk__details {
+  float: left;
+  width: 69.5%;
+  padding-left: 14px;
+}
+
+#blks .blk__details {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+
+#blks .blk__details__btn {
+  float: right;
+}
+
+#blks .blk__details__btn {
+  float: none;
+}
+
+#blks .blk__model {
+  min-height: auto;
+}
+
+#blks .blk__model {
+  min-height: 50px;
+}
+
+#blks .blk__img {
+  margin-bottom: 0;
+  height: auto;
+  float: left;
+  width: 30.5%;
+}
+
+#blks .blk__img {
+  margin-bottom: 6px;
+  height: 110px;
+  float: none;
+  width: auto;
+}
+
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+.ch-hero {
+  padding: 24px 0;
+}
+
+#event__off .section,
+#event__on .section {
+  padding: 24px 0;
+}
+
+#event__on .details {
+  margin-bottom: 0;
+}
+
+#event__on .ctas {
+  text-align: right;
+}
+
+#event__on .ctas .ch-btn {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+#event__on .gallery .magnify {
+  top: -10px;
+}
+
+#event__off .hero {
+  height: 350px;
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  padding: 0;
+}
+
+#event__off .content {
+  text-align: center;
+}
+
+#event__off .content__title {
+  font-size: 26px;
+  line-height: 36px;
+}
+
+#event__off .content__body {
+  font-size: 16px;
+}
+
+#event__off .content__body:last-of-type {
+  margin-bottom: 24px;
+}
+
+#event__off #mc-more-from .mc-more-from__title {
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+#volvo_events .hero {
+  background-image: url("/cdn/images/volvo/events/hero.jpg");
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+}
+
+#volvo_events .hero__text {
+  color: #2D3737;
+  padding: 24px 0 180px 0;
+}
+
+#volvo_events .hero__text h2 {
+  font-size: 42px;
+  line-height: 50px;
+}
+
+#volvo_events .hero__text h2 {
+  font-size: 48px;
+  line-height: 58px;
+}
+
+#volvo_events .hero__text h3 {
+  font-size: 22px;
+  line-height: 26px;
+}
+
+#volvo_events .hero__text h3 {
+  font-size: 24px;
+  line-height: 29px;
+}

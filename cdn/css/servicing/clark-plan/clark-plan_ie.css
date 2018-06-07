@@ -1,0 +1,192 @@
+#servicing_clark-plan p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+#servicing_clark-plan .hero {
+  background-image: url("/cdn/images/servicing/clark-plan/header-desktop.jpg");
+  background-position: 50% 50%;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  min-height: 640px;
+}
+
+#servicing_clark-plan .hero {
+  min-height: 700px;
+}
+
+#servicing_clark-plan .hero__image {
+  display: none;
+}
+
+#servicing_clark-plan .hero__block__background {
+  opacity: 0.95;
+}
+
+#servicing_clark-plan .hero__block {
+  padding: 30px;
+  margin-top: 80px;
+}
+
+#servicing_clark-plan .hero__block {
+  margin-top: 70px;
+}
+
+#servicing_clark-plan .hero__block {
+  margin-top: 110px;
+}
+
+#servicing_clark-plan .hero__header {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+#servicing_clark-plan .hero__header {
+  font-size: 30px;
+  margin-bottom: 4px;
+  width: 100%;
+}
+
+#servicing_clark-plan .hero__header {
+  font-size: 48px;
+  margin-top: 60px;
+}
+
+#servicing_clark-plan .hero__sub {
+  width: 80%;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+#servicing_clark-plan .hero__sub {
+  font-size: 21px;
+  width: 90%;
+}
+
+#servicing_clark-plan .hero__sub {
+  font-size: 21px;
+  width: 80%;
+}
+
+#servicing_clark-plan .hero__sub {
+  width: 80%;
+}
+
+#servicing_clark-plan .hero__sub {
+  width: 70%;
+}
+
+#servicing_clark-plan .hero__sub {
+  font-size: 18px;
+  width: 100%;
+}
+
+#servicing_clark-plan .hero__sub {
+  width: 80%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#servicing_clark-plan .video {
+  position: relative;
+  background-color: rgba(255,255,255,0.8);
+  border: 1px solid rgba(0,0,0,0.1);
+  margin-bottom: 40px;
+  padding: 30px;
+}
+
+#servicing_clark-plan .video {
+  margin-top: -150px;
+}
+
+#servicing_clark-plan .video__header {
+  margin-bottom: 5px;
+}
+
+#servicing_clark-plan .video__button {
+  float: right;
+  margin-top: 64px;
+}
+
+#servicing_clark-plan .video__button {
+  margin-top: 44px;
+}
+
+#servicing_clark-plan .benefits {
+  padding: 40px 0;
+}
+
+#servicing_clark-plan .benefits ul {
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+#servicing_clark-plan .benefits ul {
+  font-size: 16px;
+  padding-right: 80px;
+}
+
+#servicing_clark-plan .benefits ul {
+  font-size: 18px;
+}
+
+#servicing_clark-plan .benefits li {
+  margin-top: 20px;
+}
+
+#servicing_clark-plan .checked {
+  margin: 40px 0;
+}
+
+#servicing_clark-plan .checked__button {
+  float: right;
+}
+
+#servicing_clark-plan .checked__header {
+  margin-top: 4px;
+  font-size: 21px;
+}
+
+#servicing_clark-plan .checked__header {
+  font-size: 24px;
+}
+
+#servicing_clark-plan .price {
+  min-height: 600px;
+}
+
+#servicing_clark-plan .price__table {
+  margin-top: 60px;
+}
+
+#servicing_clark-plan .price__table {
+  margin-top: 210px;
+}
+
+#servicing_clark-plan .price__table__header__block {
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+#servicing_clark-plan .price__table__header {
+  font-size: 21px;
+}
+
+#servicing_clark-plan .price__table__header {
+  font-size: 24px;
+}
+
+#servicing_clark-plan .cta {
+  padding: 40px 0;
+}
+
+#servicing_clark-plan .cta__block {
+  width: auto;
+  text-align: left;
+}
+
+#servicing_clark-plan .terms {
+  margin: 40px 0;
+}

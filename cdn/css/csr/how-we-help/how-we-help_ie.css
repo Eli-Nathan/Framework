@@ -1,0 +1,92 @@
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+.ch-hero {
+  padding: 24px 0;
+}
+
+#how-we-help .section {
+  padding: 24px 0;
+}
+
+#how-we-help .ch-hero {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.3)), to(rgba(0,0,0,0.3))),url("/cdn/images/csr/how-we-help/hero.jpg");
+  background: -webkit-linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url("/cdn/images/csr/how-we-help/hero.jpg");
+  background: -o-linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url("/cdn/images/csr/how-we-help/hero.jpg");
+  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url("/cdn/images/csr/how-we-help/hero.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  padding: 48px 0;
+}
+
+#how-we-help .ch-hero {
+  padding: 72px 0;
+}
+
+#how-we-help .intro__icon {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+#how-we-help .who-we-help .ch-card__content {
+  min-height: 174px;
+}
+
+#how-we-help .who-we-help .ch-card__content {
+  min-height: 156px;
+}
+
+#how-we-help .who-we-help .ch-card__content {
+  min-height: 132px;
+}
+
+#how-we-help .did-you-know__icon {
+  margin: 0 auto;
+}

@@ -1,0 +1,384 @@
+#delivery-centre .v-padding {
+  padding: 24px 0;
+}
+
+#delivery-centre .v-padding {
+  padding: 36px 0;
+}
+
+#delivery-centre .hero {
+  background-image: url("/cdn/images/delivery-centres/map-xs.svg");
+}
+
+#delivery-centre .hero {
+  background-image: url("/cdn/images/delivery-centres/map-sl.svg");
+}
+
+#delivery-centre .hero {
+  background-position: 80% top;
+}
+
+#delivery-centre .hero h1 {
+  font-size: 30px;
+  line-height: 42px;
+}
+
+#delivery-centre .hero h1 span {
+  display: inline-block;
+}
+
+#delivery-centre .hero h2 {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+#delivery-centre .hero h2 {
+  font-size: 22px;
+  line-height: 30px;
+}
+
+#delivery-centre .hero h2 br {
+  display: none;
+}
+
+#delivery-centre .flash {
+  padding: 12px 0;
+}
+
+#delivery-centre .flash h4 {
+  float: left;
+  margin-bottom: 0;
+  margin-top: 9px;
+}
+
+#delivery-centre .flash .ch-btn {
+  float: right;
+}
+
+#delivery-centre .info {
+  padding: 30px 0;
+}
+
+#delivery-centre .info {
+  padding: 48px 0;
+}
+
+#delivery-centre .info__text {
+  margin-bottom: 30px;
+}
+
+#delivery-centre .info__text {
+  margin-bottom: 0;
+}
+
+#delivery-centre .info__text p {
+  font-size: 16px;
+}
+
+#delivery-centre .info__text p {
+  max-width: 441px;
+}
+
+#delivery-centre .info__text li {
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+
+#delivery-centre .info__text li {
+  max-width: 441px;
+}
+
+#delivery-centre .info__text li:last-of-type {
+  max-width: 350px;
+}
+
+#delivery-centre .how {
+  padding: 24px 0 48px;
+}
+
+#delivery-centre .how h4 {
+  line-height: 30px;
+}
+
+#delivery-centre .how__block {
+  padding: 0;
+  margin-bottom: 24px;
+}
+
+#delivery-centre .how__block {
+  padding: 0 21px 18px;
+  margin-bottom: 30px;
+  min-height: 285px;
+}
+
+#delivery-centre .how__block {
+  min-height: 261px;
+}
+
+#delivery-centre .how__block img {
+  float: right;
+  margin-right: 14px;
+  margin-top: 12px;
+}
+
+#delivery-centre .how__block img {
+  float: none;
+  margin: 0 auto;
+}
+
+#delivery-centre .how__block__text {
+  padding: 30px 14px;
+}
+
+#delivery-centre .how__block__text {
+  padding: 0;
+}
+
+#delivery-centre .how__block__text p {
+  font-size: 16px;
+}
+
+#delivery-centre .how__block-bdg__bdg-icon {
+  float: right;
+  width: 182px;
+  margin: 24px 14px 0 0;
+}
+
+#delivery-centre .how__block-bdg__bdg-icon {
+  margin: 0;
+  width: 168px;
+}
+
+#delivery-centre .how__block-bdg__bdg-icon {
+  width: 217px;
+}
+
+#delivery-centre .how__block-bdg__product-genius {
+  display: block;
+  width: 217px;
+  float: right;
+  margin-right: 42px;
+}
+
+#delivery-centre .how__block-bdg__text {
+  padding: 30px 28px;
+}
+
+#delivery-centre .how__block-bdg__text h5 {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+#delivery-centre .how__block-bdg__text p {
+  font-size: 16px;
+  max-width: 427px;
+}
+
+#delivery-centre .how__block-bdg__text p {
+  margin-bottom: 18px;
+  max-width: 399px;
+}
+
+#delivery-centre .how__block-bdg__text a {
+  padding: 11px 13px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+#delivery-centre .how-it-works {
+  padding: 30px 0;
+}
+
+#delivery-centre .how-it-works h3 {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+#delivery-centre .how-it-works h3 {
+  margin-top: 24px;
+  margin-bottom: 36px;
+}
+
+#delivery-centre .how-it-works h4 {
+  margin-bottom: 48px;
+  text-align: center;
+}
+
+#delivery-centre .how-it-works h4 {
+  margin-bottom: 54px;
+}
+
+#delivery-centre .how-it-works h5 {
+  text-align: center;
+}
+
+#delivery-centre .how-it-works .number:before {
+  width: 34px;
+  height: 34px;
+  padding-top: 5px;
+  float: none;
+  margin: 0 auto 12px;
+}
+
+#delivery-centre .how-it-works p {
+  text-align: center;
+  border-bottom: none;
+}
+
+#delivery-centre .how-it-works p {
+  font-size: 16px;
+}
+
+#delivery-centre .reviews {
+  padding: 18px 0;
+}
+
+#delivery-centre .reviews {
+  padding: 30px 0;
+}
+
+#delivery-centre .reviews__intro p {
+  font-size: 16px;
+  margin-bottom: 24px;
+}
+
+#delivery-centre .reviews__box--1 {
+  margin: 0 0 30px;
+}
+
+#delivery-centre .reviews__box--1 {
+  margin: 0;
+}
+
+#delivery-centre .reviews__box__top {
+  padding: 12px 21px 6px;
+}
+
+#delivery-centre .reviews__box__top .trustpilot-widget {
+  float: right !important;
+  margin-top: 12px !important;
+  padding-bottom: 0 !important;
+}
+
+#delivery-centre .reviews__box__top__left {
+  display: inline-block !important;
+}
+
+#delivery-centre .reviews__box__top__left img {
+  margin-left: 0;
+  width: auto;
+}
+
+#delivery-centre .reviews__box__top__left--trustpilot {
+  margin-top: 12px;
+  padding-bottom: 12px;
+}
+
+#delivery-centre .reviews__box__top__left--trustpilot {
+  float: left;
+  margin-top: -20px;
+  padding-bottom: 20px;
+}
+
+#delivery-centre .reviews__box__top__left--trustpilot {
+  margin-top: 12px;
+}
+
+#delivery-centre .reviews__box__top__left--trustpilot img {
+  width: 106px;
+}
+
+#delivery-centre .reviews__box__top__left--google {
+  padding-top: 0;
+  margin-bottom: 0;
+}
+
+#delivery-centre .reviews__box__top__right {
+  display: inline-block;
+  float: right;
+}
+
+#delivery-centre .reviews__box__top__right p {
+  font-size: 18px;
+  margin-top: 6px;
+  text-align: left;
+}
+
+#delivery-centre .reviews__box__top__right p {
+  font-size: 16px;
+  margin-top: 9px;
+}
+
+#delivery-centre .reviews__box__top__right p {
+  font-size: 18px;
+  margin-top: 6px;
+}
+
+#delivery-centre .reviews__box__top__right img {
+  margin: 0;
+  position: relative;
+  top: auto;
+  left: auto;
+  right: auto;
+  margin-top: -2px;
+}
+
+#delivery-centre .reviews__box__content {
+  padding: 18px 21px;
+}
+
+#delivery-centre .reviews__box__content {
+  clear: both;
+}
+
+#delivery-centre .reviews__box__content p {
+  margin-top: 18px;
+}
+
+#delivery-centre .search-flash {
+  padding: 18px 0;
+}
+
+#delivery-centre .search-flash img {
+  width: 77px;
+  display: inline-block;
+  float: left;
+  margin-right: 42px;
+  margin-top: 12px;
+}
+
+#delivery-centre .search-flash img {
+  margin-top: 3px;
+}
+
+#delivery-centre .search-flash__text {
+  display: inline-block;
+}
+
+#delivery-centre .search-flash__text .icon:after {
+  display: none;
+}
+
+#delivery-centre .search-flash__text p {
+  margin-bottom: 0;
+  font-size: 16px;
+  max-width: 378px;
+  display: inline-block;
+}
+
+#delivery-centre .search-flash__text p {
+  max-width: 476px;
+}
+
+#delivery-centre .search-flash a {
+  padding: 11px 13px;
+  font-size: 16px;
+  line-height: 24px;
+  float: right;
+  display: inline-block;
+  margin-top: 24px;
+}
+
+#delivery-centre .search-flash a {
+  margin-top: 12px;
+}

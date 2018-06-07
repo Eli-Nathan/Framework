@@ -1,0 +1,94 @@
+#servicing_express-check-in p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+#servicing_express-check-in .hero {
+  padding: 40px 0;
+}
+
+#servicing_express-check-in .hero__desc {
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+#servicing_express-check-in .hero__desc {
+  font-size: 21px;
+}
+
+#servicing_express-check-in .hero__header {
+  font-size: 36px;
+  line-height: 1.2;
+}
+
+#servicing_express-check-in .hero__header {
+  font-size: 48px;
+}
+
+#servicing_express-check-in .hero__icon {
+  width: 35%;
+}
+
+#servicing_express-check-in .hero__icon {
+  width: 80px;
+}
+
+#servicing_express-check-in .video {
+  padding: 40px 0;
+}
+
+#servicing_express-check-in .video ul {
+  font-size: 16px;
+}
+
+#servicing_express-check-in .video__aside {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+#servicing_express-check-in .usp {
+  text-align: left;
+}
+
+#servicing_express-check-in .usp {
+  padding: 40px 0;
+}
+
+#servicing_express-check-in .usp p {
+  text-align: left;
+  padding: 0;
+}
+
+#servicing_express-check-in .usp p {
+  font-size: 16px;
+  padding-right: 100px;
+}
+
+#servicing_express-check-in .usp__icon {
+  width: 80px;
+}
+
+#servicing_express-check-in .usp__icon--ipad {
+  padding-top: 0;
+  margin-left: -14px;
+}
+
+#servicing_express-check-in .usp__icon--ipad {
+  margin-left: -17px;
+}
+
+#servicing_express-check-in .usp__steps {
+  margin-top: 20px;
+}
+
+#servicing_express-check-in .branch-list {
+  padding: 40px 0;
+}
+
+#servicing_express-check-in .branch-list__column {
+  margin-top: 20px;
+}
+
+#servicing_express-check-in .terms {
+  margin: 40px 0;
+}

@@ -1,0 +1,75 @@
+.ch-hero {
+  padding: 24px 0;
+}
+
+.careers-footer__dcc {
+  height: 50px;
+}
+
+.careers-footer__dcc {
+  height: 60px;
+}
+
+.careers-footer__sdc {
+  height: 50px;
+}
+
+.careers-footer__sdc {
+  height: 60px;
+}
+
+.careers-footer__httfw {
+  height: 50px;
+}
+
+.careers-footer__httfw {
+  height: 60px;
+}
+
+#front-end-developer .btn--block {
+  width: auto;
+}
+
+#front-end-developer .img--desktop {
+  display: block;
+}
+
+#front-end-developer .hero h1 span {
+  font-size: 24px;
+  line-height: 34px;
+  display: block;
+  width: 100%;
+  margin-top: 24px;
+}
+
+#front-end-developer .hero {
+  margin: 6px 0;
+}
+
+#front-end-developer .hero__title {
+  font-size: 40px;
+}
+
+#front-end-developer .hero .ch-btn {
+  margin: 24px 0 0;
+}
+
+#front-end-developer .intro {
+  background: url("/cdn/images/careers/pages/why-join-arnold/head-office.jpg") center center no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#front-end-developer .benefits__list--item {
+  font-size: 16px;
+}
+
+#front-end-developer .benefits__list--item {
+  height: 124px;
+  padding-top: 36px;
+  padding-left: 126px;
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  border-bottom: none;
+  width: auto;
+}

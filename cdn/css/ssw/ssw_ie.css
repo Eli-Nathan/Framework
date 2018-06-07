@@ -1,0 +1,71 @@
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#ssw .hero__text .header {
+  font-size: 40px;
+  margin-bottom: 12px;
+  margin-top: 21px;
+}
+
+#ssw .hero__text .header {
+  font-size: 56px;
+  margin-bottom: 24px;
+}
+
+#ssw .hero__text .subheader {
+  font-size: 32px;
+}
+
+#ssw .hero__text .subheader {
+  font-size: 40px;
+  margin-bottom: 24px;
+}
+
+#ssw .hero__icon .icon--gift {
+  width: 120px;
+  height: 120px;
+}

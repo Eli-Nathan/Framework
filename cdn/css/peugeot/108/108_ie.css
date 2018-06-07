@@ -1,0 +1,429 @@
+#mc-representative-example .rep-example__body td,
+#mc-representative-example .rep-example__body th,
+#mc-representative-example .rep-example__body tr {
+  text-align: center;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 33.333%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 33.33%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--interest {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 100%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 25%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr {
+  width: 14.28%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--hire-purchase tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--apr {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp tr.rep-example__body--interest {
+  width: 50%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-1 tr.rep-example__body--interest {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr {
+  width: 20%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--apr {
+  width: 40%;
+}
+
+#mc-representative-example .rep-example__body--pcp-alt-2 tr.rep-example__body--interest {
+  width: 20%;
+}
+
+#blks {
+  max-width: 734px;
+}
+
+#blks {
+  overflow-x: auto;
+  max-width: 954px;
+}
+
+#blks {
+  max-width: 1154px;
+}
+
+#blks .blks__scrollable {
+  width: auto;
+  min-height: 442px;
+}
+
+#blks .blks__scrollable {
+  min-height: 342px;
+}
+
+#blks .blks__column {
+  width: 50%;
+}
+
+#blks .blks__column {
+  width: 25%;
+}
+
+#blks .blks--two {
+  width: 100%;
+}
+
+#blks .blks--two {
+  width: 954px;
+  min-height: 196px;
+}
+
+#blks .blks--two {
+  width: 1154px;
+}
+
+#blks .blks--two .blks__column {
+  width: 50%;
+}
+
+#blks .blks--two .blk__details {
+  float: left;
+  padding-left: 14px;
+  width: 69.5%;
+  text-align: left;
+}
+
+#blks .blks--two .blk__img {
+  float: left;
+  width: 30.5%;
+  height: auto;
+  margin: 0;
+}
+
+#blks .blks--two .blk__model,
+#blks .blks--two .blk__variant {
+  text-align: left;
+  min-height: auto;
+}
+
+#blks .blk {
+  text-align: left;
+  margin-bottom: 28px;
+}
+
+#blks .blk {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#blks .blk__details {
+  float: left;
+  width: 69.5%;
+  padding-left: 14px;
+}
+
+#blks .blk__details {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+
+#blks .blk__details__btn {
+  float: right;
+}
+
+#blks .blk__details__btn {
+  float: none;
+}
+
+#blks .blk__model {
+  min-height: auto;
+}
+
+#blks .blk__model {
+  min-height: 50px;
+}
+
+#blks .blk__img {
+  margin-bottom: 0;
+  height: auto;
+  float: left;
+  width: 30.5%;
+}
+
+#blks .blk__img {
+  margin-bottom: 6px;
+  height: 110px;
+  float: none;
+  width: auto;
+}
+
+#peugeot_108 .hero__content--left {
+  padding: 20px 0;
+}
+
+#peugeot_108 .hero__content--left {
+  padding: 30px 0;
+}
+
+#peugeot_108 .hero__content--left {
+  padding: 50px 0;
+}
+
+#peugeot_108 .hero__content--left .top-logo {
+  width: 260px;
+  height: auto;
+  padding: 10px 0;
+}
+
+#peugeot_108 .hero__content--left .top-logo {
+  width: 300px;
+}
+
+#peugeot_108 .hero__content--left .top-logo {
+  width: 360px;
+}
+
+#peugeot_108 .hero__content--left .mobile--img {
+  display: none;
+}
+
+#peugeot_108 .hero__content--left .ch-small {
+  padding: 20px 0 0;
+}
+
+#peugeot_108 .hero__content--desktop-image {
+  display: block;
+  padding: 40px 0 0;
+}
+
+#peugeot_108 .price-band {
+  text-align: center;
+}
+
+#peugeot_108 .price-band--content {
+  padding: 30px 0;
+}
+
+#peugeot_108 .price-band--content h2 {
+  font-size: 20px;
+}
+
+#peugeot_108 .features__content {
+  padding: 50px 0;
+}
+
+#peugeot_108 .features__content h3 {
+  margin-top: 0;
+}
+
+#peugeot_108 .features__content__left {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#peugeot_108 .features__content__right {
+  text-align: center;
+  margin: 0;
+}
+
+#peugeot_108 .features__content--list .list-fix-top {
+  display: inline-block;
+  padding: 0 16px;
+}
+
+#peugeot_108 .features__content--list .list-fix-bottom {
+  display: inline-block;
+  padding: 0 16px;
+}
+
+#peugeot_108 .interior {
+  background-image: url("/cdn/images/peugeot/108/interior-sm.jpg");
+  height: 350px;
+}
+
+#peugeot_108 .interior {
+  background-image: url("/cdn/images/peugeot/108/interior-xl.jpg");
+  height: 400px;
+}
+
+#peugeot_108 .interior .ch-img--responsive {
+  display: none;
+}
+
+#peugeot_108 .colours {
+  padding: 24px 0;
+}
+
+#peugeot_108 .colours__list {
+  display: block;
+  border: none;
+}
+
+#peugeot_108 .colours__list__item {
+  width: 50%;
+}
+
+#peugeot_108 .colours__image {
+  margin-top: 70px;
+}
+
+#peugeot_108 .connected {
+  padding: 40px 0;
+}
+
+#peugeot_108 .connected {
+  padding: 50px 0;
+}
+
+#peugeot_108 .connected {
+  padding: 60px 0;
+}
+
+#peugeot_108 .connected .ch-img--responsive {
+  display: none;
+}
+
+#peugeot_108 .connected--left {
+  padding: 0 0 20px;
+}
+
+#peugeot_108 .connected--left {
+  padding: 0;
+}
+
+#peugeot_108 .connected--left {
+  padding: 24px 0;
+}
+
+#peugeot_108 .connected--right .ch-img--responsive {
+  display: block;
+}
+
+#peugeot_108 .smart {
+  background-color: none;
+  background-image: url("/cdn/images/peugeot/108/smart-sm.jpg");
+  color: #4C3653;
+  height: 400px;
+}
+
+#peugeot_108 .smart {
+  background-image: url("/cdn/images/peugeot/108/smart-xl.jpg");
+}
+
+#peugeot_108 .smart {
+  height: 425px;
+}
+
+#peugeot_108 .smart__content {
+  padding: 80px 0 0;
+}
+
+#peugeot_108 .smart__content {
+  padding: 100px 0 0;
+}
+
+#peugeot_108 .smart__content {
+  padding: 130px 0 0;
+}
+
+#peugeot_108 .deal-area__cta {
+  text-align: center;
+}

@@ -1,0 +1,68 @@
+#used-cars-for-sale .ac-usedcars__hero {
+  height: 384px;
+  padding-bottom: 0;
+}
+
+#used-cars-for-sale .ac-usedcars__hero__heading {
+  font-size: 44px;
+  line-height: 48px;
+  max-width: 420px;
+  margin-bottom: 18px;
+  margin-top: 48px;
+}
+
+#used-cars-for-sale .ac-usedcars__hero__intro {
+  display: block;
+}
+
+#used-cars-for-sale .ac-usedcars__search {
+  margin-top: 48px;
+}
+
+#used-cars-for-sale .ac-usedcars__search select {
+  margin-bottom: 0;
+}
+
+#used-cars-for-sale .ac-usedcars__usps {
+  display: block;
+}
+
+#used-cars-for-sale .ac-usedcars__usp.ac-usedcars__usp--cars-on-sale {
+  margin-bottom: 0;
+}
+
+#used-cars-for-sale .ac-usedcars__usp.ac-usedcars__usp--cars-sold {
+  margin-bottom: 0;
+}
+
+#used-cars-for-sale .ac-usedcars__usp.ac-usedcars__usp--dealerships {
+  margin-bottom: 0;
+}
+
+#used-cars-for-sale .ac-usedcars__usp.ac-usedcars__usp--years-experience {
+  margin-bottom: 0;
+}
+
+#used-cars-for-sale .ac-usedcars__type:hover {
+  border-bottom-color: #00A3E0;
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#used-cars-for-sale .ac-usedcars__type__content {
+  min-height: 132px;
+}
+
+#used-cars-for-sale .ac-usedcars__type__content {
+  min-height: 192px;
+}
+
+#used-cars-for-sale .ac-usedcars__type__content {
+  min-height: 154px;
+}
+
+#used-cars-for-sale .ac-usedcars__dealer__header {
+  -webkit-background-size: auto auto;
+  background-size: auto;
+}

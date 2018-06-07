@@ -1,0 +1,201 @@
+#drive-in-dine-out span {
+  display: block;
+}
+
+#drive-in-dine-out .section-dido {
+  padding: 30px 0;
+}
+
+#drive-in-dine-out .section-dido__form {
+  padding-top: 80px;
+}
+
+#drive-in-dine-out .ch-btn {
+  width: auto;
+  margin-right: 10px;
+}
+
+#drive-in-dine-out .ch-row {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#drive-in-dine-out .mobile-buttons {
+  display: none;
+}
+
+#drive-in-dine-out .desktop-buttons {
+  display: block;
+}
+
+#drive-in-dine-out #hero {
+  border-bottom: none;
+}
+
+#drive-in-dine-out #hero img {
+  width: 70%;
+}
+
+#drive-in-dine-out #hero img {
+  width: 100%;
+}
+
+#drive-in-dine-out #hero img {
+  width: auto;
+}
+
+#drive-in-dine-out #hero h1 {
+  margin-top: 80px;
+}
+
+#drive-in-dine-out #sticky-nav {
+  display: block;
+}
+
+#drive-in-dine-out .tinynav {
+  display: none;
+}
+
+#drive-in-dine-out .sticky--nav {
+  display: block;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+}
+
+#drive-in-dine-out .sticky--nav ul {
+  max-width: 1154px;
+  padding: 0;
+}
+
+#drive-in-dine-out .sticky--nav ul li a {
+  color: #fff;
+  font-size: 17px;
+  display: inline-block;
+  float: left;
+  border-right: solid 1px #445353;
+  margin: 0 0 -13px;
+}
+
+#drive-in-dine-out .sticky--nav ul li a:hover {
+  background-color: #262f2f;
+}
+
+#drive-in-dine-out #how-it-works .article {
+  margin-top: 20px;
+  padding: 0 70px;
+}
+
+#drive-in-dine-out #how-it-works .border-right {
+  border-right: 1px solid #e5e5e5;
+}
+
+#drive-in-dine-out #find-car .ac-segment__offer {
+  margin-bottom: 0;
+  -webkit-transition: border 0.2s ease, -webkit-transform 0.2s ease;
+  transition: border 0.2s ease, -webkit-transform 0.2s ease;
+  -o-transition: border 0.2s ease, transform 0.2s ease;
+  transition: border 0.2s ease, transform 0.2s ease;
+  transition: border 0.2s ease, transform 0.2s ease, -webkit-transform 0.2s ease;
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+}
+
+#drive-in-dine-out #find-car .ac-segment__offer:hover {
+  border-bottom-color: #0B86B5;
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#drive-in-dine-out #find-car .ac-segment__offer-image {
+  display: block;
+  float: none;
+  width: 100%;
+}
+
+#drive-in-dine-out #find-car .ac-segment__offer-car-type {
+  position: relative;
+  padding-left: 42px;
+  margin: 28px 0;
+}
+
+#drive-in-dine-out #find-car .ac-segment__offer-car-type {
+  padding-left: 56px;
+  margin: 45px 0;
+}
+
+#drive-in-dine-out #find-car .ac-segment__offer-car-type {
+  display: block;
+  float: none;
+  width: auto;
+  margin: 18px 14px;
+}
+
+#drive-in-dine-out #find-car .ac-segment__offer-car-type:before {
+  position: absolute;
+  top: -webkit-calc(50% - 16px);
+  top: calc(50% - 16px);
+  left: 7px;
+  display: block;
+  width: 30px;
+  height: 30px;
+  content: "";
+  -webkit-background-size: 30px 30px;
+  background-size: 30px;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+
+#drive-in-dine-out #find-car .ac-segment__offer-car-type:before {
+  left: 14px;
+}
+
+#drive-in-dine-out #find-car .ac-segment__offer-car-type:before {
+  top: -webkit-calc(50% - 20px);
+  top: calc(50% - 20px);
+  left: 7px;
+  width: 40px;
+  height: 40px;
+  -webkit-background-size: 40px 40px;
+  background-size: 40px;
+}
+
+#drive-in-dine-out #find-car .ac-segment__offers-slab {
+  padding: 36px 0;
+  margin: 36px 0;
+}
+
+#drive-in-dine-out #find-car .ac-segment__offers-slab {
+  padding: 48px 0;
+  margin: 48px 0;
+}
+
+#drive-in-dine-out #what-to-do h2 {
+  width: auto !important;
+}
+
+#drive-in-dine-out #restaurants .logos .restaurant {
+  height: 150px;
+}
+
+#drive-in-dine-out #restaurants .logos .restaurant {
+  height: 123px;
+}
+
+#drive-in-dine-out #restaurants .logos .restaurant {
+  height: 143px;
+}
+
+#drive-in-dine-out #restaurants .logos .restaurant {
+  height: 173px;
+}
+
+#drive-in-dine-out #restaurants .logos .restaurant img {
+  width: auto;
+}
+
+#drive-in-dine-out #outro .ch-row .cta-buttons {
+  margin-top: -40px;
+}

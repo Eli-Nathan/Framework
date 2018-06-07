@@ -1,0 +1,385 @@
+#fiat_124-spider .header {
+  background-image: url("/cdn/images/fiat/124-spider/124-spider-header.jpg");
+  background-position: center top;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+
+#fiat_124-spider .header {
+  height: 480px;
+}
+
+#fiat_124-spider .header {
+  height: 520px;
+}
+
+#fiat_124-spider .header-mobile {
+  display: none;
+}
+
+#fiat_124-spider .header-text {
+  padding-left: 0;
+}
+
+#fiat_124-spider .header-text {
+  color: #f9f8f4;
+  position: absolute;
+  top: 230px;
+}
+
+#fiat_124-spider .header-text {
+  top: 285px;
+}
+
+#fiat_124-spider .header-text {
+  top: 335px;
+}
+
+#fiat_124-spider .header-content {
+  background: transparent;
+  color: #F9F8F4;
+}
+
+#fiat_124-spider .header-background {
+  background: transparent;
+}
+
+#fiat_124-spider .anniversary {
+  margin-bottom: 34px;
+}
+
+#fiat_124-spider .anniversary {
+  margin-bottom: 0;
+}
+
+#fiat_124-spider .anniversary img {
+  max-width: 430px;
+  position: absolute;
+  top: -5px;
+}
+
+#fiat_124-spider .anniversary img {
+  max-width: 545px;
+  top: -80px;
+}
+
+#fiat_124-spider .anniversary img {
+  max-width: 625px;
+}
+
+#fiat_124-spider .anniversary-text {
+  margin-bottom: 21px;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+  background: transparent;
+}
+
+#fiat_124-spider .anniversary-text {
+  margin-top: 30px;
+  margin-bottom: 28px;
+}
+
+#fiat_124-spider .anniversary-img-sm {
+  display: none;
+}
+
+#fiat_124-spider .anniversary-img-xs {
+  display: block;
+}
+
+#fiat_124-spider .anniversary-mobile-no-background {
+  display: block;
+}
+
+#fiat_124-spider .icon {
+  background-color: #E6E6E6;
+}
+
+#fiat_124-spider .icon {
+  margin-top: 90px;
+}
+
+#fiat_124-spider .icon {
+  margin-top: 110px;
+}
+
+#fiat_124-spider .icon img {
+  margin-top: 40px;
+}
+
+#fiat_124-spider .icon img {
+  margin-bottom: 0;
+  position: absolute;
+  top: -55px;
+  max-width: 430px;
+  right: 40px;
+}
+
+#fiat_124-spider .icon img {
+  right: 90px;
+  max-width: 500px;
+  top: -75px;
+}
+
+#fiat_124-spider .icon-text h2 {
+  margin-top: 18px;
+}
+
+#fiat_124-spider .icon-text h2 {
+  margin-top: 0;
+}
+
+#fiat_124-spider .icon-text {
+  margin-top: 28px;
+  margin-bottom: 28px;
+  padding: 0;
+}
+
+#fiat_124-spider .icon-text-content p {
+  margin-bottom: 21px;
+}
+
+#fiat_124-spider .icon-text-content p {
+  margin-bottom: 0;
+}
+
+#fiat_124-spider .icon-text-background {
+  margin: 0;
+}
+
+#fiat_124-spider .gallery-1 {
+  margin-top: 28px;
+}
+
+#fiat_124-spider .gallery-1 {
+  margin-top: 130px;
+}
+
+#fiat_124-spider .gallery-1 {
+  margin-right: 28px;
+}
+
+#fiat_124-spider figure {
+  margin: 0 0 28px;
+}
+
+#fiat_124-spider figcaption {
+  display: block;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: black;
+  background: rgba(0,0,0,0.75);
+  color: white;
+  padding: 21px;
+  opacity: 0;
+  -webkit-transition: all 0.75s ease;
+  -moz-transition: all 0.75s ease;
+  -o-transition: all 0.75s ease;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+#fiat_124-spider figcaption {
+  font-size: 18px;
+  line-height: 30px;
+}
+
+#fiat_124-spider figcaption {
+  font-size: 22px;
+  line-height: 40px;
+}
+
+#fiat_124-spider .fig-img-1 {
+  padding-top: 100px;
+  line-height: 26px;
+}
+
+#fiat_124-spider .fig-img-1-text {
+  width: 400px;
+}
+
+#fiat_124-spider .fig-img-1 {
+  padding-top: 130px;
+}
+
+#fiat_124-spider .fig-img-2 {
+  padding-top: 100px;
+  line-height: 26px;
+}
+
+#fiat_124-spider .fig-img-2-text {
+  width: 400px;
+}
+
+#fiat_124-spider .fig-img-2 {
+  padding-top: 130px;
+}
+
+#fiat_124-spider .fig-img-3 {
+  padding-top: 30px;
+  line-height: 22px;
+}
+
+#fiat_124-spider .fig-img-3-text {
+  width: 300px;
+}
+
+#fiat_124-spider .fig-img-3 {
+  padding-top: 50px;
+  line-height: 28px;
+}
+
+#fiat_124-spider .fig-img-3-text {
+  width: 400px;
+}
+
+#fiat_124-spider .fig-img-4 {
+  padding-top: 85px;
+}
+
+#fiat_124-spider .fig-img-4 {
+  padding-top: 95px;
+}
+
+#fiat_124-spider .fig-img-4-text {
+  text-align: center;
+}
+
+#fiat_124-spider .fig-img-5 {
+  padding-top: 85px;
+}
+
+#fiat_124-spider .fig-img-5 {
+  padding-top: 95px;
+}
+
+#fiat_124-spider .fig-img-5-text {
+  text-align: center;
+}
+
+#fiat_124-spider .power {
+  background-color: #e6e6e6;
+}
+
+#fiat_124-spider .power {
+  margin-top: 80px;
+}
+
+#fiat_124-spider .power img {
+  margin-top: 0;
+  position: absolute;
+  top: 10px;
+}
+
+#fiat_124-spider .power img {
+  top: -30px;
+  max-width: 500px;
+  right: 20px;
+}
+
+#fiat_124-spider .power img {
+  right: 90px;
+}
+
+#fiat_124-spider .power-text {
+  margin-top: 34px;
+  padding: 0;
+  margin-bottom: 34px;
+}
+
+#fiat_124-spider .power-text-background {
+  margin: 0;
+}
+
+#fiat_124-spider .power-img-xs {
+  display: none;
+}
+
+#fiat_124-spider .power-img-sm {
+  display: block;
+}
+
+#fiat_124-spider .gallery-2 {
+  margin-top: 80px;
+}
+
+#fiat_124-spider .gallery-2 {
+  margin-right: 28px;
+}
+
+#fiat_124-spider .gallery-2-text-l {
+  height: 338px;
+  padding: 70px 21px 21px;
+  margin-top: 28px;
+}
+
+#fiat_124-spider .gallery-2-text-l {
+  padding: 70px 21px 21px;
+  margin-top: 21px;
+}
+
+#fiat_124-spider .gallery-2-text-l {
+  padding: 90px 21px 21px;
+  margin-top: 28px;
+}
+
+#fiat_124-spider .gallery-2-text-r {
+  margin-top: 28px;
+  padding: 50px 21px 21px;
+  height: 235px;
+}
+
+#fiat_124-spider .gallery-2-text-r {
+  padding: 40px 21px 21px;
+  height: 215px;
+}
+
+#fiat_124-spider .gallery-2-text-r {
+  padding: 30px 21px 21px;
+  height: 197px;
+}
+
+#fiat_124-spider .gallery-2 img {
+  margin-top: 28px;
+}
+
+#fiat_124-spider .gallery-2-img-xs {
+  display: none;
+}
+
+#fiat_124-spider .gallery-2-img-sm {
+  display: block;
+}
+
+#fiat_124-spider .bottom-btns {
+  margin-top: 21px;
+}
+
+#fiat_124-spider .bottom-btns {
+  margin-top: 28px;
+}
+
+#fiat_124-spider .old-new {
+  height: 350px;
+  margin: 28px auto 0;
+  background-color: #e6e6e6;
+}
+
+#fiat_124-spider .old-new {
+  margin: 28px auto 0;
+}
+
+#fiat_124-spider .old-new-text {
+  display: block;
+  position: absolute;
+  top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  left: 210px;
+  right: 0;
+}

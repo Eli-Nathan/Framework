@@ -1,0 +1,38 @@
+#servicing_dacia .pricing {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+#servicing_dacia .pricing {
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+#servicing_dacia th:first-child {
+  width: 65%;
+}
+
+#servicing_dacia td,
+#servicing_dacia th {
+  font-size: 16px;
+  padding: 10px 20px;
+}
+
+#servicing_dacia .cta {
+  margin-top: 40px;
+  padding: 20px;
+  border: 1px solid #e5e5e5;
+  background-color: #fff;
+}
+
+#servicing_dacia .cta__btns {
+  float: right;
+}
+
+#servicing_dacia .terms {
+  margin-top: 40px;
+}
+
+#servicing_dacia .terms__content {
+  font-size: 14px;
+}

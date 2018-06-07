@@ -1,0 +1,82 @@
+.ac-history--hero {
+  background-image: none;
+  padding: 36px 0;
+}
+
+.ac-history--hero {
+  background-image: url("/cdn/images/about-us/history/ac-history--banner.jpg");
+  padding: 48px 0;
+}
+
+.ac-history--hero {
+  padding: 80px 0;
+}
+
+.ac-history--hero .content-wrapper {
+  border: 8px solid #f2f2f2;
+  padding: 30px 36px;
+}
+
+.ac-history--navigation .history-decade--bar {
+  padding: 0;
+}
+
+.ac-history--navigation .history-decade--bar.fixed {
+  position: fixed;
+}
+
+.ac-history--navigation .history-decade--bar .ch-container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ac-history--navigation #selectAnchor {
+  display: none;
+}
+
+.ac-history--navigation .history-decade--tabs li {
+  display: inline-block;
+}
+
+.ac-history--navigation .history-decade--tabs li a {
+  padding: 18px 21px;
+}
+
+.ac-history--navigation .history-decade--tabs .history-decade--long {
+  display: block;
+}
+
+.ac-history--navigation .history-decade--tabs .history-decade--short {
+  display: none;
+}
+
+.ac-history--feature {
+  padding: 48px 0;
+}
+
+.ac-history--feature .img-overflow {
+  margin-bottom: -350px;
+}
+
+.ac-timeline {
+  margin: 0;
+  padding: 0 0 42px;
+}
+
+.ac-timeline li {
+  padding-top: 42px;
+}
+
+.ac-timeline li .ac-timeline--year {
+  left: -130px;
+  position: absolute;
+  top: 40px;
+}
+
+.ac-timeline li .ac-timeline--year-decade {
+  left: -143px;
+}
+
+.also-from--container .ac-history--link {
+  margin-bottom: 0;
+}

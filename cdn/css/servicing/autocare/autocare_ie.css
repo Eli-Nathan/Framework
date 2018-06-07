@@ -1,0 +1,60 @@
+.ch-hero {
+  padding: 24px 0;
+}
+
+#servicing_autocare .img-mobile {
+  display: none;
+}
+
+#servicing_autocare .section {
+  padding: 24px 0;
+}
+
+#servicing_autocare .ch-hero__content {
+  padding: 24px 0;
+}
+
+#servicing_autocare .ch-hero__content__heading {
+  padding-top: 48px;
+}
+
+#servicing_autocare .ch-hero__content__heading {
+  padding-top: 54px;
+}
+
+#servicing_autocare .ch-hero .icon--engine {
+  margin-top: 0;
+}
+
+#servicing_autocare .ch-hero .icon--engine {
+  height: 100px;
+  width: 200px;
+}
+
+#servicing_autocare .intro .ch-list {
+  padding-bottom: 24px;
+}
+
+#servicing_autocare .covered {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.8)), to(rgba(255,255,255,0.8))),url("/cdn/images/servicing/autocare/autocare.jpg");
+  background: -webkit-linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)),url("/cdn/images/servicing/autocare/autocare.jpg");
+  background: -o-linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)),url("/cdn/images/servicing/autocare/autocare.jpg");
+  background: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)),url("/cdn/images/servicing/autocare/autocare.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  border-top: 1px solid #e5e5e5;
+}
+
+#servicing_autocare .covered {
+  background-image: url("/cdn/images/servicing/autocare/autocare.jpg");
+}
+
+#servicing_autocare .covered__wrapper {
+  padding: 24px 0;
+}
+
+#servicing_autocare .covered__wrapper {
+  background-color: rgba(255,255,255,0.8);
+}

@@ -1,0 +1,95 @@
+#renault-scenic .ch-btn {
+  width: auto;
+  min-width: 140px;
+  margin: 5px;
+}
+
+#renault-scenic section {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#renault-scenic section.section--two-column .ch-list--tick {
+  margin-bottom: 10px;
+}
+
+#renault-scenic section .text-block {
+  margin-top: 0;
+  background: rgba(0,0,0,0.8);
+  color: #fff;
+  padding: 30px;
+}
+
+#renault-scenic section .text-block h3 {
+  padding-top: 0;
+}
+
+#renault-scenic section .text-block img {
+  display: none;
+}
+
+#renault-scenic #hero {
+  background-position: center bottom;
+}
+
+#renault-scenic #hero {
+  background: url("/cdn/images/renault/scenic/scenic-hero-bg.jpg") no-repeat center bottom #000;
+  -webkit-background-size: 122% 122%;
+  background-size: 122%;
+}
+
+#renault-scenic #hero {
+  background-position: center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#renault-scenic #hero .hero__text {
+  padding-top: 50%;
+}
+
+#renault-scenic #hero .hero__text h1 {
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+  margin-bottom: 0;
+  font-size: 70px;
+  line-height: 70px;
+}
+
+#renault-scenic #hero .hero__text h1 {
+  bottom: -11px;
+  font-size: 80px;
+  line-height: 80px;
+}
+
+#renault-scenic #hero .hero__text h1 {
+  bottom: -14px;
+  font-size: 100px;
+  line-height: 100px;
+}
+
+#renault-scenic #intro {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#renault-scenic #intro p {
+  font-size: 18px;
+  line-height: 28px;
+}
+
+#renault-scenic #adventure {
+  background: url("/cdn/images/renault/scenic/scenic-adventure-bg.jpg") no-repeat center #000;
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  padding: 100px 0;
+}
+
+#renault-scenic #grand-scenic {
+  background: url("/cdn/images/renault/scenic/grand-scenic-bg.jpg") no-repeat center #000;
+  -webkit-background-size: auto auto;
+  background-size: auto;
+  padding: 100px 0;
+}

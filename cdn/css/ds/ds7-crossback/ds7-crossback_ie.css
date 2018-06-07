@@ -1,0 +1,119 @@
+.lg-outer .lg-thumb-item {
+  -webkit-transition: border-color 0.25s ease;
+  -o-transition: border-color 0.25s ease;
+  transition: border-color 0.25s ease;
+}
+
+.ch-card--link:hover {
+  border-bottom-color: #0B86B5;
+  color: #2D3737;
+}
+
+.ch-card--link:hover h1:first-of-type,
+.ch-card--link:hover h2:first-of-type,
+.ch-card--link:hover h3:first-of-type,
+.ch-card--link:hover h4:first-of-type,
+.ch-card--link:hover h5:first-of-type,
+.ch-card--link:hover h6:first-of-type {
+  color: #0B86B5;
+}
+
+.ch-card__content {
+  padding: 15px 17.5px;
+}
+
+.ch-card__content {
+  padding: 18px 21px;
+}
+
+.ch-card__footer {
+  padding-top: 15px;
+  margin: 0 15px 17.5px;
+}
+
+.ch-card__footer {
+  padding-top: 18px;
+  margin: 0 18px 21px;
+}
+
+.ch-card--transition {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.ch-card--transition:hover {
+  -webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+
+#ds7_crossback .mobile-img {
+  display: none;
+}
+
+#ds7_crossback .section {
+  padding: 24px 0;
+}
+
+#ds7_crossback .section {
+  padding: 60px 0;
+}
+
+#ds7_crossback .hero {
+  background-image: url("/cdn/images/ds/ds7-crossback/hero-tablet.jpg");
+}
+
+#ds7_crossback .hero {
+  background-image: url("/cdn/images/ds/ds7-crossback/hero-desktop.jpg");
+}
+
+#ds7_crossback .hero__content {
+  padding: 24px 28px;
+}
+
+#ds7_crossback .exterior {
+  background-image: url("/cdn/images/ds/ds7-crossback/exterior-desktop.jpg");
+}
+
+#ds7_crossback .variants .ch-card__content {
+  min-height: 266px;
+}
+
+#ds7_crossback .variants .ch-card__content {
+  min-height: 163px;
+}
+
+#ds7_crossback .interior {
+  background-image: url("/cdn/images/ds/ds7-crossback/interior-desktop.jpg");
+  background-color: #000;
+}
+
+#ds7_crossback .performance {
+  background-image: url("/cdn/images/ds/ds7-crossback/performance-tablet.jpg");
+}
+
+#ds7_crossback .performance {
+  background-image: url("/cdn/images/ds/ds7-crossback/performance-desktop.jpg");
+}
+
+#ds7_crossback .colours__list {
+  margin: 30px 0;
+  display: block;
+  border: none;
+}
+
+#ds7_crossback .colours__list__item {
+  width: 50%;
+}
+
+#ds7_crossback .colours__image {
+  margin-top: 30px;
+}
+
+#ds7_crossback .colours__image {
+  margin-top: 0;
+}

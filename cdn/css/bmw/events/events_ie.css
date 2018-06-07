@@ -1,0 +1,218 @@
+.rep__figure {
+  min-width: 25%;
+}
+
+.rep__figure {
+  min-width: 12.5%;
+}
+
+#blks {
+  max-width: 734px;
+}
+
+#blks {
+  overflow-x: auto;
+  max-width: 954px;
+}
+
+#blks {
+  max-width: 1154px;
+}
+
+#blks .blks__scrollable {
+  width: auto;
+  min-height: 442px;
+}
+
+#blks .blks__scrollable {
+  min-height: 342px;
+}
+
+#blks .blks__column {
+  width: 50%;
+}
+
+#blks .blks__column {
+  width: 25%;
+}
+
+#blks .blks--two {
+  width: 100%;
+}
+
+#blks .blks--two {
+  width: 954px;
+  min-height: 196px;
+}
+
+#blks .blks--two {
+  width: 1154px;
+}
+
+#blks .blks--two .blks__column {
+  width: 50%;
+}
+
+#blks .blks--two .blk__details {
+  float: left;
+  padding-left: 14px;
+  width: 69.5%;
+  text-align: left;
+}
+
+#blks .blks--two .blk__img {
+  float: left;
+  width: 30.5%;
+  height: auto;
+  margin: 0;
+}
+
+#blks .blks--two .blk__model,
+#blks .blks--two .blk__variant {
+  text-align: left;
+  min-height: auto;
+}
+
+#blks .blk {
+  text-align: left;
+  margin-bottom: 28px;
+}
+
+#blks .blk {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#blks .blk__details {
+  float: left;
+  width: 69.5%;
+  padding-left: 14px;
+}
+
+#blks .blk__details {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+
+#blks .blk__details__btn {
+  float: right;
+}
+
+#blks .blk__details__btn {
+  float: none;
+}
+
+#blks .blk__model {
+  min-height: auto;
+}
+
+#blks .blk__model {
+  min-height: 50px;
+}
+
+#blks .blk__img {
+  margin-bottom: 0;
+  height: auto;
+  float: left;
+  width: 30.5%;
+}
+
+#blks .blk__img {
+  margin-bottom: 6px;
+  height: 110px;
+  float: none;
+  width: auto;
+}
+
+#bmw-events .hero__content {
+  padding: 90px 0;
+}
+
+#bmw-events .hero__content--heading {
+  font-size: 30px;
+}
+
+#bmw-events .hero__content--heading {
+  font-size: 44px;
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+}
+
+#bmw-events .hero__content--date {
+  font-size: 26px;
+}
+
+#bmw-events .hero__content--date {
+  font-size: 38px;
+  padding-bottom: 66px;
+}
+
+#bmw-events .hero__content--text {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 574px;
+}
+
+#bmw-events .feature-img {
+  padding: 78px 0;
+  background-image: url("/cdn/images/bmw/events/feature--lg.jpg");
+}
+
+#bmw-events .feature-img {
+  padding: 90px 0;
+}
+
+#bmw-events .feature-img {
+  padding: 120px 0;
+}
+
+#bmw-events .benefits {
+  padding: 36px 0;
+}
+
+#bmw-events .benefits {
+  padding: 60px 0;
+}
+
+#bmw-events .benefits__content__list--item {
+  margin: 12px 0 0;
+}
+
+#bmw-events .benefits__content__list--item:nth-child(odd) {
+  padding-left: 0;
+  padding-right: 24px;
+}
+
+#bmw-events .deals {
+  padding: 36px 0;
+}
+
+#bmw-events .deals {
+  padding: 60px 0;
+}
+
+#bmw-events .branches {
+  padding: 36px 0;
+}
+
+#bmw-events .branches {
+  padding: 60px 0;
+}
+
+#bmw-events .branches__branch {
+  margin-bottom: 0;
+}
+
+#bmw-events .branches__branch--img {
+  display: block;
+}
+
+#bmw-events .rep-example {
+  padding: 0 0 36px;
+}
+
+#bmw-events .rep-example {
+  padding: 0 0 60px;
+}
