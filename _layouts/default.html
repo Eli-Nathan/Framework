@@ -2,20 +2,20 @@
 <html lang="en-GB">
 {% include head.html %}
 <body>
-    <!--{% include header.html %}-->
+    {% include header.html %}
     {{ content }}
-    <!-- {% include footer.html %} -->
+    {% comment %} {% include footer.html %} {% endcomment %}
 </body>
 
-  <!-- {% if page.jQuery %}
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-  {% endif %}
+  {% comment %} {% if page.jQuery %} {% endcomment %}
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script> -->
+  {% comment %} {% endif %} {% endcomment %}
 
-  <script src="/cdn/scripts/layouts/acdotcom/acdotcom.js"></script>
+  <script src="/cdn/scripts/navbar/navbar.js"></script>
 
   {% if page.scripts  %}
     {% for script in page.scripts %}
-  <script src="{{ script }}"></script>
+      <script src="{{ script }}"></script>
     {% endfor %}
-  {% endif %} -->
+  {% endif %}
 </html>
