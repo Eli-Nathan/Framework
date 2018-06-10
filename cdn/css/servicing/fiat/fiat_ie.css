@@ -1,9 +1,0 @@
-#servicing_fiat .roadside-assistance {
-  background: url("/cdn/images/servicing/fiat/roadside-assistance.jpg") center center no-repeat;
-  -webkit-background-size: cover;
-  background-size: cover;
-}
-
-#servicing_fiat .roadside-assistance__mobile-image {
-  display: none;
-}

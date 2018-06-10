@@ -1,0 +1,102 @@
+@import '../_modules/grid/grid';
+.list-style--nav {
+  list-style-type: none;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.clearfix {
+    zoom:1;
+    &:before, &:after {
+        content: "\0020";
+        display: block;
+        height: 0;
+        overflow: hidden;
+    }
+    &:after {
+        clear: both;
+    }
+}
+
+// variables
+$color-primary: #40C9CC;
+$color-secondary: #0D4662;
+$white: #fff;
+$sm: 15em; // redundant?
+$lg: 32em;
+
+.btn {
+  border: 0;
+  border-radius: 2px;
+  padding: 0.5em;
+  background-color: $white;
+  color: $color-primary;
+}
+
+// navbar with clear fix, on large screens li items are inline
+.nav {
+  @extend .clearfix;
+  ul {
+    display: none;
+    margin: 0;
+    padding: 0;
+    @include media-breakpoint-up($lg) {
+      display: block;
+    }
+  }
+  &.active {
+    ul {
+      display: block;
+    }
+  }
+
+  & > ul {
+    @extend .list-style--nav;
+    margin: 0;
+    border: 0;
+    padding: 0;
+  }
+  &--top {
+  padding: 1em;
+   a {
+    color: $color-secondary;
+    text-decoration: none;
+    }
+    li {
+      margin: 1em;
+    }
+    @include media-breakpoint-up($lg) {
+      li {
+      display: inline;
+      margin: 0 1em 0 0;
+        &:last-child {
+          // prevents margin on last child
+          margin: 0;
+        }
+      }
+    }
+  }
+}
+.toggle {
+  background-color: darken($color-primary, 30%);
+  color: $color-primary;
+  float: right;
+  @extend .btn;
+  &:hover {
+    color: $white;
+  }
+  @include media-breakpoint-up($lg) {
+    display: none;
+  }
+}
+// hide toggle on larger screens
+@include media-breakpoint-up($lg) {
+  .toggle {
+    display: none;
+  }
+}
+
+.gradient {
+  background-image: radial-gradient(farthest-corner at 45px 45px , $color-primary 0%, #31CC9A 100%);
+}
