@@ -90,7 +90,7 @@ gulp.task('stylesheets', function () {
     extension: '.css'
   }))).pipe(sass({
     outputStyle: 'compressed',
-    includePaths: ['./_scss/', './_scss/_vendor/', '._scss/_grid/']
+    includePaths: ['./_scss/']
   })).on('error', function (err) {
     browserSync.notify(err.message, 10000)
     console.log(err)
