@@ -20,16 +20,22 @@ $color-secondary: #0D4662; // navbar with clear fix, on large screens li items a
 .navbar {
   @extend .clearfix;
   background-color: #fff;
-  padding: 2%;
+  padding: .5em;
+  @include media-breakpoint-up(sm) {
+    padding: 1em;
+  }
 
   &__header {
     display: flex;
     align-items: center;
     justify-content: flex-start;
     justify-content: space-between;
+    @include media-breakpoint-up(sm) {
+      display: inline;
+    }
 
     .navbar-brand {
-      display: flex;
+      display: inline;
       color: #333;
       text-decoration: none;
       justify-content: flex-start;
@@ -46,7 +52,7 @@ $color-secondary: #0D4662; // navbar with clear fix, on large screens li items a
       justify-content: flex-end;
 
       &:before {
-        font-size:20px;
+        font-size:21px;
         content:'\2630';
       }
 
@@ -62,8 +68,8 @@ $color-secondary: #0D4662; // navbar with clear fix, on large screens li items a
   &__collapse {
     max-height: 0;
     overflow: hidden;
-    transition: .5s;
     @include media-breakpoint-up(sm) {
+      display:inline;
       max-height: 100vh;
       background-color: #fff;
     }
@@ -73,11 +79,14 @@ $color-secondary: #0D4662; // navbar with clear fix, on large screens li items a
       margin: 0;
       border: 0;
       padding: 0;
+      @include media-breakpoint-up(sm) {
+        display: inline;
+      }
 
       li {
         @include media-breakpoint-up(sm) {
           display: inline;
-          margin: 0 1em;
+          margin-right: 1em;
 
           &:last-child {
             // prevents margin on last child
@@ -97,14 +106,13 @@ $color-secondary: #0D4662; // navbar with clear fix, on large screens li items a
 
     .toggle {
       &:before {
-        font-size:21px;
         content:'\2715';
       }
     }
 
     .navbar__collapse {
+      transition: 1s;
       max-height: 100vh;
-      transition: .5s;
     }
   }
 }
