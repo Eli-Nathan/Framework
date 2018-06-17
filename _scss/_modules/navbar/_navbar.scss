@@ -39,6 +39,7 @@ $color-secondary: #0D4662; // navbar with clear fix, on large screens li items a
       color: #333;
       text-decoration: none;
       justify-content: flex-start;
+      margin-right: 1em;
     }
 
     .toggle {
@@ -84,13 +85,14 @@ $color-secondary: #0D4662; // navbar with clear fix, on large screens li items a
       }
 
       li {
+        padding: .25em 0;
         @include media-breakpoint-up(sm) {
           display: inline;
           margin-right: 1em;
 
           &:last-child {
             // prevents margin on last child
-            margin: 0;
+            margin-right: 0;
           }
         }
 
